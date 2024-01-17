@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-01-17 01:09:33)
+## Free Telegram Proxy (Last Update: 2024-01-17 01:39:34)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=94.130.66.173&port=7443&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 2](tg://proxy?server=49.13.33.228&port=7443&secret=AAAAAAAAAAAAAAAAAAAAABQ%3D)
@@ -71,7 +71,6 @@
 #### [Proxy 5](tg://proxy?server=148.251.224.225&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 6](tg://proxy?server=5.75.233.48&port=7443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 7](tg://proxy?server=135.181.99.188&port=7443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
-#### [Proxy 8](tg://proxy?server=148.251.224.177&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==)
 ### [Myporoxy](https://t.me/Myporoxy)
 #### [Proxy 1](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.now_sudo.rm.again_to_fight.everyone.i_am.the_internet.chang-mang.sbs.&port=4550&secret=FpABAiIBhwH8AwOG42xL3Q==)
 #### [Proxy 2](tg://proxy?server=Cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.now_sudo.rm.again_to_fight.everyone.i_am.the_internet.radical-one.sbs.&port=4550&secret=FpABAiIBhwH8AwOG42xL3Q==)
@@ -81,9 +80,8 @@
 #### [Proxy 6](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.now_sudo.rm.again_to_fight.everyone.i_am.the_internet.chang-mang.sbs.&port=4550&secret=FpABAiIBhwH8AwOG42xL3Q==)
 #### [Proxy 7](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.now_sudo.rm.again_to_fight.everyone.i_am.the_internet.chang-mang.sbs.&port=4550&secret=FpABAiIBhwH8AwOG42xL3Q==)
 #### [Proxy 8](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.now_sudo.rm.again_to_fight.everyone.i_am.the_internet.chang-mang.sbs.&port=4550&secret=FpABAiIBhwH8AwOG42xL3Q==)
-#### [Proxy 9](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.now_sudo.rm.again_to_fight.everyone.i_am.the_internet.chang-mang.sbs.&port=4550&secret=FpABAiIBhwH8AwOG42xL3Q==)
-#### [Proxy 10](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.now_sudo.rm.again_to_fight.everyone.i_am.the_internet.ranking-mood.sbs.&port=4550&secret=FpABAiIBhwH8AwOG42xL3Q==)
-#### [Proxy 11](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.now_sudo.rm.again_to_fight.everyone.i_am.the_internet.chang-mang.sbs.&port=4550&secret=FpABAiIBhwH8AwOG42xL3Q==)
+#### [Proxy 9](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.now_sudo.rm.again_to_fight.everyone.i_am.the_internet.ranking-mood.sbs.&port=4550&secret=FpABAiIBhwH8AwOG42xL3Q==)
+#### [Proxy 10](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.now_sudo.rm.again_to_fight.everyone.i_am.the_internet.chang-mang.sbs.&port=4550&secret=FpABAiIBhwH8AwOG42xL3Q==)
 ### [proxyforopeta](https://t.me/proxyforopeta)
 #### [Proxy 1](tg://proxy?server=185.222.28.176&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 2](tg://proxy?server=148.251.29.121&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==)
@@ -94,6 +92,5 @@
 #### [Proxy 7](tg://proxy?server=185.222.28.176&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 8](tg://proxy?server=135.181.99.188&port=7443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 9](tg://proxy?server=81.171.1.236&port=443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
-#### [Proxy 10](tg://proxy?server=5.75.254.4&port=2053&secret=RXI_kpOSJ5XT_ZMuOnMvww==)
 
     
