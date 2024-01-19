@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-01-19 23:09:45)
+## Free Telegram Proxy (Last Update: 2024-01-19 23:39:43)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=49.13.164.141&port=7443&secret=AAAAAAAAAAAAAAAAAAAAABQ%3D)
 #### [Proxy 2](tg://proxy?server=49.13.167.98&port=7443&secret=AAAAAAAAAAAAAAAAAAAAABQ%3D)
@@ -12,8 +12,8 @@
 #### [Proxy 8](tg://proxy?server=49.13.164.160&port=7443&secret=AAAAAAAAAAAAAAAAAAAAABQ%3D)
 #### [Proxy 9](tg://proxy?server=168.119.152.104&port=7443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 10](tg://proxy?server=BENZ-PORCSHE.IR.543-benz-amg.com-David.Com.Ir.Pasargad.tk-gq.xyz-ml-Tk.co.Uk.yachts12-line.co.uk.&port=7443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
-#### [Proxy 11](tg://proxy?server=Cloudflare.com.Nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.now_sudo.rm.again_to_fight.everyone.i_am.the_internet.last-life.sbs.&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
-#### [Proxy 12](tg://proxy?server=Cloudflare.com.Nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.now_sudo.rm.again_to_fight.everyone.i_am.the_internet.my-pv.sbs.&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
+#### [Proxy 11](tg://proxy?server=Cloudflare.com.Nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.now_sudo.rm.again_to_fight.everyone.i_am.the_internet.my-pv.sbs.&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
+#### [Proxy 12](tg://proxy?server=Cloudflare.com.Nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.now_sudo.rm.again_to_fight.everyone.i_am.the_internet.last-life.sbs.&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 13](tg://proxy?server=upstabriz.com.persian-gas.ir.hamgamceram.com.farayandtarh.com.khaletara.ir.mahdayat313.ir.onlineresearch.ir.rosehotel.ir.icc-co.ir.r-shakeri.ir.kheyriealzahra.ir.decoracione.ir.amlakeshahresaheli.com.madahyar.ir.ikamarket.com.hamaco.ir.marlinbilding.sbs.&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY%3D)
 #### [Proxy 14](tg://proxy?server=176.9.109.228&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 15](tg://proxy?server=142.132.129.94&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
