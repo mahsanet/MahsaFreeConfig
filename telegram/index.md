@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-01-20 01:09:46)
+## Free Telegram Proxy (Last Update: 2024-01-20 01:39:54)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=49.13.164.141&port=7443&secret=AAAAAAAAAAAAAAAAAAAAABQ%3D)
 #### [Proxy 2](tg://proxy?server=49.13.167.98&port=7443&secret=AAAAAAAAAAAAAAAAAAAAABQ%3D)
@@ -84,7 +84,6 @@
 #### [Proxy 12](tg://proxy?server=88.198.15.168&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 13](tg://proxy?server=49.12.108.47&port=443&secret=FgMBAgABAAH8AwOG4kw63QMTAxLmRpdmFyY2RuLmNvbRYDAQIAAQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 14](tg://proxy?server=65.21.242.18&port=443&secret=3fQ1mpsyX_HR5QhN8OD3U3s)
-#### [Proxy 15](tg://proxy?server=49.13.167.98&port=7443&secret=AAAAAAAAAAAAAAAAAAAAABQ%3D)
 ### [Myporoxy](https://t.me/Myporoxy)
 #### [Proxy 1](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.now_sudo.rm.www.bale.ir.nic.ir.again_to_fight.everyone.i_am.the_internet.berayan-cats-1o0oz.sbs&port=8770&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 2](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.now_sudo.rm.again_to_fight.everyone.i_am.the_internet.ranking-mood.sbs.&port=4550&secret=FpABAiIBhwH8AwOG42xL3Q==)
