@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-02-03 02:40:07)
+## Free Telegram Proxy (Last Update: 2024-02-03 03:09:25)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=49.13.204.159&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 2](tg://proxy?server=128.140.86.29&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
@@ -62,6 +62,8 @@
 #### [Proxy 10](tg://proxy?server=178.63.89.175&port=6&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 11](tg://proxy?server=88.99.250.220&port=6&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 12](tg://proxy?server=46.4.78.150&port=6&secret=FgMBAgABAAH8AwOG4kw63Q==)
+#### [Proxy 13](tg://proxy?server=95.217.78.206&port=250&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
+#### [Proxy 14](tg://proxy?server=195.201.164.100&port=250&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 ### [Myporoxy](https://t.me/Myporoxy)
 #### [Proxy 1](tg://proxy?server=116.202.26.17&port=8770&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 2](tg://proxy?server=49.12.215.32&port=8770&secret=FgMBAgABAAH8AwOG4kw63Q==)
@@ -76,10 +78,9 @@
 #### [Proxy 11](tg://proxy?server=49.12.215.32&port=8770&secret=FgMBAgABAAH8AwOG4kw63Q==)
 ### [proxyforopeta](https://t.me/proxyforopeta)
 #### [Proxy 1](tg://proxy?server=178.63.89.175&port=6&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
-#### [Proxy 2](tg://proxy?server=157.90.154.166&port=2024&secret=FgMBAgABAAH8AwOG4kw63Q==)
-#### [Proxy 3](tg://proxy?server=5.9.231.190&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==)
-#### [Proxy 4](tg://proxy?server=49.13.125.130&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
-#### [Proxy 5](tg://proxy?server=178.63.89.175&port=6&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
-#### [Proxy 6](tg://proxy?server=195.201.196.18&port=250&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
+#### [Proxy 2](tg://proxy?server=5.9.231.190&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==)
+#### [Proxy 3](tg://proxy?server=49.13.125.130&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
+#### [Proxy 4](tg://proxy?server=178.63.89.175&port=6&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
+#### [Proxy 5](tg://proxy?server=195.201.196.18&port=250&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 
     
