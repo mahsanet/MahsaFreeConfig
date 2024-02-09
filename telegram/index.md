@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-02-09 05:09:14)
+## Free Telegram Proxy (Last Update: 2024-02-09 05:39:09)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=88.198.2.20&port=7443&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 2](tg://proxy?server=94.130.12.232&port=7443&secret=FgMBAgABAAH8AwOG4kw63Q==)
@@ -58,7 +58,7 @@
 #### [Proxy 5](tg://proxy?server=144.76.243.100&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 6](tg://proxy?server=148.251.243.20&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 7](tg://proxy?server=188.40.244.165&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==)
-#### [Proxy 8](tg://proxy?server=88.99.250.220&port=6&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
+#### [Proxy 8](tg://proxy?server=195.201.164.86&port=6&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 9](tg://proxy?server=94.130.204.27&port=250&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 10](tg://proxy?server=159.69.62.50&port=250&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 11](tg://proxy?server=195.201.246.151&port=250&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
@@ -79,5 +79,6 @@
 #### [Proxy 1](tg://proxy?server=178.63.89.175&port=6&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 2](tg://proxy?server=157.90.154.166&port=2024&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 3](tg://proxy?server=5.9.231.190&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==)
+#### [Proxy 4](tg://proxy?server=49.13.125.130&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 
     
