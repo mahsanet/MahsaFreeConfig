@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-02-15 03:39:16)
+## Free Telegram Proxy (Last Update: 2024-02-15 04:09:17)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=www.indiahandmade.sbs.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20%3D)
 #### [Proxy 2](tg://proxy?server=49.13.29.147&port=443&secret=3fQ1mpsyX_HR5QhN8OD3U3s)
