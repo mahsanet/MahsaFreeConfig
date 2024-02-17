@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-02-17 03:09:14)
+## Free Telegram Proxy (Last Update: 2024-02-17 03:39:24)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=188.34.158.17&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 2](tg://proxy?server=162.55.163.128&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==)
@@ -15,7 +15,6 @@
 #### [Proxy 11](tg://proxy?server=188.40.73.209&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 12](tg://proxy?server=23.88.70.123&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 13](tg://proxy?server=95.216.7.13&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
-#### [Proxy 14](tg://proxy?server=5.75.156.60&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 ### [iRoProxy](https://t.me/iRoProxy)
 #### [Proxy 1](tg://proxy?server=195.201.109.238&port=250&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 2](tg://proxy?server=195.201.109.31&port=250&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
@@ -77,7 +76,7 @@
 #### [Proxy 14](tg://proxy?server=cloudflare.com.nokia.com.web.rubika.ir.hector-mector.info&port=2040&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 15](tg://proxy?server=136.243.175.156&port=6550&secret=FpABAiIBhwH8AwOG42xL3Q==)
 ### [proxyforopeta](https://t.me/proxyforopeta)
-#### [Proxy 1](tg://proxy?server=157.90.154.166&port=2024&secret=FgMBAgABAAH8AwOG4kw63Q==)
-#### [Proxy 2](tg://proxy?server=5.9.231.190&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==)
+#### [Proxy 1](tg://proxy?server=5.9.231.190&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==)
+#### [Proxy 2](tg://proxy?server=49.13.125.130&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 
     
