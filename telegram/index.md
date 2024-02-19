@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-02-19 22:39:14)
+## Free Telegram Proxy (Last Update: 2024-02-19 23:09:12)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=95.216.10.26&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 2](tg://proxy?server=PROXY.NAB.BENZ-PORCSHE.IR.8443-benz-amg.com-David.Com.Ir.Pasargad.tk-gq.xyz-ml-Tk.co.Uk.ibm-kasi.co.uk.&port=7443&secret=AAAAAAAAAAAAAAAAAAAAACQ=)
@@ -69,8 +69,9 @@
 #### [Proxy 12](tg://proxy?server=141.95.101.170&port=6550&secret=FpABAiIBhwH8AwOG42xL3Q==)
 #### [Proxy 13](tg://proxy?server=57.128.85.52&port=6550&secret=FpABAiIBhwH8AwOG42xL3Q==)
 #### [Proxy 14](tg://proxy?server=138.201.141.98&port=6550&secret=FpABAiIBhwH8AwOG42xL3Q==)
-#### [Proxy 15](tg://proxy?server=57.128.85.52&port=6550&secret=FpABAiIBhwH8AwOG42xL3Q==)
+#### [Proxy 15](tg://proxy?server=cloudflare.com.nokia.com.web.rubika.ir.feranchesko.info&port=3443&secret=FpABAiIBhwH8AwOG42xL3Q==)
 ### [proxyforopeta](https://t.me/proxyforopeta)
 #### [Proxy 1](tg://proxy?server=157.90.154.166&port=2024&secret=FgMBAgABAAH8AwOG4kw63Q==)
+#### [Proxy 2](tg://proxy?server=5.9.231.190&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==)
 
     
