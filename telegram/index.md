@@ -1,10 +1,10 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-02-21 02:09:19)
+## Free Telegram Proxy (Last Update: 2024-02-21 02:39:18)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=now.lets.begin.we.are.here.123.456.789.111.iranhosevernserver.ir.hosting.mihanwebhost.com.hostiran.net.irwebhost.netdigikala.co.ejhost.ir.west.com.bhostingtalk.ir.xlhost.com.gmail.com.google.com.digikala.com.cloudflare.Slow.Fast.com.notthis1.canadel.sbs.&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
-#### [Proxy 2](tg://proxy?server=now3.let2s.be-gin.we.ar-e.he-re.12-3.456.78-9.111.iran-hosevernserver.ir.hosting.mihanwebhost.com.hostiran.net.irwebhost.net.ejhost.ir.west.com.bhostingtalk.ir.xlhost.com.gmail.com.google.com.digika-la.com.cloudflare.hisarmyad.northamericancrystal.space.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20%3D)
-#### [Proxy 3](tg://proxy?server=INTHEN-AMEO.FG-ODHEL.OO.4813-cilo-nhj.org-panje.opg.ir.irhashtash.ml-pz.cfd-hb-pu.co.uk.bloS-7iKs.inFo.&port=7443&secret=AAAAAAAAAAAAAAAAAAAAABQ=)
+#### [Proxy 2](tg://proxy?server=now.lets.begin.we.are.here.123.456.789.111.iranhosevernserver.ir.hosting.mihanwebhost.com.hostiran.net.irwebhost.net.ejhost.ir.west.com.bhostingtalk.ir.xlhost.com.gmail.com.google.com.digikala.com.cloudflare.Slow.Fast.com.notthis1.my100yearoldhome.space.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20%3D)
+#### [Proxy 3](tg://proxy?server=now3.let2s.be-gin.we.ar-e.he-re.12-3.456.78-9.111.iran-hosevernserver.ir.hosting.mihanwebhost.com.hostiran.net.irwebhost.net.ejhost.ir.west.com.bhostingtalk.ir.xlhost.com.gmail.com.google.com.digika-la.com.cloudflare.hisarmyad.northamericancrystal.space.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20%3D)
 #### [Proxy 4](tg://proxy?server=89.35.131.2&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 5](tg://proxy?server=89.35.131.3&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 6](tg://proxy?server=89.35.131.4&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
