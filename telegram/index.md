@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-02-23 02:39:11)
+## Free Telegram Proxy (Last Update: 2024-02-23 03:09:11)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=148.251.179.251&port=88&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 2](tg://proxy?server=I.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.cyruscrafts.space.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20%3D)
@@ -16,7 +16,6 @@
 #### [Proxy 12](tg://proxy?server=167.235.248.229&port=443&secret=3fQ1mpsyX_HR5QhN8OD3U3s)
 #### [Proxy 13](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.lami-limi.sbs.&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 14](tg://proxy?server=dgco.ir.zhikmezon.ir.samanads.com.harajierooz.ir.zhikgallery.ir.kalamaj.ir.pencopower.com.persianvoipshop.ir.saba-ig.ir.openscript.ir.karnosazeh.com.fro20.com.bornapardaz.net.amoohasan.com.truncata.ir.pishgaman-modern.com.justdigital.ir.ariashopping.sbs.&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY%3D)
-#### [Proxy 15](tg://proxy?server=mlds.ir.dargahtablighat.com.partotabe_sh.ir.artiranshop.com.printsobhan.com.z_an_aax.ir.aminovip.ir.yas-star.com.ebrahimahmadi.com.irannewsletter.ir.bea.ir.bahardl.ir.beekhabar.ir.nanosang.ir.hbbsmarthome.ir.rahamusic.com.sinatadbir.com.ariashopping.sbs&port=443&secret=eeda411655b684fe87abf58ec2235e28166b65746161626f6e6c696e652e636f6d)
 ### [ProxyHagh](https://t.me/ProxyHagh)
 #### [Proxy 1](tg://proxy?server=95.216.52.7&port=8280&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 2](tg://proxy?server=95.216.52.8&port=443&secret=ee1603010200010001fc030386e24c3add63646e2e74676a752e6f7267)
