@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-02-26 00:39:13)
+## Free Telegram Proxy (Last Update: 2024-02-26 01:09:09)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=I.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.finnishdesignshop.space.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20%3D)
 #### [Proxy 2](tg://proxy?server=89.35.131.8&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
@@ -26,12 +26,12 @@
 ### [iRoProxy](https://t.me/iRoProxy)
 #### [Proxy 1](tg://proxy?server=212.32.229.235&port=250&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 2](tg://proxy?server=159.69.62.58&port=250&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
-#### [Proxy 3](tg://proxy?server=144.76.237.2&port=250&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
-#### [Proxy 4](tg://proxy?server=46.4.78.179&port=250&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
-#### [Proxy 5](tg://proxy?server=176.9.39.106&port=6&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
-#### [Proxy 6](tg://proxy?server=146.59.237.114&port=250&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
-#### [Proxy 7](tg://proxy?server=146.59.237.123&port=250&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
-#### [Proxy 8](tg://proxy?server=146.59.158.139&port=250&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
+#### [Proxy 3](tg://proxy?server=178.63.89.151&port=250&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
+#### [Proxy 4](tg://proxy?server=144.76.237.2&port=250&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
+#### [Proxy 5](tg://proxy?server=46.4.78.179&port=250&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
+#### [Proxy 6](tg://proxy?server=176.9.39.106&port=6&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
+#### [Proxy 7](tg://proxy?server=146.59.237.114&port=250&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
+#### [Proxy 8](tg://proxy?server=146.59.237.123&port=250&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 9](tg://proxy?server=95.216.42.159&port=250&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 10](tg://proxy?server=144.76.224.91&port=250&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 11](tg://proxy?server=176.9.238.184&port=250&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
@@ -88,5 +88,6 @@
 ### [proxyforopeta](https://t.me/proxyforopeta)
 #### [Proxy 1](tg://proxy?server=157.90.154.166&port=2024&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 2](tg://proxy?server=5.9.231.190&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==)
+#### [Proxy 3](tg://proxy?server=49.13.125.130&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 
     
