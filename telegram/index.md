@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-03-05 10:39:14)
+## Free Telegram Proxy (Last Update: 2024-03-05 11:09:10)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=89.35.131.24&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 2](tg://proxy?server=188.165.71.7&port=443&secret=3fQ1mpsyX_HR5QhN8OD3U3s)
@@ -15,8 +15,7 @@
 #### [Proxy 11](tg://proxy?server=95.216.61.139&port=8280&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 12](tg://proxy?server=PROXY.NAB.BENZ-PORCSHE.IR.8443-benz-amg.com-David.Com.Ir.Pasargad.tk-gq.xyz-ml-Tk.co.Uk.ibm-kasi.co.uk.&port=7443&secret=AAAAAAAAAAAAAAAAAAAAACQ=)
 #### [Proxy 13](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.run-fast.sbs.&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q==)
-#### [Proxy 14](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.so-what.sbs.&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q)
-#### [Proxy 15](tg://proxy?server=65.21.58.0&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
+#### [Proxy 14](tg://proxy?server=159.69.1.228&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 ### [ProxyHagh](https://t.me/ProxyHagh)
 #### [Proxy 1](tg://proxy?server=95.216.61.131&port=8280&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 2](tg://proxy?server=95.216.61.131&port=8280&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
@@ -87,5 +86,7 @@
 #### [Proxy 15](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.voxin-moxin.sbs.&port=1201&secret=FpABAiIBhwH8AwOG42xL3Q==)
 ### [proxyforopeta](https://t.me/proxyforopeta)
 #### [Proxy 1](tg://proxy?server=157.90.154.166&port=2024&secret=FgMBAgABAAH8AwOG4kw63Q==)
+#### [Proxy 2](tg://proxy?server=5.9.231.190&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==)
+#### [Proxy 3](tg://proxy?server=49.13.125.130&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 
     
