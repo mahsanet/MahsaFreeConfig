@@ -1,14 +1,14 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-03-10 04:39:14)
+## Free Telegram Proxy (Last Update: 2024-03-10 05:09:14)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=89.35.131.33&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 2](tg://proxy?server=89.35.131.22&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 3](tg://proxy?server=89.35.131.24&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 4](tg://proxy?server=89.35.131.2&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 5](tg://proxy?server=89.35.131.5&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
-#### [Proxy 6](tg://proxy?server=89.35.131.29&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
-#### [Proxy 7](tg://proxy?server=www.fireworkscrazy.sbs.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20%3D)
+#### [Proxy 6](tg://proxy?server=89.35.131.8&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
+#### [Proxy 7](tg://proxy?server=89.35.131.29&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 8](tg://proxy?server=www.centuryply.sbs.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20%3D)
 #### [Proxy 9](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.nex-gen.sbs.&port=0000000000000000000000000000000000000000000000000000000000000000000000000000003443&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 10](tg://proxy?server=116.203.178.240&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
@@ -81,7 +81,5 @@
 #### [Proxy 11](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.acrtros-barobas.sbs.&port=4550&secret=FpABAiIBhwH8AwOG42xL3Q==)
 #### [Proxy 12](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.now_sudo.again_to_fight.everyone.i_am.the_internet.public-network.sbs.&port=2040&secret=FpABAiIBhwH8AwOG42xL3Q==)
 #### [Proxy 13](tg://proxy?server=cloudflare.com.nokia.com.web.rubika.ir.maykel-borg.info&port=9060&secret=FgMBAgABAAH8AwOG4kw63Q==)
-### [proxyforopeta](https://t.me/proxyforopeta)
-#### [Proxy 1](tg://proxy?server=5.9.231.190&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==)
 
     
