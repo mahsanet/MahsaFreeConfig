@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-03-24 03:39:03)
+## Free Telegram Proxy (Last Update: 2024-03-24 04:09:05)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.con-bat.sbs.&port=0000000000000000000000000000000000000000000000000000000000000000000000000000003443&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 2](tg://proxy?server=64.52.81.163&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
@@ -38,6 +38,7 @@
 #### [Proxy 8](tg://proxy?server=212.32.229.235&port=250&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 9](tg://proxy?server=159.69.62.58&port=250&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 10](tg://proxy?server=178.63.89.151&port=250&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
+#### [Proxy 11](tg://proxy?server=146.59.237.113&port=250&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 ### [PinkProxy](https://t.me/PinkProxy)
 #### [Proxy 1](tg://proxy?server=144.76.58.242&port=4045&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 2](tg://proxy?server=5.9.57.250&port=4045&secret=FgMBAgABAAH8AwOG4kw63Q==)
