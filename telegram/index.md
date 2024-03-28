@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-03-28 02:39:09)
+## Free Telegram Proxy (Last Update: 2024-03-28 03:09:11)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=37.27.28.80&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 2](tg://proxy?server=91.107.143.75&port=443&secret=3fQ1mpsyX_HR5QhN8OD3U3s)
@@ -16,6 +16,7 @@
 #### [Proxy 12](tg://proxy?server=DODGE-JEEP.IR.963-dodge-amf.com-rullet.CoM.iR.graysea.tK-ml.alert-GL-Tk.co.Uk.power-shell.sbs.&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 13](tg://proxy?server=64.52.81.80&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 14](tg://proxy?server=INTHEN-AMEO.FG-ODHEL.OO.4813-cilo-nhj.org-pabje.org.ir.irhashtash.ml-pz.cfd-hb-pu.co.uk.blOs-0iks.inFo.&port=7443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
+#### [Proxy 15](tg://proxy?server=BESTPI-NGIN.TH-ETELE.GR.4813-cilo-nhj.org-pabje.org.ir.irhashtash.ml-pz.cfd-hb-pu.co.uk.blOs-1iks.inFo.&port=7443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 ### [ProxyHagh](https://t.me/ProxyHagh)
 #### [Proxy 1](tg://proxy?server=65.21.70.131&port=8280&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 2](tg://proxy?server=65.21.70.131&port=8280&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
