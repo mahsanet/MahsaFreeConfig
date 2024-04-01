@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-04-01 13:39:10)
+## Free Telegram Proxy (Last Update: 2024-04-01 14:09:31)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=89.35.131.25&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 2](tg://proxy?server=89.35.131.5&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
@@ -14,8 +14,8 @@
 #### [Proxy 10](tg://proxy?server=168.119.165.9&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 11](tg://proxy?server=128.140.37.208&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 12](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.sam-sim.co.uk.&port=0000000000000000000000000000000000000000000000000000000000000000000000000000003443&secret=FgMBAgABAAH8AwOG4kw63Q==)
-#### [Proxy 13](tg://proxy?server=136.243.133.186&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==)
-#### [Proxy 14](tg://proxy?server=142.132.201.180&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==)
+#### [Proxy 13](tg://proxy?server=172.232.146.224&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==)
+#### [Proxy 14](tg://proxy?server=172.232.159.183&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==)
 ### [ProxyHagh](https://t.me/ProxyHagh)
 #### [Proxy 1](tg://proxy?server=65.21.70.131&port=8280&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 2](tg://proxy?server=65.21.70.131&port=8280&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
@@ -80,11 +80,5 @@
 #### [Proxy 7](tg://proxy?server=195.74.93.5&port=6550&secret=FpABAiIBhwH8AwOG42xL3Q==)
 #### [Proxy 8](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.mr-rango.sbs.&port=8770&secret=FpABAiIBhwH8AwOG42xL3Q==)
 #### [Proxy 9](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.voxin-moxin.sbs.&port=1201&secret=FpABAiIBhwH8AwOG42xL3Q==)
-#### [Proxy 10](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.acrtros-barobas.sbs.&port=4550&secret=FpABAiIBhwH8AwOG42xL3Q==)
-#### [Proxy 11](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.regdal-cats.sbs.&port=7667&secret=FpABAiIBhwH8AwOG42xL3Q==)
-#### [Proxy 12](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.now_sudo.again_to_fight.everyone.i_am.the_internet.public-network.sbs.&port=2040&secret=FpABAiIBhwH8AwOG42xL3Q==)
-#### [Proxy 13](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.mr-rango.sbs.&port=8770&secret=FpABAiIBhwH8AwOG42xL3Q==)
-#### [Proxy 14](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.voxin-moxin.sbs.&port=1201&secret=FpABAiIBhwH8AwOG42xL3Q==)
-#### [Proxy 15](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.acrtros-barobas.sbs.&port=4550&secret=FpABAiIBhwH8AwOG42xL3Q==)
 
     
