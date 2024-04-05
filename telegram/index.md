@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-04-05 07:39:11)
+## Free Telegram Proxy (Last Update: 2024-04-05 08:09:11)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=94.130.48.173&port=7443&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 2](tg://proxy?server=89.35.131.71&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
@@ -14,8 +14,8 @@
 #### [Proxy 10](tg://proxy?server=cloudflare.co.nokia.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.co.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.sam-sim.co.uk.&port=0000000000000000000000000000000000000000000000000000000000000000000000000000003443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 11](tg://proxy?server=65.21.70.144&port=8280&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 12](tg://proxy?server=65.21.70.147&port=8280&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
-#### [Proxy 13](tg://proxy?server=94.130.48.173&port=7443&secret=FgMBAgABAAH8AwOG4kw63Q==)
-#### [Proxy 14](tg://proxy?server=94.130.48.173&port=7443&secret=FgMBAgABAAH8AwOG4kw63Q==)
+#### [Proxy 13](tg://proxy?server=94.130.235.180&port=7443&secret=FgMBAgABAAH8AwOG4kw63Q==)
+#### [Proxy 14](tg://proxy?server=94.130.39.101&port=7443&secret=FgMBAgABAAH8AwOG4kw63Q==)
 ### [ProxyHagh](https://t.me/ProxyHagh)
 #### [Proxy 1](tg://proxy?server=65.21.70.144&port=8280&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 2](tg://proxy?server=65.21.70.144&port=8280&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
@@ -37,7 +37,6 @@
 #### [Proxy 7](tg://proxy?server=146.59.237.113&port=250&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 8](tg://proxy?server=195.201.246.151&port=250&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 9](tg://proxy?server=212.32.229.235&port=250&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
-#### [Proxy 10](tg://proxy?server=178.63.89.151&port=250&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 ### [PinkProxy](https://t.me/PinkProxy)
 #### [Proxy 1](tg://proxy?server=138.201.127.142&port=4045&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 2](tg://proxy?server=5.9.57.250&port=4045&secret=FgMBAgABAAH8AwOG4kw63Q==)
@@ -92,6 +91,5 @@
 #### [Proxy 7](tg://proxy?server=185.222.28.45&port=8085&secret=FpABAiIBhwH8AwOG42xL3Q==)
 #### [Proxy 8](tg://proxy?server=185.31.175.165&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 9](tg://proxy?server=95.217.217.193&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==)
-#### [Proxy 10](tg://proxy?server=91.142.73.75&port=2036&secret=FgMBAgABAAH8AwOG4kw63Q==)
 
     
