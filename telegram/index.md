@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-04-05 02:09:14)
+## Free Telegram Proxy (Last Update: 2024-04-05 02:39:14)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=89.35.131.56&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 2](tg://proxy?server=65.21.70.144&port=8280&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
@@ -83,12 +83,13 @@
 #### [Proxy 13](tg://proxy?server=195.74.93.5&port=6550&secret=FpABAiIBhwH8AwOG42xL3Q==)
 #### [Proxy 14](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.mr-rango.sbs.&port=8770&secret=FpABAiIBhwH8AwOG42xL3Q==)
 ### [proxyforopeta](https://t.me/proxyforopeta)
-#### [Proxy 1](tg://proxy?server=94.130.39.101&port=7443&secret=FgMBAgABAAH8AwOG4kw63Q==)
-#### [Proxy 2](tg://proxy?server=BUGATTI-KIA.IR.463-kia-ams.com-professor.coM.IR.greensea.GQ-tK.space-mL-gA.Co.uk.medical-compass.sbs.&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q==)
-#### [Proxy 3](tg://proxy?server=195.74.93.5&port=6550&secret=FpABAiIBhwH8AwOG42xL3Q==)
-#### [Proxy 4](tg://proxy?server=89.35.131.55&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==)
-#### [Proxy 5](tg://proxy?server=89.35.131.33&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==)
-#### [Proxy 6](tg://proxy?server=88.99.186.73&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==)
-#### [Proxy 7](tg://proxy?server=49.13.139.7&port=65097&secret=FgMBAgABAAH8AwOG4kw63Q==)
+#### [Proxy 1](tg://proxy?server=49.13.139.7&port=65097&secret=FgMBAgABAAH8AwOG4kw63Q==)
+#### [Proxy 2](tg://proxy?server=95.217.118.144&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==)
+#### [Proxy 3](tg://proxy?server=185.222.28.45&port=8085&secret=FpABAiIBhwH8AwOG42xL3Q==)
+#### [Proxy 4](tg://proxy?server=185.31.175.165&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==)
+#### [Proxy 5](tg://proxy?server=89.35.131.65&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==)
+#### [Proxy 6](tg://proxy?server=89.35.131.68&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==)
+#### [Proxy 7](tg://proxy?server=95.217.217.193&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==)
+#### [Proxy 8](tg://proxy?server=91.142.73.75&port=2036&secret=FgMBAgABAAH8AwOG4kw63Q==)
 
     
