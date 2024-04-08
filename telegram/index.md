@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-04-08 00:39:07)
+## Free Telegram Proxy (Last Update: 2024-04-08 01:09:08)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=65.21.61.120&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 2](tg://proxy?server=65.21.145.232&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
@@ -66,10 +66,9 @@
 #### [Proxy 8](tg://proxy?server=167.235.114.137&port=250&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 9](tg://proxy?server=46.4.78.170&port=6&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 10](tg://proxy?server=195.201.109.56&port=6&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
-#### [Proxy 11](tg://proxy?server=185.31.175.165&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==)
-#### [Proxy 12](tg://proxy?server=185.231.154.226&port=2026&secret=FgMBAgABAAH8AwOG4kw63Q==)
-#### [Proxy 13](tg://proxy?server=5.75.229.126&port=443&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-#### [Proxy 14](tg://proxy?server=77.221.156.217&port=2087&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+#### [Proxy 11](tg://proxy?server=185.231.154.226&port=2026&secret=FgMBAgABAAH8AwOG4kw63Q==)
+#### [Proxy 12](tg://proxy?server=5.75.229.126&port=443&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+#### [Proxy 13](tg://proxy?server=77.221.156.217&port=2087&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 ### [Myporoxy](https://t.me/Myporoxy)
 #### [Proxy 1](tg://proxy?server=94.130.110.42&port=8770&secret=FpABAiIBhwH8AwOG42xL3Q==)
 #### [Proxy 2](tg://proxy?server=116.203.148.96&port=8770&secret=FpABAiIBhwH8AwOG42xL3Q==)
@@ -98,6 +97,5 @@
 #### [Proxy 9](tg://proxy?server=5.75.229.126&port=443&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 10](tg://proxy?server=77.221.156.217&port=2087&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 11](tg://proxy?server=95.217.217.193&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==)
-#### [Proxy 12](tg://proxy?server=185.121.225.81&port=8085&secret=FpABAiIBhwH8AwOG42xL3Q==)
 
     
