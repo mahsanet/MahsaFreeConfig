@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-04-11 00:39:14)
+## Free Telegram Proxy (Last Update: 2024-04-11 01:09:15)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=65.108.153.196&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 2](tg://proxy?server=89.35.131.66&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
@@ -46,7 +46,8 @@
 #### [Proxy 8](tg://proxy?server=178.20.40.4&port=2027&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 9](tg://proxy?server=62.113.119.165&port=2027&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 10](tg://proxy?server=95.216.44.12&port=250&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
-#### [Proxy 11](tg://proxy?server=5.75.203.214&port=8912&secret=FgMBAgABAAH8AwOG4kw63Q==)
+#### [Proxy 11](tg://proxy?server=BENZ-PORCSHE.IR.543-benz-amg.com-David.Com.Ir.Pasargad.tk-gq.xyz-ml-Tk.co.Uk.yachts12-line.co.uk.&port=7443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
+#### [Proxy 12](tg://proxy?server=5.75.203.214&port=8912&secret=FgMBAgABAAH8AwOG4kw63Q==)
 ### [Myporoxy](https://t.me/Myporoxy)
 #### [Proxy 1](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sud.again_to_fight.everyone.i_am.the_internet.sobani-cobani.sbs.&port=9060&secret=FpABAiIBhwH8AwOG42xL3Q==)
 #### [Proxy 2](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.ractor-berg.sbs.&port=4550&secret=FpABAiIBhwH8AwOG42xL3Q==)
@@ -66,5 +67,6 @@
 #### [Proxy 3](tg://proxy?server=5.75.203.214&port=8912&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 4](tg://proxy?server=95.217.217.193&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 5](tg://proxy?server=5.9.57.250&port=4045&secret=FgMBAgABAAH8AwOG4kw63Q==)
+#### [Proxy 6](tg://proxy?server=152.42.130.39&port=443&secret=7kpbxhj57FOag7GCDhnKSn9zMy5hbWF6b25hd3MuY29t)
 
     
