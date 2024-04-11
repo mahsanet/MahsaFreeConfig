@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-04-11 00:09:13)
+## Free Telegram Proxy (Last Update: 2024-04-11 00:39:14)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=65.108.153.196&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 2](tg://proxy?server=89.35.131.66&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
@@ -28,6 +28,7 @@
 #### [Proxy 3](tg://proxy?server=195.201.163.130&port=6&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 4](tg://proxy?server=178.63.67.28&port=6&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 5](tg://proxy?server=146.59.237.113&port=250&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
+#### [Proxy 6](tg://proxy?server=212.32.229.235&port=250&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 ### [PinkProxy](https://t.me/PinkProxy)
 #### [Proxy 1](tg://proxy?server=116.202.115.162&port=4045&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 2](tg://proxy?server=88.198.197.120&port=4045&secret=FgMBAgABAAH8AwOG4kw63Q==)
@@ -60,11 +61,10 @@
 #### [Proxy 11](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.ractor-berg.sbs.&port=4550&secret=FpABAiIBhwH8AwOG42xL3Q==)
 #### [Proxy 12](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.factor-webco.sbs.&port=3443&secret=FpABAiIBhwH8AwOG42xL3Q==)
 ### [proxyforopeta](https://t.me/proxyforopeta)
-#### [Proxy 1](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.factor-webco.sbs.&port=3443&secret=FpABAiIBhwH8AwOG42xL3Q==)
-#### [Proxy 2](tg://proxy?server=89.35.131.77&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==)
-#### [Proxy 3](tg://proxy?server=89.35.131.78&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==)
-#### [Proxy 4](tg://proxy?server=49.13.231.94&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==)
-#### [Proxy 5](tg://proxy?server=5.75.203.214&port=8912&secret=FgMBAgABAAH8AwOG4kw63Q==)
-#### [Proxy 6](tg://proxy?server=89.35.131.45&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==)
+#### [Proxy 1](tg://proxy?server=49.13.231.94&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==)
+#### [Proxy 2](tg://proxy?server=95.217.118.144&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==)
+#### [Proxy 3](tg://proxy?server=5.75.203.214&port=8912&secret=FgMBAgABAAH8AwOG4kw63Q==)
+#### [Proxy 4](tg://proxy?server=95.217.217.193&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==)
+#### [Proxy 5](tg://proxy?server=5.9.57.250&port=4045&secret=FgMBAgABAAH8AwOG4kw63Q==)
 
     
