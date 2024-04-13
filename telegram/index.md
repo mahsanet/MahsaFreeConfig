@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-04-13 01:39:11)
+## Free Telegram Proxy (Last Update: 2024-04-13 02:09:17)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=168.119.98.103&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 2](tg://proxy?server=128.140.60.100&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
@@ -15,6 +15,7 @@
 #### [Proxy 11](tg://proxy?server=cloudflare.co.nokia.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.sam-sim.co.uk.&port=0000000000000000000000000000000000000000000000000000000000000000000000000000003443&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 12](tg://proxy?server=45.88.230.113&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 13](tg://proxy?server=64.52.81.163&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
+#### [Proxy 14](tg://proxy?server=2peyk.kamtar.online2cc.org.&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 ### [ProxyHagh](https://t.me/ProxyHagh)
 #### [Proxy 1](tg://proxy?server=65.21.70.147&port=8280&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 2](tg://proxy?server=65.21.70.147&port=8280&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
@@ -91,8 +92,5 @@
 #### [Proxy 5](tg://proxy?server=95.217.118.144&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 6](tg://proxy?server=95.217.220.44&port=8&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 7](tg://proxy?server=www.ufinebattery.space.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw==)
-#### [Proxy 8](tg://proxy?server=www.manlybattery.space.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20=)
-#### [Proxy 9](tg://proxy?server=5.75.233.77&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==)
-#### [Proxy 10](tg://proxy?server=65.21.124.80&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==)
 
     
