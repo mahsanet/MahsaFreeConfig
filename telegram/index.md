@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-04-13 23:39:22)
+## Free Telegram Proxy (Last Update: 2024-04-14 00:09:16)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=cloudflare.co.nokia.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.my-new.co.uk.&port=0000000000000000000000000000000000000000000000000000000000000000000000000000003443&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 2](tg://proxy?server=2peyk.kamtar.online2cc.org.&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
@@ -89,7 +89,10 @@
 #### [Proxy 2](tg://proxy?server=BMW-LAMBORGHINI.IR.543-bmw-amb.com-Michael.Com.Ir.Persiangolf.ml-tk.space-gq-Tk.Co.uk.readline-intkey.co.uk.&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 3](tg://proxy?server=138.201.186.98&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 4](tg://proxy?server=116.202.20.2&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==)
-#### [Proxy 5](tg://proxy?server=95.216.145.207&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==)
-#### [Proxy 6](tg://proxy?server=95.211.213.223&port=250&secret=FgMBAgABAAH8AwOG4kw63Q==)
+#### [Proxy 5](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.mr-rango.sbs.&port=8770&secret=FpABAiIBhwH8AwOG42xL3Q==)
+#### [Proxy 6](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.factor-webco.sbs.&port=3443&secret=FpABAiIBhwH8AwOG42xL3Q==)
+#### [Proxy 7](tg://proxy?server=172.233.58.219&port=7443&secret=FgMBAgABAAH8AwOG4kw63Q==)
+#### [Proxy 8](tg://proxy?server=95.216.145.207&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==)
+#### [Proxy 9](tg://proxy?server=95.211.213.223&port=250&secret=FgMBAgABAAH8AwOG4kw63Q==)
 
     
