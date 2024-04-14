@@ -1,9 +1,9 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-04-14 01:39:17)
+## Free Telegram Proxy (Last Update: 2024-04-14 02:09:19)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=cloudflare.co.nokia.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.my-new.co.uk.&port=0000000000000000000000000000000000000000000000000000000000000000000000000000003443&secret=FgMBAgABAAH8AwOG4kw63Q==)
-#### [Proxy 2](tg://proxy?server=amd.servers.dynoorg.org.&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
+#### [Proxy 2](tg://proxy?server=2peyk.kamtar.online2cc.org.&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 3](tg://proxy?server=fcafshid.ir.hariri.id.ir.c_itygenn.com.aradakhtar.com.airpowerair_springs.com.rosehotel.ir.r_ahbordconsulting.com.jiling-club.com.nibmarket.ir.ffrotel.ir.ictmanagers.ir.dealer.ir.doctorravari.ir.fatemesaba.art.tarrahaneyazd.ir.seezan.ir.shahroodfood.sbs.&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY%3D)
 #### [Proxy 4](tg://proxy?server=arvijpub.ir.damnoshan.ir.l-frank.ir.tosan-ls.com.abadgostaran.com.pei_kmobile.com.afs24.ir.pfjco.com.mobinmoghadam.com.devmobile.ir.rahi-store.ir.20120.ir.yakpaper.com.arioparvaz.ir.pfeco.ir.sreport.ir.qrcodeapi.ir.magni.ir.tosanboom.ir.shahroodfood.sbs&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972)
 #### [Proxy 5](tg://proxy?server=138.201.249.159&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
@@ -88,6 +88,6 @@
 #### [Proxy 2](tg://proxy?server=95.217.225.27&port=7443&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 3](tg://proxy?server=172.233.58.219&port=7443&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 4](tg://proxy?server=95.217.118.144&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==)
-#### [Proxy 5](tg://proxy?server=185.231.154.226&port=2026&secret=FgMBAgABAAH8AwOG4kw63Q==)
+#### [Proxy 5](tg://proxy?server=195.201.145.62&port=4045&secret=FgMBAgABAAH8AwOG4kw63Q==)
 
     
