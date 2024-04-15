@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-04-15 00:39:15)
+## Free Telegram Proxy (Last Update: 2024-04-15 01:09:16)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=89.35.131.74&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 2](tg://proxy?server=89.35.131.75&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
@@ -11,10 +11,9 @@
 #### [Proxy 7](tg://proxy?server=138.201.22.94&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 8](tg://proxy?server=www.bloggerlocal.cfd.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw%3D%3D)
 #### [Proxy 9](tg://proxy?server=www.ufinebattery.space.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw%3D%3D)
-#### [Proxy 10](tg://proxy?server=www.redmoonfireworks.cfd.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20%3D)
-#### [Proxy 11](tg://proxy?server=89.35.131.82&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
-#### [Proxy 12](tg://proxy?server=89.35.131.65&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
-#### [Proxy 13](tg://proxy?server=89.35.131.72&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
+#### [Proxy 10](tg://proxy?server=89.35.131.82&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
+#### [Proxy 11](tg://proxy?server=89.35.131.65&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
+#### [Proxy 12](tg://proxy?server=89.35.131.72&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 ### [iRoProxy](https://t.me/iRoProxy)
 #### [Proxy 1](tg://proxy?server=5.79.68.181&port=250&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 2](tg://proxy?server=95.211.213.223&port=250&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
@@ -79,6 +78,5 @@
 #### [Proxy 5](tg://proxy?server=89.35.131.74&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 6](tg://proxy?server=89.35.131.73&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 7](tg://proxy?server=95.216.145.207&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==)
-#### [Proxy 8](tg://proxy?server=46.229.251.5&port=250&secret=FgMBAgABAAH8AwOG4kw63Q==)
 
     
