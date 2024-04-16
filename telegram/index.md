@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-04-16 03:09:11)
+## Free Telegram Proxy (Last Update: 2024-04-16 03:39:15)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=online.allonlineo.org.&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 2](tg://proxy?server=cloudflare.co.nokia.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.sam-sim.co.uk.&port=0000000000000000000000000000000000000000000000000000000000000000000000000000003443&secret=FgMBAgABAAH8AwOG4kw63Q==)
@@ -59,7 +59,8 @@
 #### [Proxy 14](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.mr-rango.sbs.&port=8770&secret=FpABAiIBhwH8AwOG42xL3Q==)
 #### [Proxy 15](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.factor-webco.sbs.&port=3443&secret=FpABAiIBhwH8AwOG42xL3Q==)
 ### [proxyforopeta](https://t.me/proxyforopeta)
-#### [Proxy 1](tg://proxy?server=116.202.162.14&port=4045&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
-#### [Proxy 2](tg://proxy?server=95.217.133.93&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
+#### [Proxy 1](tg://proxy?server=159.69.242.22&port=4045&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
+#### [Proxy 2](tg://proxy?server=116.202.162.14&port=4045&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
+#### [Proxy 3](tg://proxy?server=95.217.133.93&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 
     
