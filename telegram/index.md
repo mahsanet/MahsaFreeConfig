@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-04-16 01:09:14)
+## Free Telegram Proxy (Last Update: 2024-04-16 01:39:13)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=online.allonlineo.org.&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 2](tg://proxy?server=cloudflare.co.nokia.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.sam-sim.co.uk.&port=0000000000000000000000000000000000000000000000000000000000000000000000000000003443&secret=FgMBAgABAAH8AwOG4kw63Q==)
@@ -14,6 +14,8 @@
 #### [Proxy 10](tg://proxy?server=persian.espinas-loby.info&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3t0Z2p1Lm9yZw)
 #### [Proxy 11](tg://proxy?server=89.35.131.77&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 12](tg://proxy?server=www.polinovelgroup.space.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20%3D)
+#### [Proxy 13](tg://proxy?server=www.cosmicfireworks.cfd.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20%3D)
+#### [Proxy 14](tg://proxy?server=89.35.131.81&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 ### [iRoProxy](https://t.me/iRoProxy)
 #### [Proxy 1](tg://proxy?server=178.63.89.151&port=250&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 2](tg://proxy?server=212.32.229.235&port=250&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
