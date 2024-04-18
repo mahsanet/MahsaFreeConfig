@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-04-18 01:39:13)
+## Free Telegram Proxy (Last Update: 2024-04-18 02:09:14)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=89.35.131.80&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 2](tg://proxy?server=89.35.131.73&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
@@ -84,13 +84,12 @@
 #### [Proxy 14](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.factor-webco.sbs.&port=3443&secret=FpABAiIBhwH8AwOG42xL3Q==)
 #### [Proxy 15](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.mr-rango.sbs.&port=8770&secret=FpABAiIBhwH8AwOG42xL3Q==)
 ### [proxyforopeta](https://t.me/proxyforopeta)
-#### [Proxy 1](tg://proxy?server=www.polinovelgroup.space.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20%3D)
-#### [Proxy 2](tg://proxy?server=46.229.251.5&port=250&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
-#### [Proxy 3](tg://proxy?server=89.35.131.80&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
-#### [Proxy 4](tg://proxy?server=65.109.39.238&port=7443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
-#### [Proxy 5](tg://proxy?server=65.21.6.223&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
-#### [Proxy 6](tg://proxy?server=178.63.89.151&port=250&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
-#### [Proxy 7](tg://proxy?server=185.104.63.123&port=2024&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
-#### [Proxy 8](tg://proxy?server=162.55.219.230&port=443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D&operation=hamrah)
+#### [Proxy 1](tg://proxy?server=46.229.251.5&port=250&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
+#### [Proxy 2](tg://proxy?server=89.35.131.80&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
+#### [Proxy 3](tg://proxy?server=65.109.39.238&port=7443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
+#### [Proxy 4](tg://proxy?server=65.21.6.223&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
+#### [Proxy 5](tg://proxy?server=178.63.89.151&port=250&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
+#### [Proxy 6](tg://proxy?server=185.104.63.123&port=2024&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
+#### [Proxy 7](tg://proxy?server=162.55.219.230&port=443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D&operation=hamrah)
 
     
