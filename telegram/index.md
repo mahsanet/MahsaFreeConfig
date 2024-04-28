@@ -1,22 +1,5 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-04-28 19:09:35)
-### [ProxyMTProto](https://t.me/ProxyMTProto)
-#### [Proxy 1](tg://proxy?server=now.lets.begin.we.are.here.123.456.789.111.iranhosevernserver.ir.hosting.mihanwebhost.com.hostiran.net.irwebhost.net.ejhost.ir.west.com.bhostingtalk.ir.xlhost.com.gmail.com.google.com.digikala.com.cloudflare.Slow.Fast.com.notthis1.my100yearoldhome.space.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw%3D%3D)
-#### [Proxy 2](tg://proxy?server=now3.let2s.be-gin.we.ar-e.he-re.12-3.456.78-9.111.iran-hosevernserver.ir.hosting.mihanwebhost.com.hostiran.net.irwebhost.net.ejhost.ir.west.com.bhostingtalk.ir.xlhost.com.gmail.com.google.com.digika-la.com.cloudflare.hisarmyad.northamericancrystal.space.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw%3D%3D)
-#### [Proxy 3](tg://proxy?server=now3.let2s.be-gin.we.ar-e.he-re.12-3.456.78-9.111.iran-hosevernserver.ir.hosting.mihanwebhost.com.hostiran.net.irwebhost.net.ejhost.ir.west.com.bhostingtalk.ir.xlhost.com.gmail.com.google.com.digika-la.com.cloudflare.Slow.Fast.c-om.nott-hisa.myros.space.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw%3D%3D)
-#### [Proxy 4](tg://proxy?server=ir-mci_irancell.ir.u-k.cloudflare.com.do-yo.want-to.clash-with.this.www.microsoft.com.there-is-no.plate-lite.google.comwww.dynu.com.count-with-me.cyou.com.now-sudo.rm-rf.ddns.net.we-are-here.again-to-fight.everyone.i-am.the-internet.jordansfireworks.cfd.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw%3D%3D)
-### [ProxyHagh](https://t.me/ProxyHagh)
-#### [Proxy 1](tg://proxy?server=server.rubika-new.co.uk.&port=443&secret=ee1603010200010001fc030386e24c3add74656c65776562696f6e2e636f6d)
-#### [Proxy 2](tg://proxy?server=server.rubika-new.co.uk.&port=443&secret=ee1603010200010001fc030386e24c3add74656c65776562696f6e2e636f6d)
-#### [Proxy 3](tg://proxy?server=server.rubika-new.co.uk.&port=443&secret=ee1603010200010001fc030386e24c3add74656c65776562696f6e2e636f6d)
-#### [Proxy 4](tg://proxy?server=server.rubika-new.co.uk.&port=443&secret=ee1603010200010001fc030386e24c3add74656c65776562696f6e2e636f6d)
-#### [Proxy 5](tg://proxy?server=server.rubika-new.co.uk.&port=443&secret=ee1603010200010001fc030386e24c3add74656c65776562696f6e2e636f6d)
-#### [Proxy 6](tg://proxy?server=server.rubika-new.co.uk.&port=443&secret=ee1603010200010001fc030386e24c3add74656c65776562696f6e2e636f6d)
-#### [Proxy 7](tg://proxy?server=server.rubika-new.co.uk.&port=443&secret=ee1603010200010001fc030386e24c3add74656c65776562696f6e2e636f6d)
-#### [Proxy 8](tg://proxy?server=server.rubika-new.co.uk.&port=443&secret=ee1603010200010001fc030386e24c3add74656c65776562696f6e2e636f6d)
-#### [Proxy 9](tg://proxy?server=server.rubika-new.co.uk.&port=443&secret=ee1603010200010001fc030386e24c3add74656c65776562696f6e2e636f6d)
-#### [Proxy 10](tg://proxy?server=server.rubika-new.co.uk.&port=443&secret=ee1603010200010001fc030386e24c3add74656c65776562696f6e2e636f6d)
-#### [Proxy 11](tg://proxy?server=server.rubika-new.co.uk.&port=443&secret=ee1603010200010001fc030386e24c3add74656c65776562696f6e2e636f6d)
+## Free Telegram Proxy (Last Update: 2024-04-28 19:39:29)
 
     
