@@ -1,13 +1,8 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-04-29 13:09:21)
+## Free Telegram Proxy (Last Update: 2024-04-29 13:39:23)
 ### [ProxyDaemi](https://t.me/ProxyDaemi)
 #### [Proxy 1](tg://proxy?server=cafebazzar.server-myket.co.uk&port=443&secret=7gAA4RG62lUR_M6VhN6tAA9ydWJpa2EuaXI=)
 #### [Proxy 2](tg://proxy?server=89.41.181.118&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d)
-### [Myporoxy](https://t.me/Myporoxy)
-#### [Proxy 1](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.shert-men.sbs.&port=1201&secret=FpABAiIBhwH8AwOG42xL3Q==)
-#### [Proxy 2](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.error-merror.sbs.&port=1881&secret=FpABAzMBhwH8AwOG6Iyb3Q==)
-#### [Proxy 3](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.shert-men.sbs.&port=1201&secret=FpABAiIBhwH8AwOG42xL3Q==)
-#### [Proxy 4](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.shert-men.sbs.&port=1201&secret=FpABAiIBhwH8AwOG42xL3Q==)
 
     
