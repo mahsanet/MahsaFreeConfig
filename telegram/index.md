@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-05-02 15:36:23)
+## Free Telegram Proxy (Last Update: 2024-05-02 16:06:23)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=ardestangas.com.tabriz_tire.ir.cookib_ox.ir.dglamp.com.srt.ir.fakh_rsina.ir.rayanil.ir.navabeghgostar.ir.darvishpaya.ir.tiwall.org.arashnas_iri.com.sendmsg.ir.aryasan-go.ir.markeiran.ir.pedasco.ir.sheetplaza.ir.i-lux.ir.manteghebazar.ir.irankhodro.autos.&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY%3D)
 #### [Proxy 2](tg://proxy?server=ir-mci_irancell.ir.u-k.cloudflare.com.do-yo.want-to.clash-with.this.www.microsoft.com.there-is-no.plate-lite.google.comwww.dynu.com.count-with-me.cyou.com.now-sudo.rm-rf.ddns.net.we-are-here.again-to-fight.everyone.i-am.the-internet.jordansfireworks.cfd.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw%3D%3D)
@@ -31,6 +31,7 @@
 #### [Proxy 11](tg://proxy?server=new.rubika-iir.co.uk.&port=443&secret=ee1603010200010001fc030386e24c3add7374617469632e666172616b61762e636f6d)
 #### [Proxy 12](tg://proxy?server=new.rubika-iir.co.uk.&port=443&secret=ee1603010200010001fc030386e24c3add7374617469632e666172616b61762e636f6d)
 #### [Proxy 13](tg://proxy?server=new.rubika-iir.co.uk.&port=443&secret=ee1603010200010001fc030386e24c3add7374617469632e666172616b61762e636f6d)
+#### [Proxy 14](tg://proxy?server=new.rubika-iir.co.uk.&port=443&secret=ee1603010200010001fc030386e24c3add7374617469632e666172616b61762e636f6d)
 ### [iRoProxy](https://t.me/iRoProxy)
 #### [Proxy 1](tg://proxy?server=103.161.34.116&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d6375726c)
 #### [Proxy 2](tg://proxy?server=103.161.34.116&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d6375726c)
