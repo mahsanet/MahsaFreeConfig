@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-05-02 22:36:23)
+## Free Telegram Proxy (Last Update: 2024-05-02 23:06:22)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=irancell.irancell.irancell.irancell.irancell.iraell.irancell.irancell.irancell.irancell.irancell.irancell.irancell.irancell.irancell.irancell.irancell.irancell.irancell.irancell.irancell.irancell.irancell.irancell.irancell.irancell.irance.newcompp.space.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw%3D%3D)
 #### [Proxy 2](tg://proxy?server=new.rubika-iir.co.uk.&port=443&secret=ee1603010200010001fc030386e24c3add7374617469632e666172616b61762e636f6d)
@@ -32,7 +32,7 @@
 #### [Proxy 12](tg://proxy?server=new.rubika-iir.co.uk.&port=443&secret=ee1603010200010001fc030386e24c3add7374617469632e666172616b61762e636f6d)
 #### [Proxy 13](tg://proxy?server=new.rubika-iir.co.uk.&port=443&secret=ee1603010200010001fc030386e24c3add7374617469632e666172616b61762e636f6d)
 ### [iRoProxy](https://t.me/iRoProxy)
-#### [Proxy 1](tg://proxy?server=103.161.34.116&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d6375726c)
+#### [Proxy 1](tg://proxy?server=195.62.32.244&port=250&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d6375726c)
 #### [Proxy 2](tg://proxy?server=194.120.230.114&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d6375726c)
 #### [Proxy 3](tg://proxy?server=194.120.230.213&port=250&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d6375726c)
 #### [Proxy 4](tg://proxy?server=194.120.230.170&port=250&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d6375726c)
