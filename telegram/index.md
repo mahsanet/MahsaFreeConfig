@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-05-03 18:36:23)
+## Free Telegram Proxy (Last Update: 2024-05-03 19:06:23)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=blind_hero.font-bartar.ir.&port=000000000000000000000000000000000000000000000000000000000000000000000000000005443&secret=FgMBAgABAAH8AwOG4kw63QPQ)
 #### [Proxy 2](tg://proxy?server=142.132.228.37&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
@@ -20,7 +20,7 @@
 ### [ProxyHagh](https://t.me/ProxyHagh)
 #### [Proxy 1](tg://proxy?server=new.rubika-iir.co.uk.&port=443&secret=ee1603010200010001fc030386e24c3add7374617469632e666172616b61762e636f6d)
 #### [Proxy 2](tg://proxy?server=new.rubika-iir.co.uk.&port=443&secret=ee1603010200010001fc030386e24c3add7374617469632e666172616b61762e636f6d)
-#### [Proxy 3](tg://proxy?server=new.rubika-iir.co.uk.&port=443&secret=ee1603010200010001fc030386e24c3add7374617469632e666172616b61762e636f6d)
+#### [Proxy 3](tg://proxy?server=186.190.215.78&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d)
 #### [Proxy 4](tg://proxy?server=186.190.215.78&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d)
 #### [Proxy 5](tg://proxy?server=186.190.215.78&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d)
 ### [iRoProxy](https://t.me/iRoProxy)
