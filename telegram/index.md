@@ -1,8 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-05-06 02:39:15)
-### [ProxyMTProto](https://t.me/ProxyMTProto)
-#### [Proxy 1](tg://proxy?server=157.90.128.230&port=7443&secret=FgMBAgABAAH8AwOG4kw63QBQ)
+## Free Telegram Proxy (Last Update: 2024-05-06 03:09:15)
 ### [PinkProxy](https://t.me/PinkProxy)
 #### [Proxy 1](tg://proxy?server=186.190.215.78&port=443&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d)
 ### [ProxyDaemi](https://t.me/ProxyDaemi)
@@ -23,5 +21,6 @@
 #### [Proxy 1](tg://proxy?server=37.27.8.188&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=)
 #### [Proxy 2](tg://proxy?server=195.15.243.19&port=8085&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 3](tg://proxy?server=cloudflare.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.now_sudo.again_to_fight.everyone.i_am.the_internet.radical-parantez.pw.&port=6550&secret=FpABAiIBhwH8AwOG42xL3QPQ)
+#### [Proxy 4](tg://proxy?server=bro.now.lets.begin.we.are.here.todownipanmudfuk.wwww.digikala.com.iranserver.com.bing.com.gmail.com.nic.ir.thisisme.ir.mihanwebhost.ejhost.ir.987.entekhab.ddns.net.dy3nu.com.no2ip.with1outip.withounti.justfucem.hehehehe2e.nokwabcde.famous----trader.info.&port=443&secret=dd00000000000000000000000000000000)
 
     
