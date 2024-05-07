@@ -1,10 +1,13 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-05-07 17:09:20)
+## Free Telegram Proxy (Last Update: 2024-05-07 17:39:17)
 ### [ProxyDaemi](https://t.me/ProxyDaemi)
-#### [Proxy 1](tg://proxy?server=138.201.31.167&port=7443&secret=FgMBAgABAAH8AwOG4kw63QBQ)
+#### [Proxy 1](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.now_sudo.again_to_fight.everyone.i_am.the_internet.razianeh-boran.sbs.&port=2040&secret=FpABAiIBhwH8AwOG42xL3Q%3D%3D)
+#### [Proxy 2](tg://proxy?server=138.201.31.167&port=7443&secret=FgMBAgABAAH8AwOG4kw63QBQ)
+#### [Proxy 3](tg://proxy?server=138.201.31.167&port=7443&secret=FgMBAgABAAH8AwOG4kw63QBQ)
+#### [Proxy 4](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.now_sudo.again_to_fight.everyone.i_am.the_internet.razianeh-boran.sbs.&port=2040&secret=FpABAiIBhwH8AwOG42xL3Q%3D%3D)
+#### [Proxy 5](tg://proxy?server=www.irtopservice.ir&port=45567&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d6375726c)
 ### [proxyforopeta](https://t.me/proxyforopeta)
-#### [Proxy 1](tg://proxy?server=49.13.52.45&port=4443&secret=ee1603010200010001fc030386e24c3add6b65746161626f6e6c696e652e636f6d)
-#### [Proxy 2](tg://proxy?server=195.15.243.19&port=8085&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+#### [Proxy 1](tg://proxy?server=157.90.240.154&port=443&secret=ee00000000000000000000000000000000646967696b616c612e636f6d)
 
     
