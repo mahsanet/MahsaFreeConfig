@@ -1,9 +1,8 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-05-07 11:39:15)
-### [ProxyDaemi](https://t.me/ProxyDaemi)
-#### [Proxy 1](tg://proxy?server=95.217.246.126&port=8083&secret=3RYDAQIAAQAB_AMDhuJMOt0AAAAAAAAAAAAAC1jZG4AAAB5ZWt0YW5ldC5jb21mYXJha2F2LmNvbXZhbi5uYWp2YS5jb20AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA%3D%3D)
-#### [Proxy 2](tg://proxy?server=5.75.216.209&port=8083&secret=3RYDAQIAAQAB_AMDhuJMOt0AAAAAAAAAAAAAC1jZG4AAAB5ZWt0YW5ldC5jb21mYXJha2F2LmNvbXZhbi5uYWp2YS5jb20AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA%3D%3D)
+## Free Telegram Proxy (Last Update: 2024-05-07 12:09:17)
+### [PinkProxy](https://t.me/PinkProxy)
+#### [Proxy 1](tg://proxy?server=46.4.208.73&port=43&secret=7usdlNqn4DRFl-dWoftucFRiaXNjb3R0aS55ZWt0YW5ldC5jb20=)
 ### [Myporoxy](https://t.me/Myporoxy)
 #### [Proxy 1](tg://proxy?server=cloudflare.nokia.app.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sud.again_to_fight.everyone.i_am.the_internet.perado-cars.pw.&port=00000000000000000000000000000000000000000000000000000000000000000000000000000006550&secret=FpABAiIBhwH8AwOG42xL3QPQ)
 #### [Proxy 2](tg://proxy?server=cloudflare.nokia.net.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sud.again_to_fight.everyone.i_am.the_internet.perado-cars.pw.&port=000000000000000000000000000000000000000000000000000000000000000000000000000001201&secret=FpABAiIBhwH8AwOG42xL3QPQ)
@@ -12,6 +11,12 @@
 #### [Proxy 5](tg://proxy?server=cloudflare.nokia.net.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sud.again_to_fight.everyone.i_am.the_internet.perado-cars.pw.&port=000000000000000000000000000000000000000000000000000000000000000000000000000001201&secret=FpABAiIBhwH8AwOG42xL3QPQ)
 #### [Proxy 6](tg://proxy?server=cloudflare.nokia.app.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sud.again_to_fight.everyone.i_am.the_internet.perado-cars.pw.&port=00000000000000000000000000000000000000000000000000000000000000000000000000000006550&secret=FpABAiIBhwH8AwOG42xL3QPQ)
 #### [Proxy 7](tg://proxy?server=cloudflare.nokia.info.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sud.again_to_fight.everyone.i_am.the_internet.perado-cars.pw.&port=00000000000000000000000000000000000000000000000000000000000000000000000000000006550&secret=FpABAiIBhwH8AwOG42xL3QPQ)
-#### [Proxy 8](tg://proxy?server=cloudflare.nokia.net.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sud.again_to_fight.everyone.i_am.the_internet.perado-cars.pw.&port=000000000000000000000000000000000000000000000000000000000000000000000000000001201&secret=FpABAiIBhwH8AwOG42xL3QPQ)
+#### [Proxy 8](tg://proxy?server=cloudflare.nokia.app.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sud.again_to_fight.everyone.i_am.the_internet.perado-cars.pw.&port=00000000000000000000000000000000000000000000000000000000000000000000000000000006550&secret=FpABAiIBhwH8AwOG42xL3QPQ)
+#### [Proxy 9](tg://proxy?server=cloudflare.nokia.uk.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sud.again_to_fight.everyone.i_am.the_internet.borkman-dunhil.pw.&port=0000000000000000000000000000000000000000000000000000000000000000000000001201&secret=FpABAiIBhwH8AwOG42xL3QPQ)
+#### [Proxy 10](tg://proxy?server=cloudflare.nokia.net.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sud.again_to_fight.everyone.i_am.the_internet.perado-cars.pw.&port=000000000000000000000000000000000000000000000000000000000000000000000000000001201&secret=FpABAiIBhwH8AwOG42xL3QPQ)
+### [proxyforopeta](https://t.me/proxyforopeta)
+#### [Proxy 1](tg://proxy?server=89.110.70.164&port=6&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+#### [Proxy 2](tg://proxy?server=5.161.109.128&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
+#### [Proxy 3](tg://proxy?server=www.irtopservice.ir&port=45567&secret=ee1603010200010001fc030386e24c3add76616e2e6e616a76612e636f6d6375726c)
 
     
