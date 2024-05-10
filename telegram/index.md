@@ -1,12 +1,13 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-05-10 03:09:11)
+## Free Telegram Proxy (Last Update: 2024-05-10 03:39:12)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=Mci.ir-Irancell.com-rightel.com-tic.ir-google.com-khabarfori.com-leader.ir-nic.ir-co-ui25-ll.click-co.uk-arvancloud.ir.co-ui25-ll.click.&port=000000007443&secret=FgMBAgABAAH8AwOG4kw63QZQ)
 #### [Proxy 2](tg://proxy?server=Telewebion.apple.com.co.uk.do_yo.like_be.gti5i_byme.ands.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.now_sudo.again_to_fight.everyone.i_am.the_internet.dns-reverse.co.uk.&port=443&secret=FgMBAgABAAH8AwOG4kw63QBQ)
 #### [Proxy 3](tg://proxy?server=cloudflare.com.nokia.com.uk.do_you.want_to.clash_without.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.sin-ct.co.uk.&port=000000000000000000000000000000000000000000000000000000000000000000000000000003443&secret=FgMBAgABAAH8AwOG4kw63QPQ)
 #### [Proxy 4](tg://proxy?server=mwig.ir.yazdava.ir.payd-argaman.ir.pishebazar.com.atiyehmehr.ir.byst.ir.hermesgallery.ir.rus-aribazar.ir.placebook.ir.saraystore.ir.shomalberenj.com.datapr.ir.elennar9.ir.bsi5.ir.qrcodeapi.ir.apadana-apply.com.mobileiliya.com.mehriyavari.ir.getsecure.pw.&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972)
-#### [Proxy 5](tg://proxy?server=fs24.ir.abgiran.com.teleagram.org.johnston.ir.irancanoon.com.rahman.ac.ir.raytoos.ir.bazarekhodro.com.proservice.ir.nahavandpci.ir.shahed-asco.com.surfiran.ir.turkplay.ir.curepso.com.kaas.ir.anakimia.com.digipeti.com.visaunited.ir.garshaofficial.website.&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY%3D)
+#### [Proxy 5](tg://proxy?server=rata.ir.janbakhshipooya.ir.commax1.ir.rah-abrisham.com.homar.ir.doranpadcast.ir.kish--fish-hunter.ir.interactive-physics.ir.kashan-eng.ir.paylalog.com.karfanbazar.ir.kavos-hgaran--915.ir.hbbs--marthome.ir.myhinet.ir.ceramshop.ir.shojaiiofficiall.website&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972)
+#### [Proxy 6](tg://proxy?server=fs24.ir.abgiran.com.teleagram.org.johnston.ir.irancanoon.com.rahman.ac.ir.raytoos.ir.bazarekhodro.com.proservice.ir.nahavandpci.ir.shahed-asco.com.surfiran.ir.turkplay.ir.curepso.com.kaas.ir.anakimia.com.digipeti.com.visaunited.ir.garshaofficial.website.&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY%3D)
 ### [ProxyHagh](https://t.me/ProxyHagh)
 #### [Proxy 1](tg://proxy?server=88.80.135.12&port=54403&secret=FgMBAgABAAH8AwOG4kw63Q)
 #### [Proxy 2](tg://proxy?server=88.80.135.12&port=54403&secret=FgMBAgABAAH8AwOG4kw63Q)
@@ -53,6 +54,5 @@
 #### [Proxy 3](tg://proxy?server=50.7.85.219&port=443&secret=eee7ce9f4679bfc87bb93390ed56e2c9686170742d6d6972726f722e6f7267)
 #### [Proxy 4](tg://proxy?server=79.127.218.201&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q)
 #### [Proxy 5](tg://proxy?server=65.109.10.150&port=8&secret=FgMBAgABAAH8AwOG4kw63Q==)
-#### [Proxy 6](tg://proxy?server=88.80.135.12&port=54403&secret=FgMBAgABAAH8AwOG4kw63Q)
 
     
