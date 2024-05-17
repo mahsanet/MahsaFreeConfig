@@ -1,13 +1,11 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-05-17 00:39:12)
+## Free Telegram Proxy (Last Update: 2024-05-17 01:09:10)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
-#### [Proxy 1](tg://proxy?server=nobify.org.newerd.info.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw%3D%3D)
-#### [Proxy 2](tg://proxy?server=cointoin.ir.ddmepl.info.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw%3D%3D)
-#### [Proxy 3](tg://proxy?server=oomm-are.rubika-iir.co.uk.&port=443&secret=ee1603010200010001fc030386e24c3add7374617469632e666172616b61762e636f6d)
-#### [Proxy 4](tg://proxy?server=superman.rubika-iir.co.uk.&port=443&secret=ee1603010200010001fc030386e24c3add7374617469632e666172616b61762e636f6d)
-#### [Proxy 5](tg://proxy?server=nobify.org.line-ir.info.&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3t0Z2p1Lm9yZw)
-#### [Proxy 6](tg://proxy?server=cointoin.ir.litcoin-plus.info.&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3t0Z2p1Lm9yZw)
+#### [Proxy 1](tg://proxy?server=oomm-are.rubika-iir.co.uk.&port=443&secret=ee1603010200010001fc030386e24c3add7374617469632e666172616b61762e636f6d)
+#### [Proxy 2](tg://proxy?server=superman.rubika-iir.co.uk.&port=443&secret=ee1603010200010001fc030386e24c3add7374617469632e666172616b61762e636f6d)
+#### [Proxy 3](tg://proxy?server=nobify.org.line-ir.info.&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3t0Z2p1Lm9yZw)
+#### [Proxy 4](tg://proxy?server=cointoin.ir.litcoin-plus.info.&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3t0Z2p1Lm9yZw)
 ### [ProxyHagh](https://t.me/ProxyHagh)
 #### [Proxy 1](tg://proxy?server=69.197.146.182&port=443&secret=eee7ce9f4679bfc87bb93390ed56e2c9686170742d6d6972726f722e6f7267)
 #### [Proxy 2](tg://proxy?server=fast.rubika-iir.co.uk.&port=443&secret=ee1603010200010001fc030386e24c3add7374617469632e666172616b61762e636f6d)
@@ -60,5 +58,6 @@
 #### [Proxy 3](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.rambotan.sbs.&port=9060&secret=FpABAiIBhwH8AwOG42xL3Q==)
 #### [Proxy 4](tg://proxy?server=irancell.rubika-iir.co.uk.&port=443&secret=ee1603010200010001fc030386e24c3add7374617469632e666172616b61762e636f6d)
 #### [Proxy 5](tg://proxy?server=69.197.146.182&port=443&secret=eee7ce9f4679bfc87bb93390ed56e2c9686170742d6d6972726f722e6f7267)
+#### [Proxy 6](tg://proxy?server=185.115.161.133&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q)
 
     
