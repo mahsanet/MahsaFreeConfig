@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-05-19 04:09:21)
+## Free Telegram Proxy (Last Update: 2024-05-19 04:39:24)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=cointoin.ir.padington.info.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw%3D%3D)
 #### [Proxy 2](tg://proxy?server=nobify.org.newerd.info.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw%3D%3D)
@@ -60,6 +60,7 @@
 #### [Proxy 7](tg://proxy?server=185.222.28.20&port=33&secret=FgMBAgABAAH8AwOG4kw63Q)
 #### [Proxy 8](tg://proxy?server=Hezarsh-Mashal0.co.uk.khodnevisc6-bhgrio9.co.uk.&port=7443&secret=FgMBAgABAAH8AwOG4kw63QBQ)
 #### [Proxy 9](tg://proxy?server=oomm-are.rubika-iir.co.uk.&port=443&secret=ee1603010200010001fc030386e24c3add7374617469632e666172616b61762e636f6d)
+#### [Proxy 10](tg://proxy?server=Telewebion.apple.com.co.uk.do_yo.like_be.gti5i_byme.ands.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.now_sudo.again_to_fight.everyone.i_am.the_internet.cloud-dc.co.uk.&port=443&secret=FgMBAgABAAH8AwOG4kw63QBQ)
 ### [Myporoxy](https://t.me/Myporoxy)
 #### [Proxy 1](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.ramcover.sbs.&port=7667&secret=FpABAiIBhwH8AwOG42xL3Q==)
 #### [Proxy 2](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.the_internet.rambotan.sbs.&port=9060&secret=FpABAiIBhwH8AwOG42xL3Q==)
@@ -80,9 +81,5 @@
 #### [Proxy 1](tg://proxy?server=cloudflare.nokia.net.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sud.again_to_fight.everyone.i_am.the_internet.nissan-patrol.pw&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 2](tg://proxy?server=lotusib.ir.chaptak.ir.boomiro.ir.idehno.com.kareirani.ir.bahmangroup.com.hivard.ir.gamefam.ir.solar-group.ir.majedalkazemi.com.sahabdanesh.ir.electrofat.com.darktrench.ir.ahvaz.ir.47kala.com.atiehags.com.tarrahaneyazd.ir.empirmarket.ir.hosseinishop.info&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972)
 #### [Proxy 3](tg://proxy?server=oomm-are.rubika-iir.co.uk.&port=443&secret=ee1603010200010001fc030386e24c3add7374617469632e666172616b61762e636f6d)
-#### [Proxy 4](tg://proxy?server=5.75.152.245&port=8585&secret=FgMBAgABAAH8AwOG4kw63Q)
-#### [Proxy 5](tg://proxy?server=65.21.105.57&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q==)
-#### [Proxy 6](tg://proxy?server=62.113.117.226&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q==)
-#### [Proxy 7](tg://proxy?server=Hezarsh-mashal5.co.uk.khodnevisc5-bhgrio9.co.uk.&port=7443&secret=FgMBAgABAAH8AwOG4kw63QBQ)
 
     
