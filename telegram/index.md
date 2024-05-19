@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-05-19 01:39:23)
+## Free Telegram Proxy (Last Update: 2024-05-19 02:09:20)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=cointoin.ir.padington.info.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw%3D%3D)
 #### [Proxy 2](tg://proxy?server=nobify.org.newerd.info.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw%3D%3D)
@@ -81,11 +81,8 @@
 #### [Proxy 1](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.now_sudo.again_to_fight.everyone.i_am.the_internet.fursmurs.pw.&port=8770&secret=FpABAiIBhwH8AwOG42xL3Q==)
 #### [Proxy 2](tg://proxy?server=Hezarsh-mashal5.co.uk.khodnevisc5-bhgrio9.co.uk.&port=7443&secret=FgMBAgABAAH8AwOG4kw63QBQ)
 #### [Proxy 3](tg://proxy?server=Jigar-Tala.Apple__com.co.uk.do_yo.like_be.gti5i_byme.ands.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.now_sudo.again.ir.tk.ml.gq.hezarsh-mashala5.co.uk.&port=7443&secret=FgMBAgABAAH8AwOG4kw63QHQ)
-#### [Proxy 4](tg://proxy?server=185.115.161.85&port=67&secret=FgMBAgABAAH8AwOG4kw63Q)
-#### [Proxy 5](tg://proxy?server=185.222.28.20&port=33&secret=FgMBAgABAAH8AwOG4kw63Q)
-#### [Proxy 6](tg://proxy?server=65.21.105.57&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q==)
-#### [Proxy 7](tg://proxy?server=62.113.117.226&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q==)
-#### [Proxy 8](tg://proxy?server=185.115.161.239&port=67&secret=FgMBAgABAAH8AwOG4kw63Q)
-#### [Proxy 9](tg://proxy?server=185.115.161.204&port=23&secret=FgMBAgABAAH8AwOG4kw63Q)
+#### [Proxy 4](tg://proxy?server=lotusib.ir.chaptak.ir.boomiro.ir.idehno.com.kareirani.ir.bahmangroup.com.hivard.ir.gamefam.ir.solar-group.ir.majedalkazemi.com.sahabdanesh.ir.electrofat.com.darktrench.ir.ahvaz.ir.47kala.com.atiehags.com.tarrahaneyazd.ir.empirmarket.ir.hosseinishop.info&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972)
+#### [Proxy 5](tg://proxy?server=185.115.161.239&port=67&secret=FgMBAgABAAH8AwOG4kw63Q)
+#### [Proxy 6](tg://proxy?server=185.115.161.204&port=23&secret=FgMBAgABAAH8AwOG4kw63Q)
 
     
