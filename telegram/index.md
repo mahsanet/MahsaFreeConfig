@@ -1,21 +1,5 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-05-28 17:09:40)
-### [ProxyHagh](https://t.me/ProxyHagh)
-#### [Proxy 1](tg://proxy?server=50.7.87.85&port=443&secret=eeaa2b136ab43e64286cd737a2136ec9326170742d63656e746f732e6f7267)
-#### [Proxy 2](tg://proxy?server=50.7.87.85&port=443&secret=eeaa2b136ab43e64286cd737a2136ec9326170742d63656e746f732e6f7267)
-### [PinkProxy](https://t.me/PinkProxy)
-#### [Proxy 1](tg://proxy?server=204.12.192.220&port=443&secret=ee1603010200010001fc030386e24c3add6170742d6b65726e656c2e6f7267)
-#### [Proxy 2](tg://proxy?server=50.7.87.82&port=443&secret=ee1603010200010001fc030386e24c3add6a7573746573746172652e636f6d)
-#### [Proxy 3](tg://proxy?server=50.7.87.82&port=443&secret=ee1603010200010001fc030386e24c3add6a7573746573746172652e636f6d)
-#### [Proxy 4](tg://proxy?server=69.197.146.182&port=443&secret=ee1603010200010001fc030386e24c3add6a7573746573746172652e636f6d)
-### [ProxyDaemi](https://t.me/ProxyDaemi)
-#### [Proxy 1](tg://proxy?server=50.7.85.218&port=443&secret=eee7ce9f4679bfc87bb93390ed56e2c9686170742d6d6972726f722e6f7267)
-#### [Proxy 2](tg://proxy?server=103.69.224.94&port=150&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
-#### [Proxy 3](tg://proxy?server=nobify.org.ilne-ir.info.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw%3D%3D)
-#### [Proxy 4](tg://proxy?server=nobify.org.irline.info.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw%3D%3D)
-#### [Proxy 5](tg://proxy?server=cointoin.ir.ltcoin-plus.info.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw%3D%3D)
-#### [Proxy 6](tg://proxy?server=cloudflare.com.nokia.co.uk.do_you.want_to.clash_without.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.dns_internet.nat-dns.life.&port=3443&secret=FgMBAgABAAH8AwOG4kw63QPQ)
-#### [Proxy 7](tg://proxy?server=nobify.org.ir-line.info.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw%3D%3D)
+## Free Telegram Proxy (Last Update: 2024-05-28 17:39:30)
 
     
