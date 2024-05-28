@@ -1,20 +1,5 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-05-28 13:09:20)
-### [ProxyHagh](https://t.me/ProxyHagh)
-#### [Proxy 1](tg://proxy?server=142.54.189.107&port=443&secret=eeaa2b136ab43e64286cd737a2136ec9326170742d63656e746f732e6f7267)
-#### [Proxy 2](tg://proxy?server=50.7.87.85&port=443&secret=eeaa2b136ab43e64286cd737a2136ec9326170742d63656e746f732e6f7267)
-#### [Proxy 3](tg://proxy?server=69.197.146.180&port=443&secret=eeaa2b136ab43e64286cd737a2136ec9326170742d63656e746f732e6f7267)
-#### [Proxy 4](tg://proxy?server=50.7.87.85&port=443&secret=eeaa2b136ab43e64286cd737a2136ec9326170742d63656e746f732e6f7267)
-#### [Proxy 5](tg://proxy?server=69.197.146.180&port=443&secret=eeaa2b136ab43e64286cd737a2136ec9326170742d63656e746f732e6f7267)
-#### [Proxy 6](tg://proxy?server=50.7.87.85&port=443&secret=eeaa2b136ab43e64286cd737a2136ec9326170742d63656e746f732e6f7267)
-### [PinkProxy](https://t.me/PinkProxy)
-#### [Proxy 1](tg://proxy?server=50.7.87.82&port=443&secret=ee1603010200010001fc030386e24c3add6a7573746573746172652e636f6d)
-#### [Proxy 2](tg://proxy?server=50.7.87.82&port=443&secret=ee1603010200010001fc030386e24c3add6a7573746573746172652e636f6d)
-### [ProxyDaemi](https://t.me/ProxyDaemi)
-#### [Proxy 1](tg://proxy?server=shahre-ajibiye.work.u-k.cloudflare.com.do-yo.want-to.clash-with.this.www.microsoft.com.there-is-no.dlate-fine.google.comwww.dynu.com.count-with-me.cyou.com.now-sudo.rm-rf.ddns.net.we-are-here.again-to-fight.everyone.i-am.the-intern.dkknyzxo.ddnsfree.com.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw%3D%3D)
-### [proxyforopeta](https://t.me/proxyforopeta)
-#### [Proxy 1](tg://proxy?server=shahre-ajibiye.work.u-k.cloudflare.com.do-yo.want-to.clash-with.this.www.microsoft.com.there-is-no.dlate-fine.google.comwww.dynu.com.count-with-me.cyou.com.now-sudo.rm-rf.ddns.net.we-are-here.again-to-fight.everyone.i-am.the-intern.dkknyzxo.ddnsfree.com.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw%3D%3D)
-#### [Proxy 2](tg://proxy?server=shahre-ajibiye.work.u-k.cloudflare.com.do-yo.want-to.clash-with.this.www.microsoft.com.there-is-no.dlate-fine.google.comwww.dynu.com.count-with-me.cyou.com.now-sudo.rm-rf.ddns.net.we-are-here.again-to-fight.everyone.i-am.the-intern.dkknyzxo.ddnsfree.com.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw%3D%3D)
+## Free Telegram Proxy (Last Update: 2024-05-28 13:39:27)
 
     
