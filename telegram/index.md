@@ -1,17 +1,5 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-05-29 09:09:27)
-### [PinkProxy](https://t.me/PinkProxy)
-#### [Proxy 1](tg://proxy?server=50.7.87.82&port=443&secret=ee1603010200010001fc030386e24c3add6a7573746573746172652e636f6d)
-#### [Proxy 2](tg://proxy?server=50.7.87.82&port=443&secret=ee1603010200010001fc030386e24c3add6a7573746573746172652e636f6d)
-#### [Proxy 3](tg://proxy?server=204.12.192.221&port=443&secret=ee1603010200010001fc030386e24c3add6170742d6b65726e656c2e6f7267)
-#### [Proxy 4](tg://proxy?server=69.197.146.182&port=443&secret=ee1603010200010001fc030386e24c3add6a7573746573746172652e636f6d)
-#### [Proxy 5](tg://proxy?server=142.54.189.108&port=443&secret=ee1603010200010001fc030386e24c3add646f636b65722d6d6972726f722e6f7267)
-#### [Proxy 6](tg://proxy?server=204.12.192.221&port=443&secret=ee1603010200010001fc030386e24c3add6170742d6b65726e656c2e6f7267)
-### [ProxyDaemi](https://t.me/ProxyDaemi)
-#### [Proxy 1](tg://proxy?server=168.119.124.184&port=4896&secret=7HQighJPBNMYVRNB6tdkVw)
-#### [Proxy 2](tg://proxy?server=5.75.215.179&port=4896&secret=7HQighJPBNMYVRNB6tdkVw)
-#### [Proxy 3](tg://proxy?server=afkco.com.miralglass.com.kiasa.ir.onsgem.ir.mahabab.com.yahyatavakoli.ir.bamashin.net.tehrani1350.com.beday.ir.arvandargham.ir.decosun.ir.mseifi.ir.saeidsarikhani.ir.fujitsushop.ir.kandooche.ir.tls-c.com.mahdayat313.ir.ifbb.ir.taaknetnewinternet.website&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY%3D)
-#### [Proxy 4](tg://proxy?server=91.107.138.64&port=2001&secret=7HQighJPBNMYVRNB6tdkVw)
+## Free Telegram Proxy (Last Update: 2024-05-29 09:39:19)
 
     
