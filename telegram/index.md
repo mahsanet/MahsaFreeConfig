@@ -1,5 +1,20 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-05-29 09:39:19)
+## Free Telegram Proxy (Last Update: 2024-05-29 10:09:18)
+### [PinkProxy](https://t.me/PinkProxy)
+#### [Proxy 1](tg://proxy?server=204.12.192.221&port=443&secret=ee1603010200010001fc030386e24c3add6170742d6b65726e656c2e6f7267)
+#### [Proxy 2](tg://proxy?server=142.54.189.108&port=443&secret=ee1603010200010001fc030386e24c3add646f636b65722d6d6972726f722e6f7267)
+#### [Proxy 3](tg://proxy?server=204.12.192.221&port=443&secret=ee1603010200010001fc030386e24c3add6170742d6b65726e656c2e6f7267)
+#### [Proxy 4](tg://proxy?server=88.80.135.15&port=54403&secret=FgMBAgABAAH8AwOG4kw63Q)
+### [ProxyDaemi](https://t.me/ProxyDaemi)
+#### [Proxy 1](tg://proxy?server=142.54.189.107&port=443&secret=ee1603010200010001fc030386e24c3add6862616E696D2E696E666F)
+#### [Proxy 2](tg://proxy?server=49.13.230.158&port=8083&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
+#### [Proxy 3](tg://proxy?server=afkco.com.miralglass.com.kiasa.ir.onsgem.ir.mahabab.com.yahyatavakoli.ir.bamashin.net.tehrani1350.com.beday.ir.arvandargham.ir.decosun.ir.mseifi.ir.saeidsarikhani.ir.fujitsushop.ir.kandooche.ir.tls-c.com.mahdayat313.ir.ifbb.ir.taaknetnewinternet.website&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY%3D)
+#### [Proxy 4](tg://proxy?server=91.107.138.64&port=2001&secret=7HQighJPBNMYVRNB6tdkVw)
+#### [Proxy 5](tg://proxy?server=jebco.ir.sasha-kids.ir.farzanshop.ir.bornapardaz.n_et.perfumeonline.ir.pmcgroup.ir.zayanderoodcrc.com.powermta.ir.beitolmahdi.org.iauabdanan.ac.ir.pag-co.com.asemanlian.com.comp_arecrm.ir.markeiran.ir.wfkbf.org.neghabcity.ir.aamelec.com.keetabforosh.sbs.&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY%3D)
+### [proxyforopeta](https://t.me/proxyforopeta)
+#### [Proxy 1](tg://proxy?server=78.135.73.228&port=6789&secret=ec742282124f04d127551341ead76457)
+#### [Proxy 2](tg://proxy?server=giran.ir.ceramshop.ir.irandnn.ir.nkhnanokade.ir.bipdownload.ir.pardisfan.com.silvis.ir.andisheh-bartar.com.rahpooyan-amin.com.tbe.ir.bazakkala.ir.honartandis.com.ppramin.com.aliyaripour.com.hichik.ir.javadzarban.ir.danaeng.com.taaknetnewinternet.website&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972)
+#### [Proxy 3](tg://proxy?server=5.75.215.179&port=4896&secret=7HQighJPBNMYVRNB6tdkVw)
 
     
