@@ -1,9 +1,9 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-05-30 01:09:15)
+## Free Telegram Proxy (Last Update: 2024-05-30 01:39:14)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=cloudflare.com.nokia.com.do_you.want_to.clash_without.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.vpsserver-sefgh-1bi.co.uk.&port=000000000000000000000000000000000000000000000000000000000000000000000000000007443&secret=FgMBAgABAAH8AwOG4kw63QBQ)
-#### [Proxy 2](tg://proxy?server=cloudflare.nokia.net.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sud.again_to_fight.everyone.i_am.the_internetff.donyayebazi.college.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw%3D%3D)
+#### [Proxy 2](tg://proxy?server=cloudflare.nokia.net.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sud.again_to_fight.everyone.i_am.the_interne.mizan-online.help.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw%3D%3D)
 #### [Proxy 3](tg://proxy?server=cloudflare.nokia.net.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sud.again_to_fight.everyone.i_am.the_intern.Tamin-insure.foundation.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw%3D%3D)
 #### [Proxy 4](tg://proxy?server=ruzbazaar.ir.inoueha.ir.shokufehcup.com.rgwr.ir.ravanbakhsh.net.hariri.id.ir.digiarak.ir.axomaks.ir.mosame.ir.tehranbaz-tour.ir.tamin-mohtava.com.picgroup.ir.ftet.ir.ahmadzolfaghari.com.majdgroup.ir.kiasa.ir.doraan.ir.newpopcorn.ir.tiptopshoesali.online&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY%3D)
 #### [Proxy 5](tg://proxy?server=dentaj-co.com.arttic.ir.mog-him24.net.shopiloo.ir.pishbordgroup.com.ahmc.ir.idealand1.ir.tourlin.com.kisc.ir.banerkala.ir.aqc.ir.vbayati.ir.buysalestore.ir.nfus.ir.yafta-mobl.ir.rentija.com.rademaker.ir.abadisholding.com.esaving.ir.tiptopshoesali.online&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972)
@@ -48,9 +48,10 @@
 #### [Proxy 3](tg://proxy?server=77.238.241.94&port=4443&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 4](tg://proxy?server=88.80.135.105&port=54403&secret=FgMBAgABAAH8AwOG4kw63Q)
 #### [Proxy 5](tg://proxy?server=5.75.251.26&port=23&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
-#### [Proxy 6](tg://proxy?server=afkco.com.miralglass.com.kiasa.ir.onsgem.ir.mahabab.com.yahyatavakoli.ir.bamashin.net.tehrani1350.com.beday.ir.arvandargham.ir.decosun.ir.mseifi.ir.saeidsarikhani.ir.fujitsushop.ir.kandooche.ir.tls-c.com.mahdayat313.ir.ifbb.ir.taaknetnewinternet.website&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY%3D)
-#### [Proxy 7](tg://proxy?server=91.107.138.64&port=2001&secret=7HQighJPBNMYVRNB6tdkVw)
-#### [Proxy 8](tg://proxy?server=jebco.ir.sasha-kids.ir.farzanshop.ir.bornapardaz.n_et.perfumeonline.ir.pmcgroup.ir.zayanderoodcrc.com.powermta.ir.beitolmahdi.org.iauabdanan.ac.ir.pag-co.com.asemanlian.com.comp_arecrm.ir.markeiran.ir.wfkbf.org.neghabcity.ir.aamelec.com.keetabforosh.sbs.&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY%3D)
+#### [Proxy 6](tg://proxy?server=49.13.230.158&port=8083&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
+#### [Proxy 7](tg://proxy?server=afkco.com.miralglass.com.kiasa.ir.onsgem.ir.mahabab.com.yahyatavakoli.ir.bamashin.net.tehrani1350.com.beday.ir.arvandargham.ir.decosun.ir.mseifi.ir.saeidsarikhani.ir.fujitsushop.ir.kandooche.ir.tls-c.com.mahdayat313.ir.ifbb.ir.taaknetnewinternet.website&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY%3D)
+#### [Proxy 8](tg://proxy?server=91.107.138.64&port=2001&secret=7HQighJPBNMYVRNB6tdkVw)
+#### [Proxy 9](tg://proxy?server=jebco.ir.sasha-kids.ir.farzanshop.ir.bornapardaz.n_et.perfumeonline.ir.pmcgroup.ir.zayanderoodcrc.com.powermta.ir.beitolmahdi.org.iauabdanan.ac.ir.pag-co.com.asemanlian.com.comp_arecrm.ir.markeiran.ir.wfkbf.org.neghabcity.ir.aamelec.com.keetabforosh.sbs.&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY%3D)
 ### [Myporoxy](https://t.me/Myporoxy)
 #### [Proxy 1](tg://proxy?server=188.245.34.144&port=1919&secret=7HQighJPBNMYVRNB6tdkVw)
 #### [Proxy 2](tg://proxy?server=Dash.Cloudflare.com.www.google.com.hercoll.pw&port=1919&secret=7HQighJPBNMYVRNB6tdkVw)
@@ -61,5 +62,6 @@
 #### [Proxy 2](tg://proxy?server=49.13.230.158&port=8083&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 3](tg://proxy?server=88.80.135.15&port=54403&secret=FgMBAgABAAH8AwOG4kw63Q)
 #### [Proxy 4](tg://proxy?server=185.222.28.9&port=33&secret=7HQighJPBNMYVRNB6tdkVw)
+#### [Proxy 5](tg://proxy?server=77.238.241.94&port=4443&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 
     
