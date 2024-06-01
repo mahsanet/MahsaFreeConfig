@@ -1,15 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-06-01 04:09:17)
-### [ProxyMTProto](https://t.me/ProxyMTProto)
-#### [Proxy 1](tg://proxy?server=flare.nokia.net.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sud.again_to_fight.everyone.i_am.the_internet.abzderr-ioyufv.baby.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw%3D%3D)
-#### [Proxy 2](tg://proxy?server=sga24.ir.batterysell.ir.behinroyesh.ir.bookgrant.ir.tschealthcare.com.aramisparts.com.ferza-pp.com.talkhandmashhad.ir.ktae.ir.nojehdeh.ir.dda.co.ir.pdib.ir.ani-pasand.ir.namas-onnat.ir.tehranpadir.ir.tos-egostar.com.artgereh.com.mangeasuatechcloud.cloud&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972)
-#### [Proxy 3](tg://proxy?server=flare.nokia.net.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sud.again_to_fight.everyone.i_am.the_internet.bourso-rrama.autos.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw%3D%3D)
-#### [Proxy 4](tg://proxy?server=cloudflare.nokia.net.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sud.again_to_fight.everyone.i_am.the_internet.nissan-pikaan.baby.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw%3D%3D)
-#### [Proxy 5](tg://proxy?server=cloudflare.nokia.net.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sud.again_to_fight.everyone.i_am.the_intern.Tamin-insure.foundation.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw%3D%3D)
-#### [Proxy 6](tg://proxy?server=flare.nokia.net.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sud.again_to_fight.everyone.i_am.the_internet.salamcinama-nn.christmas.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw%3D%3D)
-#### [Proxy 7](tg://proxy?server=cloudflare.yjc.ir.tabnak.ir.entekhab_com.eslami.ac.ir.bonyadmaskan.com.hidoctor_com.etemadonline.com.rokna.net.ayandehnews_com.farhangnews.ir.irna_com.shahrekhabar.com.rajanews_com.zoomit.ir.digiato.com.ninisite.com.beytoote_com.org.sheffield.college.&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY%3D)
-#### [Proxy 8](tg://proxy?server=cloudflare.sarpoosh_com.mehrpatogh.com.seemorgh.com.cloob_com.tci.ir.radiofarda.com.salamcinama_com.sahamyab.com.darmanito_com.etemadonline.com.rokna.net.ayandehnews.org.justdoing.business.&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972)
+## Free Telegram Proxy (Last Update: 2024-06-01 04:39:19)
 ### [ProxyHagh](https://t.me/ProxyHagh)
 #### [Proxy 1](tg://proxy?server=mcimcill.com.iranvell.co.uk.do_yo.want_to.clash_with.this.microsoft.com.there_is_no.place_nano.localhost.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.special_wayairancell.emirblog.com.&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 2](tg://proxy?server=mcimcill.com.iranvell.co.uk.do_yo.want_to.clash_with.this.microsoft.com.there_is_no.place_nano.localhost.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.special_wayairancell.emirblog.com.&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q==)
@@ -68,6 +59,5 @@
 #### [Proxy 3](tg://proxy?server=shamehshab.ir.fakechin.ir.chapo-tarahi.ir.yousefpadganeh.com.maneshilam.ir.itconf.ir.kamaa.ir.overit.ir.ranginkama-nkala.ir.karyabishayanmehr.ir.topcvs.ir.rosehotel.ir.septonet.ir.in1min.ir.khorasanihakarbala.com.kanganmall.ir.taaknetnewinternet.website&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY=)
 #### [Proxy 4](tg://proxy?server=se24.ir.airpocket.ir.kalamehrgroup.c-om.drroshanimplant.com.derisshop.ir.farasatafzar.com.neshat-dubai.com.medi-ahamibot.ir.pasconouri.com.mpsh.ir.roshanygashtonline.com.micropuff.ir.dorehaieazad.ir.mehrrazavi.com.parcellco.ir.ayhanmobilecompany.website&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY=)
 #### [Proxy 5](tg://proxy?server=mcimcill.com.iranvell.co.uk.do_yo.want_to.clash_with.this.microsoft.com.there_is_no.place_nano.localhost.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.special_wayairancell.emirblog.com.&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q==)
-#### [Proxy 6](tg://proxy?server=185.115.161.146&port=4443&secret=7HQighJPBNMYVRNB6tdkVw)
 
     
