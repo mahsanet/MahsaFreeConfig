@@ -1,6 +1,6 @@
 {
   "dns": {
-    "hosts": {
+    "hosts": {      
       "domain:googleapis.cn": "googleapis.com"
     },
     "servers": [
@@ -55,11 +55,12 @@
         "mtu": 1280,
         "peers": [
           {
-            "endpoint": "162.159.192.35:8742",
+            "endpoint": "188.114.99.108:928",
             "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo="
           }
         ],
-        "secretKey": "aOFibRKOvHiBgRfNHL/fTA51HW8xsyhpcMfR+Zl0Ams="
+        "reserved": [142,154,254],
+        "secretKey": "OFdKhC2JwfzIrx93qgf/t2loZKdrMaI68zpoce8/xlk="
       },
       "tag": "proxy"
     },
@@ -78,6 +79,7 @@
       "tag": "block"
     }
   ],
+  "remarks": "warp sample",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
@@ -89,6 +91,7 @@
         "port": "53",
         "type": "field"
       }
+      
     ]
   }
 }
