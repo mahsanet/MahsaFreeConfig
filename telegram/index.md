@@ -1,8 +1,17 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-06-11 07:39:12)
+## Free Telegram Proxy (Last Update: 2024-06-11 08:09:10)
+### [ProxyMTProto](https://t.me/ProxyMTProto)
+#### [Proxy 1](tg://proxy?server=cloudflare.nokia.net.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sud.again_to_fight.everyone.i_am.the_internet.cisco-firewall.autos.&port=1234&secret=3QAAAAAAAAAAAAAAAAAAAAA=)
+### [PinkProxy](https://t.me/PinkProxy)
+#### [Proxy 1](tg://proxy?server=94.130.77.215&port=7&secret=7HQighJPBNEnVRNB6tdkVw)
+### [ProxyDaemi](https://t.me/ProxyDaemi)
+#### [Proxy 1](tg://proxy?server=cloudflare.com.nukia.com.do_you.want_to.clash_without.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.order-bl1k-netconf.info.&port=7443&secret=FgMBAgABAAH8AwOG4kw63QBQ)
+#### [Proxy 2](tg://proxy?server=Cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.khamanei.ir.again_to_fight.everyone.i_am.the_internet.dashakol.pw&port=5777&secret=FgMBAgABAAH8AwOG4kw63Q==)
+#### [Proxy 3](tg://proxy?server=cloudflare.nokia.net.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sud.again_to_fight.everyone.i_am.the_internet.notesappstore.beauty.&port=1234&secret=3QAAAAAAAAAAAAAAAAAAAAA%3D)
+### [Myporoxy](https://t.me/Myporoxy)
+#### [Proxy 1](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.khamanei.ir.again_to_fight.everyone.i_am.the_internet.dortmond.sbs.&port=1881&secret=FgMBAgABAAH8AwOG4kw63Q==)
 ### [proxyforopeta](https://t.me/proxyforopeta)
 #### [Proxy 1](tg://proxy?server=cloudflare.com.nukia.com.do_you.want_to.clash_without.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.order-bl1k-netconf.info.&port=7443&secret=FgMBAgABAAH8AwOG4kw63QBQ)
-#### [Proxy 2](tg://proxy?server=newmcill.com.iranzell.co.uk.do_yo.want_to.clash_with.this.microsoft.com.there_is_no.place_nano.localhost.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.special_wayairancell.emirblog.com.&port=798&secret=7HQighJPBNMYVRNB6tdkVw)
 
     
