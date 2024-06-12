@@ -1,20 +1,8 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-06-12 13:09:31)
-### [ProxyHagh](https://t.me/ProxyHagh)
-#### [Proxy 1](tg://proxy?server=haghmcil.mci.newmcioo.co.uk.do_yo.want_to.clash_with.this.microsoft.com.there_is_no.place_nano.localhost.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.special_wayairmcimci.emirblog.com.&port=443&secret=ee1603010200010001fc030386e24c3add6170692d64656c626c6f672e636f2e756b)
-### [PinkProxy](https://t.me/PinkProxy)
-#### [Proxy 1](tg://proxy?server=94.177.51.36&port=777&secret=7HQighJPBNMYVRNB6tdkVw)
-### [ProxyDaemi](https://t.me/ProxyDaemi)
-#### [Proxy 1](tg://proxy?server=cloudflare.com.nokia.co.uk.do_you.want_to.clash_without.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.tcp_internet.tcp-udp.co.uk.&port=3443&secret=FgMBAgABAAH8AwOG4kw63QPQ)
-#### [Proxy 2](tg://proxy?server=cloudflare.com.nukia.com.do_you.want_to.clash_without.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.order-bl1k-netconf.info&port=7443&secret=FgMBAgABAAH8AwOG4kw63QBQ)
-#### [Proxy 3](tg://proxy?server=haghmcil.mci.newmcioo.co.uk.do_yo.want_to.clash_with.this.microsoft.com.there_is_no.place_nano.localhost.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.special_wayairmcimci.emirblog.com.&port=443&secret=ee1603010200010001fc030386e24c3add6170692d64656c626c6f672e636f2e756b&channel=@Proxy_PJ)
-#### [Proxy 4](tg://proxy?server=cloudflare.com.nokia.co.uk.do_you.want_to.clash_without.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.udp_internet.tcp-udp.co.uk.&port=3443&secret=FgMBAgABAAH8AwOG4kw63QPQ)
-#### [Proxy 5](tg://proxy?server=cloudflare.com.nkkia.com.do_0_you.want_to.clash_without.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.coir-ir2i.co.uk.&port=7443&secret=FgMBAgABAAH8AwOG4kw63QBQ)
-#### [Proxy 6](tg://proxy?server=cloudflare.com.nokia.co.uk.do_you.want_to.clash_without.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.ftp_internet.tcp-udp.co.uk.&port=3443&secret=FgMBAgABAAH8AwOG4kw63QPQ)
+## Free Telegram Proxy (Last Update: 2024-06-12 13:39:30)
 ### [Myporoxy](https://t.me/Myporoxy)
 #### [Proxy 1](tg://proxy?server=Microsoft.com.cloudflare.com.www.dl.google.com.adriano.top&port=7799&secret=6HQighJPCNNYVRNB6tdkAgBQ)
 #### [Proxy 2](tg://proxy?server=Microsoft.com.cloudflare.com.www.dl.google.com.adriano.top&port=7799&secret=6HQighJPCNNYVRNB6tdkAgBQ)
-#### [Proxy 3](tg://proxy?server=Microsoft.com.cloudflare.com.www.dl.google.com.adriano.top&port=7799&secret=6HQighJPCNNYVRNB6tdkAgBQ)
 
     
