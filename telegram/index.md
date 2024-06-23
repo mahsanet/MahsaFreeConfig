@@ -1,6 +1,12 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-06-23 00:09:08)
+## Free Telegram Proxy (Last Update: 2024-06-23 00:39:09)
+### [ProxyMTProto](https://t.me/ProxyMTProto)
+#### [Proxy 1](tg://proxy?server=cloudflare.com.nokia.co.uk.do_you.want_to.clash_without.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.tls_internet.tls-dns.co.uk.&port=000000000000000000000000000000000000000000000000000000000000000000000000000003443&secret=FgMBAgABAAH8AwOG4kw63QPQ)
+#### [Proxy 2](tg://proxy?server=cloudflare.com.nokia.co.uk.do_you.want_to.clash_without.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.dns_internet.tls-dns.co.uk.&port=000000000000000000000000000000000000000000000000000000000000000000000000000003443&secret=FgMBAgABAAH8AwOG4kw63QPQ)
+#### [Proxy 3](tg://proxy?server=cloudflare.com.nokia.co.uk.do_you.want_to.clash_without.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sudo.again_to_fight.everyone.i_am.ssl_internet.dns-tls.co.uk.&port=000000000000000000000000000000000000000000000000000000000000000000000000000003443&secret=FgMBAgABAAH8AwOG4kw63QPQ)
+#### [Proxy 4](tg://proxy?server=benz.hezarsh-mashal0.co.uk.tyhsmbfh0-hsjs.co.uk.zttpykhad-sdj.co.uk.xhktppkhdd-sdhj.co.uk.&port=7443&secret=FgMBAgABAAH8AwOG4kw63QBQ)
+#### [Proxy 5](tg://proxy?server=benz.hezarsh-mashal0.co.uk.tyhsmbfh0-hsjs.co.uk.zttpykhad-sdj.co.uk.&port=7443&secret=FgMBAgABAAH8AwOG4kw63QBQ)
 ### [ProxyDaemi](https://t.me/ProxyDaemi)
 #### [Proxy 1](tg://proxy?server=78.47.198.72&port=8085&secret=eeRighJJvXrFGRMCIMJdCQ)
 #### [Proxy 2](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.google.com.again_to_fight.everyone.i_am.the_internet.deragon.store&port=6550&secret=7HQighJPBNMYVRNB6tdkVwPQ)
