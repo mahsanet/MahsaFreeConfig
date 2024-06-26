@@ -1,6 +1,12 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-06-26 15:39:10)
+## Free Telegram Proxy (Last Update: 2024-06-26 16:09:10)
+### [ProxyMTProto](https://t.me/ProxyMTProto)
+#### [Proxy 1](tg://proxy?server=cloudflare.nokia.net.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sud.again_to_fight.everyone.i_am.the_interne.diversitycompany.boats.&port=5777&secret=eeRigzNJvXrFGRMCIMJdEA)
+#### [Proxy 2](tg://proxy?server=cloudflare.nokia.net.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sud.again_to_fight.everyone.i_am.the_internettttt.sideshowmel.autos.&port=5777&secret=eeRigzNJvXrFGRMCIMJdEA)
+### [ProxyDaemi](https://t.me/ProxyDaemi)
+#### [Proxy 1](tg://proxy?server=cloudflare.nokia.net.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.hamesternotcoin.com.&port=44443&secret=eeRighJJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+#### [Proxy 2](tg://proxy?server=cloudflare.nokia.net.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.ye-dokhtar-daram-shah-nadare.sbs.&port=44443&secret=eeRighJJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 ### [Myporoxy](https://t.me/Myporoxy)
 #### [Proxy 1](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.google.com.again_to_fight.everyone.i_am.the_internet.ridairect.skin.&port=7667&secret=eeRigzNJvXrFGRMCIMJdEAPQ)
 #### [Proxy 2](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.google.com.again_to_fight.everyone.i_am.the_internet.hercool.click.&port=1919&secret=eeRigzNJvXrFGRMCIMJdEAPQ)
