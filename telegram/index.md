@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-06-29 01:09:26)
+## Free Telegram Proxy (Last Update: 2024-06-29 01:39:27)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=maharatkart.ir.dumantarabar.com.taavon2-farsedu.ir.vacuumpou-ya.com.helikala.com.souli.ir.variz.me.javaherha.ir.mmpars-vnd.com.medisib.com.ojan.org.myheaven.ir.khanehma-hak.ir.wagg-on-ads.com.bor-hantanposh.ir.davamgroup.com.mecadium.ir.kalabama.website&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY%3D)
 #### [Proxy 2](tg://proxy?server=185.148.144.50&port=4443&secret=7777772e6e69632e69727w)
@@ -23,7 +23,7 @@
 #### [Proxy 8](tg://proxy?server=108.165.67.23&port=2053&secret=7nnkoTiYizM1sawK4WKisQpteS0uY2RuLmly)
 #### [Proxy 9](tg://proxy?server=116.202.8.81&port=110&secret=7777772e6e69632e69727w)
 ### [ProxyDaemi](https://t.me/ProxyDaemi)
-#### [Proxy 1](tg://proxy?server=bmw.hezarsh-mashal0.co.vjhkgttrrhks-sdcj.co.uk.pwkxjjrhks-skci.co.uk.pwkxjjrhks-ikcj.co.uk.fskxjjrhks-rkcr.co.uk.mstukxjjrhkss-jscj.co.uk.&port=7443&secret=eeRighJJvXrFGRMCIMJdCQ)
+#### [Proxy 1](tg://proxy?server=cloudflare.nokia.net.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sud.again_to_fight.everyone.i_am.spinaspulas.success-tan.click&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3t0Z2p1Lm9yZw)
 #### [Proxy 2](tg://proxy?server=cloudflare.nokia.net.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.ye-dokhtar-daram-shah-nadare.sbs.&port=44443&secret=eeRighJJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 3](tg://proxy?server=cloudflare.nokia.net.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.hamesternotcoin.com.&port=44443&secret=eeRighJJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 ### [Myporoxy](https://t.me/Myporoxy)
