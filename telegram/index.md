@@ -1,10 +1,5 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-07-08 09:09:04)
-### [PinkProxy](https://t.me/PinkProxy)
-#### [Proxy 1](tg://proxy?server=googlemag.ir.padnc.ir.forotel.com.armity.ir.iraniancenter.ir.parsitak1.ir.jobs21.ir.attune.ir.amin8953.com.mostafasayyedi.ir.6sobh.com.toskal.ir.rasisafzar.com.banerkala.ir.bornarasaneh.ir.persiangulfcarpet.ir.telegram-chat.zarinclock.ir&port=8485&secret=FgMBAgABAAH8AwOG4kw63Q==)
-### [ProxyDaemi](https://t.me/ProxyDaemi)
-#### [Proxy 1](tg://proxy?server=nanegha.ir.kingsfordenglish.com.maughanii.ir.roccotehran.com.ghab-co.com.persian-machine.ir.shayan--co.ir.mssameh.com.advertisingphotography.ir.p-kits.ir.mahsanarkasanat.ir.ocst-hr.com.shafashiraz.com.yourbuy.ir.behpadco.ir.fadakflower.ir.shahabkala.sbs&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972)
-#### [Proxy 2](tg://proxy?server=googlemag.ir.padnc.ir.forotel.com.armity.ir.iraniancenter.ir.parsitak1.ir.jobs21.ir.attune.ir.amin8953.com.mostafasayyedi.ir.6sobh.com.toskal.ir.rasisafzar.com.banerkala.ir.bornarasaneh.ir.persiangulfcarpet.ir.telegram-chat.zarinclock.ir&port=8485&secret=FgMBAgABAAH8AwOG4kw63Q==)
+## Free Telegram Proxy (Last Update: 2024-07-08 09:37:06)
 
     
