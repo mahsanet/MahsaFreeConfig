@@ -1,12 +1,14 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-07-09 02:09:14)
+## Free Telegram Proxy (Last Update: 2024-07-09 02:39:12)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=188.245.64.74&port=7443&secret=eeRighJJvXrFGRMCIMJdCQ)
 #### [Proxy 2](tg://proxy?server=188.245.43.149&port=7443&secret=eeRighJJvXrFGRMCIMJdCQ)
 #### [Proxy 3](tg://proxy?server=188.245.64.74&port=7443&secret=eeRighJJvXrFGRMCIMJdCQ)
-#### [Proxy 4](tg://proxy?server=benz.ishala-mashal0.co.uk.pwkxjjrhks-skci.co.uk.pwkxjjrhks-ikcj.co.uk.fskxjjrhks-rkcr.co.uk.mstukxjjrhkss-jscj.co.uk.bbnztweet.co.uk.&port=7443&secret=eeRighJJvXrFGRMCIMJdCQ)
-#### [Proxy 5](tg://proxy?server=benz.ishala-mashal0.co.uk.pwkxjjrhks-skci.co.uk.pwkxjjrhks-ikcj.co.uk.fskxjjrhks-rkcr.co.uk.mstukxjjrhkss-jscj.co.uk.blnztweet.co.uk.&port=7443&secret=eeRighJJvXrFGRMCIMJdCQ)
+#### [Proxy 4](tg://proxy?server=PULIGUUN-UUSDR-ARZLAN-google.com-gmail.com-nokia.com-bmi.ir.romjsjfh-uioen.co.uk.&port=7443&secret=FgMBAgABAAH8AwOG4kw63QBQ)
+#### [Proxy 5](tg://proxy?server=benz.ishala-mashal0.co.uk.pwkxjjrhks-skci.co.uk.pwkxjjrhks-ikcj.co.uk.fskxjjrhks-rkcr.co.uk.mstukxjjrhkss-jscj.co.uk.brnztweet.co.uk.&port=7443&secret=eeRighJJvXrFGRMCIMJdCQ)
+#### [Proxy 6](tg://proxy?server=benz.ishala-mashal0.co.uk.pwkxjjrhks-skci.co.uk.pwkxjjrhks-ikcj.co.uk.fskxjjrhks-rkcr.co.uk.mstukxjjrhkss-jscj.co.uk.bbnztweet.co.uk.&port=7443&secret=eeRighJJvXrFGRMCIMJdCQ)
+#### [Proxy 7](tg://proxy?server=benz.ishala-mashal0.co.uk.pwkxjjrhks-skci.co.uk.pwkxjjrhks-ikcj.co.uk.fskxjjrhks-rkcr.co.uk.mstukxjjrhkss-jscj.co.uk.blnztweet.co.uk.&port=7443&secret=eeRighJJvXrFGRMCIMJdCQ)
 ### [PinkProxy](https://t.me/PinkProxy)
 #### [Proxy 1](tg://proxy?server=95.169.173.3&port=8443&secret=eeSP1DwbIqxydaZDlr0-6A)
 ### [ProxyDaemi](https://t.me/ProxyDaemi)
@@ -33,10 +35,5 @@
 #### [Proxy 5](tg://proxy?server=187.77.238.234.scpclientcp.ir&port=7654&secret=eeRighJJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 6](tg://proxy?server=48.148.128.4-5-6-7-8-9.ir&port=123&secret=eeRighJJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 7](tg://proxy?server=67.109.245.127.ragnalfoloki6.ir&port=7389&secret=eecDwbc3CbTTyCX4Nmc2wtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-#### [Proxy 8](tg://proxy?server=108.44.77.37-143.ir.&port=7449&secret=eeCYASXWRvswmpSld2kh1AtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-#### [Proxy 9](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.bmi.again_to_fight.everyone.i_am.the_internet.sorse-crack.homes.&port=443&secret=eeRigzNJvXrFGRMCIMJdEA)
-#### [Proxy 10](tg://proxy?server=187.77.238.234.scpclientcp.ir&port=7654&secret=eeRighJJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-#### [Proxy 11](tg://proxy?server=185.115.161.90&port=68&secret=eERighJJvXrFGRMCIMJdCQ)
-#### [Proxy 12](tg://proxy?server=www.eshtotgart.ats.atseam.ir&port=56789&secret=eeRighJJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 
     
