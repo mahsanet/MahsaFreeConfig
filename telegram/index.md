@@ -1,8 +1,9 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-07-14 23:39:12)
+## Free Telegram Proxy (Last Update: 2024-07-15 00:09:13)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
-#### [Proxy 1](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.google.com.again_to_fight.everyone.i_am.the_internettttttttt.btnztewet.co.uk.&port=2741&secret=eeRighJJvXrFGRMCIMJdCQ)
+#### [Proxy 1](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.google.com.again_to_fight.everyone.i_am.the_internettttttttt.btnzteeet.co.uk.&port=2741&secret=eeRighJJvXrFGRMCIMJdCQ)
+#### [Proxy 2](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.google.com.again_to_fight.everyone.i_am.the_internettttttttt.btnztewet.co.uk.&port=2741&secret=eeRighJJvXrFGRMCIMJdCQ)
 ### [ProxyDaemi](https://t.me/ProxyDaemi)
 #### [Proxy 1](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.google.com.again_to_fight.everyone.i_am.the_internet.hamster-kombot.fun.&port=1201&secret=eeRigzNJvXrFGRMCIMJdEAPQ)
 #### [Proxy 2](tg://proxy?server=91.219.236.124&port=777&secret=7HQighJPBNMYVRNB6tdkVw)
@@ -29,6 +30,9 @@
 #### [Proxy 4](tg://proxy?server=cloudflare.nokia.net.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.starbestir.com.&port=44443&secret=eeRighJJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 5](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.bmi.again_to_fight.everyone.i_am.the_internet.rackford.lat.&port=8770&secret=eeRigzNJvXrFGRMCIMJdEAPQ)
 #### [Proxy 6](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.google.com.again_to_fight.everyone.i_am.the_internet.life-is0e-better.shop.&port=3371&secret=eeRigzNJvXrFGRMCIMJdEAPQ)
-#### [Proxy 7](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.google.com.again_to_fight.everyone.i_am.the_internet.hamster-kombot.fun.&port=1201&secret=eeRigzNJvXrFGRMCIMJdEAPQ)
+#### [Proxy 7](tg://proxy?server=cloudflare.nokia.net.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.rira-realestate.ir.&port=44443&secret=eeRighJJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+#### [Proxy 8](tg://proxy?server=91.219.236.124&port=777&secret=7HQighJPBNMYVRNB6tdkVw)
+#### [Proxy 9](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.bmi.again_to_fight.everyone.i_am.the_internet.anahitaa.lol.&port=4550&secret=eeRigzNJvXrFGRMCIMJdEAPQ)
+#### [Proxy 10](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.google.com.again_to_fight.everyone.i_am.the_internet.hamster-kombot.fun.&port=1201&secret=eeRigzNJvXrFGRMCIMJdEAPQ)
 
     
