@@ -1,9 +1,16 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-07-15 11:39:13)
+## Free Telegram Proxy (Last Update: 2024-07-15 12:09:05)
+### [ProxyMTProto](https://t.me/ProxyMTProto)
+#### [Proxy 1](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.google.com.again_to_fight.everyone.i_am.the_internettttttttt.btnzteeet.co.uk.&port=2741&secret=eeRigzNJvXrFGRMCIMJdEAPQ)
+### [Myporoxy](https://t.me/Myporoxy)
+#### [Proxy 1](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.bmi.again_to_fight.everyone.i_am.the_internet.anahitaa.lol.&port=4550&secret=eeRigzNJvXrFGRMCIMJdEAPQ)
+#### [Proxy 2](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.bmi.again_to_fight.everyone.i_am.the_internet.jangiman.cam.&port=3443&secret=eeRigzNJvXrFGRMCIMJdEAPQ)
 ### [proxyforopeta](https://t.me/proxyforopeta)
 #### [Proxy 1](tg://proxy?server=67.109.245.127.ragnalfoloki6.ir&port=7389&secret=eecDwbc3CbTTyCX4Nmc2wtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 2](tg://proxy?server=cloudflare.nokia.net.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.msn.com.bsi.ir.enamad.ir.now_sud.biya.maleksd.ir&port=125&secret=eeRighJJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 3](tg://proxy?server=67.109.245.127.ragnalfoloki6.ir&port=7389&secret=eecDwbc3CbTTyCX4Nmc2wtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+#### [Proxy 4](tg://proxy?server=www.eshtotgart.ats.atseam.ir&port=56789&secret=eeRighJJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+#### [Proxy 5](tg://proxy?server=185.205.33.86.alpakot3.ir&port=8443&secret=eeddbhiFRGGZseLntnSb8QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 
     
