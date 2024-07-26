@@ -1,4 +1,4 @@
-### mahsa-xray-core parameters for warp:
+### [mahsa-xray-core](https://github.com/GFW-knocker/Xray-core) parameters for warp:
 <code>
   "mtu": 1280,    
   "wnoise":"ee0000000108aaaa",
