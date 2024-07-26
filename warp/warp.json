@@ -40,30 +40,33 @@
     "loglevel": "warning"
   },
   "outbounds": [
+
     {
-      "mux": {
-        "concurrency": -1,
-        "enabled": false,
-        "xudpConcurrency": 8,
-        "xudpProxyUDP443": ""
-      },
       "protocol": "wireguard",
       "settings": {
         "address": [
-          "172.16.0.2/32"
+          "172.16.0.2/32",
+          "2606:4700:110:8d3e:21e7:361b:611:3255/128"
         ],
-        "mtu": 1280,
+        "mtu": 1280,    
+        "wnoise":"ee0000000108aaaa",
+        "wnoisedelay":"1",
+        "wnoisecount":"15",
+        "wpayloadsize":"10",
+
         "peers": [
           {
-            "endpoint": "188.114.99.108:928",
+            "endpoint": "188.114.98.0:988",
+            "keepAlive":  5,
             "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo="
           }
         ],
-        "reserved": [142,154,254],
-        "secretKey": "OFdKhC2JwfzIrx93qgf/t2loZKdrMaI68zpoce8/xlk="
-      },
-      "tag": "proxy"
+        "reserved": [107,47,15],
+        "secretKey": "sCvmeko7th9HKSUjG81gciBecuey8tmOLqsh8mzmwVQ="
+      },    
+      "tag": "warpMain"
     },
+    
     {
       "protocol": "freedom",
       "settings": {},
@@ -87,7 +90,7 @@
         "ip": [
           "1.1.1.1"
         ],
-        "outboundTag": "proxy",
+        "outboundTag": "warpMain",
         "port": "53",
         "type": "field"
       }
