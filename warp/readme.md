@@ -30,7 +30,7 @@ invalid HEX == "none" == "" == absence => (no noise will be send)<br>
 "5-10" recommended for iran<br>
 ### "keepAlive"   --->   resend noise pattern every n sec (Default 0 )
 0 | 1 | 5 | 10 | any number in integer format<br>
-0 == disable keepalive (not recommended)<br>
+0 == absence == disable keepalive (not recommended)<br>
 5 == send noise pattern every 5 second(recommended)<br>
 
 ### use as low value as possible
