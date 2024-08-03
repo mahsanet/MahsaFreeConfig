@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-08-03 00:09:00)
+## Free Telegram Proxy (Last Update: 2024-08-03 00:39:03)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.google.com.again_to_fight.everyone.i_am.the_internet.display-c1ick-widgets.cfd.&port=8185&secret=eeRigzNJvXrFGRMCIMJdEAPQ)
 #### [Proxy 2](tg://proxy?server=140.233.187.9&port=12&secret=7mZge5CInMYHGdIXDLKFGWIq)
@@ -21,7 +21,6 @@
 #### [Proxy 8](tg://proxy?server=irancell.org.irancell.irancell_yo.want_to.clash_with.this.microsoft.com.there_is_no.place_nano.localhost.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.spirancellirancell.dns-mciaa.info.&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972)
 #### [Proxy 9](tg://proxy?server=irancell.org.irancell.irancell_yo.want_to.clash_with.this.microsoft.com.there_is_no.place_nano.localhost.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.spirancellirancell.dns-mciaa.info.&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972)
 #### [Proxy 10](tg://proxy?server=irancell.org.irancell.irancell_yo.want_to.clash_with.this.microsoft.com.there_is_no.place_nano.localhost.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.spirancellirancell.dns-mciaa.info.&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972)
-#### [Proxy 11](tg://proxy?server=irancell.org.irancell.irancell_yo.want_to.clash_with.this.microsoft.com.there_is_no.place_nano.localhost.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.spirancellirancell.dns-mciaa.info.&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972)
 ### [iRoProxy](https://t.me/iRoProxy)
 #### [Proxy 1](tg://proxy?server=103.161.35.56&port=3443&secret=7lLIZ9x1mD-vS7N_kdUWTwkt)
 #### [Proxy 2](tg://proxy?server=82.153.35.54&port=3443&secret=7lLIZ9x1mD-vS7N_kdUWTwkt)
@@ -40,7 +39,6 @@
 #### [Proxy 11](tg://proxy?server=103.161.34.89&port=3443&secret=7lLIZ9x1mD-vS7N_kdUWTwkt)
 ### [ProxyDaemi](https://t.me/ProxyDaemi)
 #### [Proxy 1](tg://proxy?server=77.232.39.50&port=443&secret=7HQighJPBNMYVRNB6tdkVw)
-#### [Proxy 2](tg://proxy?server=91.142.79.185&port=443&secret=7HQighJPBNMYVRNB6tdkVw)
 ### [Myporoxy](https://t.me/Myporoxy)
 #### [Proxy 1](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.wactormotor.bar.&port=6080&secret=7lLIZ9x1mD-vS7N_kdUWTwkt)
 #### [Proxy 2](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.bmi.again_to_fight.everyone.i_am.the_internet.fordmostango.bar.&port=6550&secret=eeRigzNJvXrFGRMCIMJdEA)
