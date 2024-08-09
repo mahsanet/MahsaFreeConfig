@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-08-09 03:09:19)
+## Free Telegram Proxy (Last Update: 2024-08-09 03:39:17)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=140.233.187.17&port=12&secret=7mZge5CInMYHGdIXDLKFGWIq)
 #### [Proxy 2](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.google.com.again_to_fight.everyone.i_am.the_internet.mass-ddns.cfd.&port=7443&secret=eeRigzNJvXrFGRMCIMJdEAPQ)
