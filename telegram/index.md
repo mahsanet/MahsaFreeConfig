@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-08-16 19:39:20)
+## Free Telegram Proxy (Last Update: 2024-08-16 20:09:24)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=140.233.187.9&port=12&secret=7mZge5CInMYHGdIXDLKFGWIq)
 #### [Proxy 2](tg://proxy?server=custom-pardazeshgar.co.uk.limbo-out.co.uk.inside-number.co.uk.assistance-carolina.co.uk.gptplus-omni.co.uk.unlimited-internet.co.uk.maxiumum.usage.co.uk.online-store.co.uk.digicafe-ecommerce.co.uk.avapazhvak.lat.&port=2741&secret=eeRighJJvXrFGRMCIMJdCQ)
