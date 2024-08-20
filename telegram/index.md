@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-08-20 22:39:10)
+## Free Telegram Proxy (Last Update: 2024-08-20 23:09:07)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.union-rotiew.info.&port=7443&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v)
 #### [Proxy 2](tg://proxy?server=cladlare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.goole.c.toroeeertgswreqetdgsrwrpi-esoiiisolfnwfsksjvwu-urishklfduiwoehv.my&port=7443&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v)
@@ -12,8 +12,9 @@
 #### [Proxy 8](tg://proxy?server=hiradana.com.poetry.ir.isamtech.ir.otanateam.ir.xn----5mckejo2ne97b.com.masajed.net.alializ-adehphotography.com.t-emrah.ir.aradakhtar.com.saraystore.ir.wccisfahan.com.nar-g-esgroup.com.tand-istoos.com.simcardmobile.ir.corndog.ir.almacompanymobile.online&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY%3D)
 #### [Proxy 9](tg://proxy?server=binisi.ir.iranimall.com.kbaja.ir.woobazar.com.irannewsletter.ir.ocsthr.com.sarvhotel.ir.bizkar.ir.aftabcloudy.com.hichik.ir.mhosseini.ir.abidar-ex.com.setarejahanro.com.salmanzadeh.com.chortkeh-shop.ir.farboodtrading.ir.ntaco.ir.almacompanymobile.online&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972)
 #### [Proxy 10](tg://proxy?server=203.25.108.67&port=443&secret=7gUQUQUQUQUQUQUQUQUQUQVtaWNyb3NvZnQuY29v)
-#### [Proxy 11](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.bmi.again_to_fight.everyone.i_am.the_internet.ackf9rd.lat.&port=2741&secret=eeRigzNJvXrFGRMCIMJdEAPQ)
-#### [Proxy 12](tg://proxy?server=140.233.187.70&port=888&secret=eeRighJJvXrFGRMCIMJdCQ)
+#### [Proxy 11](tg://proxy?server=140.233.187.58&port=12&secret=7mZge5CInMYHGdIXDLKFGWIrKi1f)
+#### [Proxy 12](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.bmi.again_to_fight.everyone.i_am.the_internet.ackf9rd.lat.&port=2741&secret=eeRigzNJvXrFGRMCIMJdEAPQ)
+#### [Proxy 13](tg://proxy?server=140.233.187.70&port=888&secret=eeRighJJvXrFGRMCIMJdCQ)
 ### [ProxyHagh](https://t.me/ProxyHagh)
 #### [Proxy 1](tg://proxy?server=irancell.org.irancell.irancell_yo.want_to.clash_with.this.microsoft.com.there_is_no.place_nano.localhost.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.spirancellirancell.dns-mciaa.info.&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972)
 #### [Proxy 2](tg://proxy?server=mci.ir.apt-centos.org.&port=888&secret=eeRighJJvXrFGRMCIMJdCQ)
@@ -62,7 +63,6 @@
 ### [proxyforopeta](https://t.me/proxyforopeta)
 #### [Proxy 1](tg://proxy?server=91.142.78.45&port=3895&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v)
 #### [Proxy 2](tg://proxy?server=91.142.79.92&port=3895&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v)
-#### [Proxy 3](tg://proxy?server=185.244.183.65&port=3598&secret=7gAAAAAAAAAAAAAAAAAAAABjb2RleC5pcg)
-#### [Proxy 4](tg://proxy?server=185.173.38.185&port=3598&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v)
+#### [Proxy 3](tg://proxy?server=185.173.38.185&port=3598&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v)
 
     
