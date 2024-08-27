@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-08-27 12:39:18)
+## Free Telegram Proxy (Last Update: 2024-08-27 13:09:20)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=varnatec.com.arzaaank-ade.ir.k-odakeaftab.ir.o-no.ir.4uvs.ir.avrinc-andle.ir.acebitu-men.c-om.frosh-gahamir.ir.appashop.com.chblaleh.ir.medikala.com.atlasshimi.com.drhamids-alimi.com.aradsft1.com.honarmodern.com.moradhaseli.com.kingmoozsbandarshoop.shop&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY%3D)
 #### [Proxy 2](tg://proxy?server=rtch.ir.parsaz.com.amoozande.ir.tolideiran-i-an.com.r-shakeri.ir.hashemiacademy.ir.sekkekala.ir.parsitak.com.persianwatch.ir.touristchoice.ir.ade-la.ir.m-asjedaljavad.ir.m-azdamavand.ir.changizy.com.highfile.ir.abtinfurniture.ir.almacompanymobile.online&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972)
@@ -35,7 +35,9 @@
 #### [Proxy 4](tg://proxy?server=82.153.35.68&port=14&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v)
 #### [Proxy 5](tg://proxy?server=82.153.35.92&port=17&secret=eeRighJJvXrFGRMCIMJdCQ)
 #### [Proxy 6](tg://proxy?server=82.153.35.93&port=17&secret=eeRighJJvXrFGRMCIMJdCQ)
-#### [Proxy 7](tg://proxy?server=82.153.35.90&port=21&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
+#### [Proxy 7](tg://proxy?server=82.153.35.91&port=343&secret=eeRighJJvXrFGRMCIMJdCQ)
+#### [Proxy 8](tg://proxy?server=82.153.35.42&port=21&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
+#### [Proxy 9](tg://proxy?server=82.153.35.90&port=21&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 ### [PinkProxy](https://t.me/PinkProxy)
 #### [Proxy 1](tg://proxy?server=www.arevallake.co.uk.&port=4045&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 2](tg://proxy?server=www.abroarvan.co.uk.&port=4045&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v)
