@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-09-25 23:38:27)
+## Free Telegram Proxy (Last Update: 2024-09-26 00:08:27)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=alison-parkerpng.mmafan.biz&port=443&secret=3fQ1mpsyX_HR5QhN8OD3U3s)
 #### [Proxy 2](tg://proxy?server=140.233.187.170&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
