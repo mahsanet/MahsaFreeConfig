@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-10-02 22:08:28)
+## Free Telegram Proxy (Last Update: 2024-10-02 22:38:29)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=yo-no-yo.nhlfan.net&port=443&secret=3fQ1mpsyX_HR5QhN8OD3U3s)
 #### [Proxy 2](tg://proxy?server=140.233.187.159&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
@@ -23,7 +23,6 @@
 #### [Proxy 8](tg://proxy?server=Free.kamcal.ir&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972)
 #### [Proxy 9](tg://proxy?server=Free.kamcal.ir&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972)
 #### [Proxy 10](tg://proxy?server=Free.kamcal.ir&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972)
-#### [Proxy 11](tg://proxy?server=Free.kamcal.ir&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972)
 ### [iRoProxy](https://t.me/iRoProxy)
 #### [Proxy 1](tg://proxy?server=82.153.35.143&port=443&secret=7gAA8A8Pd1VV____9QBuLmktLS0tLS1pbi5hcHBjZW50ZXIubXMtLS0tLS0)
 #### [Proxy 2](tg://proxy?server=82.153.35.146&port=443&secret=3QAA8A8Pd1VV____9QBuLmk%3D)
