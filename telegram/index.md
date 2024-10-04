@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-10-04 03:08:28)
+## Free Telegram Proxy (Last Update: 2024-10-04 03:38:24)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=Nddr3dol_sos.199.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.goole.cy.harcibasheokeye.ir.&port=1460&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 2](tg://proxy?server=140.233.187.167&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
@@ -14,7 +14,6 @@
 #### [Proxy 10](tg://proxy?server=my.tls-443.co.uk.&port=443&secret=7hBEYoISSb16xRkTAiDCXQluLmktLS0tLS1pbi5hcHBjZW50ZXIubXMtLS0tLS0=)
 #### [Proxy 11](tg://proxy?server=3en.red-captoin.ir&port=78&secret=7gAA8A8Pd1VV____9QBuLmktLS0tLS1pbi5hcHBjZW50ZXIubXM)
 #### [Proxy 12](tg://proxy?server=77.238.244.186&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-#### [Proxy 13](tg://proxy?server=cafebyte.ir.remainingtime.ir.ask-qazvin.ir.bazaresaba.ir.elennar7.ir.khatam-sch.ir.tosan-ls.com.olyaclinic.com.iranmrcable.com.roban.ir.skechersmashad.com.shafashiraz.ir.drshimakamandi.com.arashjahani.com.ticafe.ir.arashnasiri.com.husseinifinance.online&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY%3D)
 ### [ProxyHagh](https://t.me/ProxyHagh)
 #### [Proxy 1](tg://proxy?server=Free.kamcal.ir&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972)
 #### [Proxy 2](tg://proxy?server=Free.kamcal.ir&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972)
