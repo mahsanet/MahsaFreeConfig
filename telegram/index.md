@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-10-08 03:08:04)
+## Free Telegram Proxy (Last Update: 2024-10-08 03:38:04)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=tavalod.sonic.labs.wigosawp.io.lumoscoin.com.dexscreener.com-fantom-0x950e936f8d53e1662f0e2c3a0b813c6bdc0dd109.he2zra88n-esh1991gh.info.he2zra88n-es1996gh.info.he2zra88n-es2010gh.info.&port=7443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 2](tg://proxy?server=khafan.sonic.labs.wigosawp.io.lumoscoin.com.dexscreener.com-fantom-0x950e936f8d53e1662f0e2c3a0b813c6bdc0dd109.he2zra88n-esh1991gh.info.he2zra88n-es1996gh.info.he2zra88n-es2010gh.info.he2zra88n-es3333gh.info.&port=7443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
