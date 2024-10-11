@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-10-11 10:38:02)
+## Free Telegram Proxy (Last Update: 2024-10-11 11:08:05)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=mahanasa.ir.fekreziba2.ir.shouba.ir.1399.in.tirajeh.center.adela.ir.behrangmoosavi.ir.irsatech.ir.t-a-p.ir.r-shakeri.ir.honamic-co.com.boardgamestore.ir.lederhome.com.dpeconomy.ir.esla-haatpress.com.ilyasanat-avanloo.com.hadis-web.ir.hamilafoodyazd.shop&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972)
 #### [Proxy 2](tg://proxy?server=mci.kamcal.ir&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
@@ -14,6 +14,7 @@
 #### [Proxy 2](tg://proxy?server=hamrah.kamcal.ir&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 3](tg://proxy?server=hamrah.kamcal.ir&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 4](tg://proxy?server=hamrah.kamcal.ir&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+#### [Proxy 5](tg://proxy?server=hamrah.kamcal.ir&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 ### [iRoProxy](https://t.me/iRoProxy)
 #### [Proxy 1](tg://proxy?server=82.153.35.170&port=85&secret=7gAA8A8PAAAA____8AAPDwAtLS0tLS0wMDAwZjAwZjBmMDAwMDAwZmZmZmZmZjAwMDBmMGYwMC0tLS0tLQ%3D%3D)
 #### [Proxy 2](tg://proxy?server=82.153.35.168&port=85&secret=7gAA8A8Pd__1VV______9QB2LmMtLS0%3D)
