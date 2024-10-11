@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-10-11 02:38:03)
+## Free Telegram Proxy (Last Update: 2024-10-11 03:08:04)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=3dol_sos.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.goole.cy.harcibasheokeye.ir.&port=4141&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 2](tg://proxy?server=140.233.187.167&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
@@ -13,7 +13,8 @@
 #### [Proxy 9](tg://proxy?server=synce-star.sensia-star.info&port=443&secret=3fQ1mpsyX_HR5QhN8OD3U3s)
 #### [Proxy 10](tg://proxy?server=havarshop.ir.zbh-co.com.drhost.ir.mahtech.co.daroo118.com.kis-hparvaz.ir.sqs.ir.jahanmir.ir.hadibox.com.yahyatavakoli.ir.kodakeaftab.ir.cisroad.com.ranginkamankala.ir.urumium.com.gooyaniaz.ir.sim-biolab.com.nasimeatr.ir.likexweb.ir.pasargadcompany.store&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY%3D)
 #### [Proxy 11](tg://proxy?server=fast.tls-443.co.uk&port=443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-#### [Proxy 12](tg://proxy?server=pangereh.ir.behinbiz.ir.yuuzsport.ir.candytoys.ir.rahepool.ir.ro-yashahr.com.spion.ir.doctorpazhouhesh-gar.com.abdisun.ir.abolfazlk-erachian.ir.farsportal.com.irantour.ir.drbenito.ir.parsroshan.ir.rose-land.ir.peymanmq.com.mkrkb.ir.pasargadcompany.store&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972)
+#### [Proxy 12](tg://proxy?server=idealnic.com.pamenarcarpet.ir.zaere-rezvan.ir.ahwazm-etro.ir.payt-akhtcctv.ir.karasite.ir.3030boxes.com.ieriran.com.behtaacademy.ir.gapg-roup-co.com.zar-negarshop.ir.tstfoods.ir.kaizonet.ir.mobinak.com.teki.ir.careraa.com.mobrom.ir.pasargadcompany.store&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY%3D)
+#### [Proxy 13](tg://proxy?server=pangereh.ir.behinbiz.ir.yuuzsport.ir.candytoys.ir.rahepool.ir.ro-yashahr.com.spion.ir.doctorpazhouhesh-gar.com.abdisun.ir.abolfazlk-erachian.ir.farsportal.com.irantour.ir.drbenito.ir.parsroshan.ir.rose-land.ir.peymanmq.com.mkrkb.ir.pasargadcompany.store&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972)
 ### [ProxyHagh](https://t.me/ProxyHagh)
 #### [Proxy 1](tg://proxy?server=hamrah.kamcal.ir&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 2](tg://proxy?server=hamrah.kamcal.ir&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
