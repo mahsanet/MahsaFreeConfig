@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-10-14 23:37:58)
+## Free Telegram Proxy (Last Update: 2024-10-15 00:08:00)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=140.233.187.186&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 2](tg://proxy?server=140.233.187.190&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
@@ -25,8 +25,7 @@
 #### [Proxy 3](tg://proxy?server=82.153.35.183&port=130&secret=7gAA8A8Pd__1VV______9QB2LmMtLS0%3D)
 #### [Proxy 4](tg://proxy?server=82.153.35.176&port=4&secret=7gAA8A8Pd__1VV______9QBiLmItLS0%3D)
 #### [Proxy 5](tg://proxy?server=82.153.35.177&port=5&secret=7gAA8A8Pd__1VV______9QB2LmNwLS0%3D)
-#### [Proxy 6](tg://proxy?server=82.153.35.165&port=85&secret=eeRighJJvXrFGRMCIMJdCQ)
-#### [Proxy 7](tg://proxy?server=82.153.35.156&port=21&secret=eeRighJJvXrFGRMCIMJdCQ)
+#### [Proxy 6](tg://proxy?server=82.153.35.156&port=21&secret=eeRighJJvXrFGRMCIMJdCQ)
 ### [Myporoxy](https://t.me/Myporoxy)
 #### [Proxy 1](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.again_to_fight.everyone.i_am.the_internet.jormakor-rakt.info&port=441&secret=7gAA8A8Pd1VV____9QBuLmktLS0tLS13ZWIuYXBwY2VudGVyLm1zaS0tLS0tLQ==)
 #### [Proxy 2](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.again_to_fight.everyone.i_am.the_internet.mehrvilla.info.&port=120&secret=7gAA8A8Pd1VV____9QBuLmktLS0tLS13ZWIuYXBwY2VudGVyLm1zaS0tLS0tLQ)
