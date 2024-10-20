@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-10-20 05:38:01)
+## Free Telegram Proxy (Last Update: 2024-10-20 06:08:01)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=138.201.221.254&port=443&secret=EERighJJvXrFGRMCIMJdCQ==)
 #### [Proxy 2](tg://proxy?server=95.216.76.117&port=443&secret=EERighJJvXrFGRMCIMJdCQ==)
@@ -11,8 +11,6 @@
 #### [Proxy 7](tg://proxy?server=Moh.red-captoin.ir&port=78&secret=7gAA8A8Pd1VV____9QBuLmktLS0tLS1pbi5hcHBjZW50ZXIubXM)
 #### [Proxy 8](tg://proxy?server=Kal0_coc.198.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.goole.cy.roghanalat223.ir.&port=1411&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 9](tg://proxy?server=172.232.146.54&port=155&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-#### [Proxy 10](tg://proxy?server=rayacarton.com.aftabmall.com.fars-cec.com.frotelserver.com.sewingkit.ir.hodhod-kala.com.nikban-oo.com.steelsadaf.c-om.fixhm.ir.greenboos.com.baninoorco.ir.karweb.ir.takamul.ir.pashazadehtrading.com.kanoonnojavan.ir.istaertebat.ir.playstoreyazdnew.online&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY%3D)
-#### [Proxy 11](tg://proxy?server=drdoostidrugstore.com.ssaramad-co.com.hypesho.ir.medisib.com.sanayco.ir.keshtnet.ir.pilavaran.ir.iranfoam.co.instroct.ac.ir.goftemane-enghelab.com.mazraekouchak-ema.ir.zarsaffron.com.tansuu.ir.behtarinha.ir.l-frank.ir.roshdmag.ir.playstoreyazdnew.online&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972)
 ### [ProxyHagh](https://t.me/ProxyHagh)
 #### [Proxy 1](tg://proxy?server=hamrah.kamcal.ir&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 2](tg://proxy?server=hamrah.kamcal.ir&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
