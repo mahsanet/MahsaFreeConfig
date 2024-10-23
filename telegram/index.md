@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-10-23 04:38:05)
+## Free Telegram Proxy (Last Update: 2024-10-23 05:08:05)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=140.233.187.188&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 2](tg://proxy?server=140.233.187.201&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
@@ -8,7 +8,7 @@
 #### [Proxy 4](tg://proxy?server=CHE-JALEB.hamishegi.hezarsh-mashal0.co.uk.vulhxrrjhkrs-sscj.co.uk.kjhasdkjhkjad-jskjj.co.uk.hkasfgkafh-ijhsd.co.uk.hewiufhkouhqawf-ihjd.co.uk.kjgjhghsdgsgtrdkg-ksdj.co.uk.he2zra68n-esh88gh.co.uk.uk.ojgdljgs-hjdslkh5.info.&port=7443&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v)
 #### [Proxy 5](tg://proxy?server=CHE-JALEB.hamishegi.hezarsh-mashal0.co.uk.vulhxrrjhkrs-sscj.co.uk.kjhasdkjhkjad-jskjj.co.uk.hkasfgkafh-ijhsd.co.uk.hewiufhkouhqawf-ihjd.co.uk.kjgjhghsdgsgtrdkg-ksdj.co.uk.he2zra68n-esh88gh.co.uk.uk.kjasfhkjh-lkdsfj-55.info.&port=7443&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v)
 #### [Proxy 6](tg://proxy?server=NIKOLA-TESLA.hezarsh-mashal0.co.uk.vulhxrrjhkrs-sscj.co.uk.kjhasdkjhkjad-jskjj.co.uk.hkasfgkafh-ijhsd.co.uk.hewiufhkouhqawf-ihjd.co.uk.kjgjhghsdgsgtrdkg-ksdj.co.uk.he2zra68n-esh88gh.co.uk.eu.lkfsjlsjd-ljdjf-05.info.&port=7443&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v)
-#### [Proxy 7](tg://proxy?server=www.activatedisc.autos.&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+#### [Proxy 7](tg://proxy?server=www.acc2fas.makeup.&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 8](tg://proxy?server=www.madahimusics.ir&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 9](tg://proxy?server=www.jikomusic.ir&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 10](tg://proxy?server=fgzk.ir.arjanchoob.ir.mehragin.ir.travelin.ir.esmaeilib.ir.drbabai.com.bandeh.com.cipmashhad.com.thinkkitchen.ir.behtaacademy.ir.hatol.ir.sarai.ir.vcsanat.com.adrianschool.co.uk.bornarasaneh.ir.sivancells.ir.2lives.ir.morvarid-sos.ir.hamilafoodyazd.shop&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY%3D)
