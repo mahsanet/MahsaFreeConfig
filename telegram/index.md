@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-10-31 23:38:03)
+## Free Telegram Proxy (Last Update: 2024-11-01 00:08:01)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=140.233.187.190&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 2](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.transfer-email.info.&port=7443&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v)
@@ -14,7 +14,6 @@
 #### [Proxy 10](tg://proxy?server=Kabab.Koobideh.tcp-max.co.uk.&port=3443&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v)
 #### [Proxy 11](tg://proxy?server=Noon.Sangak.tcp-max.co.uk.&port=3443&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v)
 #### [Proxy 12](tg://proxy?server=drnerd.ir.teknocharkh110rezaei.com.shahinorkideh.com.zeinab.ir.smbt.ir.masjedemammahdi.com.narjeslib.com.zeebatarin.ir.ranginehprint.ir.day-ravan.com.vivadatees.ir.vpsfori.ir.hamann-motorsports.ir.qazvin-ads.ir.dayagro.com.sorur.net.felafelabadan.online&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972)
-#### [Proxy 13](tg://proxy?server=saghar.ir.mybartar.ir.jalalibookshop.ir.maroufzadeh.com.roseap.ir.tourlin.com.ravadari.ir.mobilearzan.ir.faraimen.com.hamedsalehi.ir.paryab.co.hamim.co.niik-w-omen.ir.khorshidealeyasin.ir.pnuparastoo.com.monitorict.ir.injayadbegir.ir.hamilafoodyazd.shop&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972)
 ### [ProxyHagh](https://t.me/ProxyHagh)
 #### [Proxy 1](tg://proxy?server=hamrah.kamcal.ir&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 2](tg://proxy?server=Free.kamcal.ir&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972)
@@ -42,7 +41,6 @@
 #### [Proxy 8](tg://proxy?server=82.153.35.191&port=85&secret=eeRighJJvXrFGRMCIMJdCQ)
 #### [Proxy 9](tg://proxy?server=82.153.35.184&port=85&secret=eeRighJJvXrFGRMCIMJdCQ)
 #### [Proxy 10](tg://proxy?server=82.153.35.185&port=85&secret=eeRighJJvXrFGRMCIMJdCQ)
-#### [Proxy 11](tg://proxy?server=82.153.35.165&port=85&secret=eeRighJJvXrFGRMCIMJdCQ)
 ### [Myporoxy](https://t.me/Myporoxy)
 #### [Proxy 1](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.again_to_fight.everyone.i_am.the_internet.mehrvilla.info.&port=120&secret=7gAA8A8Pd1VV____9QBuLmktLS0tLS13ZWIuYXBwY2VudGVyLm1zaS0tLS0tLQ)
 #### [Proxy 2](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.fidelitiy-car.info.&port=144&secret=7gAA8A8Pd1VV____9QBuLmktLS0tLS13ZWIuYXBwY2VudGVyLm1zaS0tLS0tLQ)
