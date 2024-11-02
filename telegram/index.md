@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-11-02 03:38:05)
+## Free Telegram Proxy (Last Update: 2024-11-02 04:08:03)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=140.233.187.185&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 2](tg://proxy?server=140.233.187.189&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
@@ -14,8 +14,7 @@
 #### [Proxy 10](tg://proxy?server=140.233.187.217&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 11](tg://proxy?server=www.newworldbbgon.shop.&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 12](tg://proxy?server=prg24.ir.cvpn.ir.rtch.ir.tilehco.ir.alavi-bonyad.com.vaghtesafar.net.sikaas.com.perfecthome.ir.sep-sf.com.khateshgh.ir.bornapardaz.ir.khateresazan.ir.raikachem.com.spix.ir.richlion.ir.tarazmand.ir.dabestanmola.ir.otragh.com.kolok.ir.felafelabadan.online&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY%3D)
-#### [Proxy 13](tg://proxy?server=thinkkitchen.ir.jamtrd.com.k-h-anesabt.com.uast12.ir.hosseingharibi.ir.zar2020.ir.g-azleh.com.joqds.c--om.fouzhanteb.com.asb-co.ir.joveyn.ir.mar-cotravelco.com.upstabriz.ir.bornarasaneh.ir.ekshabestar.ir.kiansteelco.ir.idc1359.ir.playstoreyazdnew.online&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972)
-#### [Proxy 14](tg://proxy?server=79.127.239.123&port=9090&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+#### [Proxy 13](tg://proxy?server=79.127.239.123&port=9090&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 ### [ProxyHagh](https://t.me/ProxyHagh)
 #### [Proxy 1](tg://proxy?server=hamrah.kamcal.ir&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 2](tg://proxy?server=Free.kamcal.ir&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972)
