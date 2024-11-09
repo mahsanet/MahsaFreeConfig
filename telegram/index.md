@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-11-09 13:38:32)
+## Free Telegram Proxy (Last Update: 2024-11-09 14:08:30)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=49.13.32.10&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 2](tg://proxy?server=49.12.115.143&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
@@ -15,7 +15,7 @@
 #### [Proxy 11](tg://proxy?server=140.233.187.217&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 12](tg://proxy?server=irancell.kamcal.ir&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972)
 #### [Proxy 13](tg://proxy?server=new.kamcal.ir&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972)
-#### [Proxy 14](tg://proxy?server=tta2.ir.sonyxplod.ir.smarterco.ir.sharli.ir.barbodparvaz.com.belmio.ir.dobaal.ir.zirkoohnews.ir.chashni-co.com.asadfilter.ir.azin-ind.com.shahzadarabi.ir.pamak.net.ldb.ir.persian-machine.com.sakhtemanshow.com.heltun.ir.ask-qazvin.ir.felafelabadan.online&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY%3D)
+#### [Proxy 14](tg://proxy?server=zabanebartar.ir.lalehhotelbonab.com.phpars.com.fam-co.com.mss-ameh.com.takh-teshir-in.com.kashan-eng.ir.takka-lastore.ir.shari-firad.com.toskala.ir.vandadrack.ir.atiehags.com.salmandan-taravat.com.tarmimmoo.ir.dvakil.ir.begita.ir.kavirmotors.motorcycles&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY%3D)
 ### [ProxyHagh](https://t.me/ProxyHagh)
 #### [Proxy 1](tg://proxy?server=hamrah.kamcal.ir&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 2](tg://proxy?server=Free.kamcal.ir&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972)
