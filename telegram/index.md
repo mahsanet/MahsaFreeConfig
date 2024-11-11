@@ -1,8 +1,8 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-11-11 22:38:55)
+## Free Telegram Proxy (Last Update: 2024-11-11 23:08:56)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
-#### [Proxy 1](tg://proxy?server=14.102.10.10&port=888&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 1](tg://proxy?server=14.102.10.11&port=888&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 #### [Proxy 2](tg://proxy?server=14.102.10.13&port=888&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 #### [Proxy 3](tg://proxy?server=14.102.10.12&port=888&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 #### [Proxy 4](tg://proxy?server=138.201.192.158&port=7643&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v)
