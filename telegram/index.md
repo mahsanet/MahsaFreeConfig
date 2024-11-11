@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-11-11 01:08:53)
+## Free Telegram Proxy (Last Update: 2024-11-11 01:38:52)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=www.activatedisc.autos.&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 2](tg://proxy?server=14.102.10.2&port=888&secret=eeNEgYdJvXrFGRMCIMJdCQ)
@@ -12,7 +12,7 @@
 #### [Proxy 8](tg://proxy?server=95.217.5.50&port=9090&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 9](tg://proxy?server=140.233.187.193&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 10](tg://proxy?server=140.233.187.219&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-#### [Proxy 11](tg://proxy?server=zabanebartar.ir.lalehhotelbonab.com.phpars.com.fam-co.com.mss-ameh.com.takh-teshir-in.com.kashan-eng.ir.takka-lastore.ir.shari-firad.com.toskala.ir.vandadrack.ir.atiehags.com.salmandan-taravat.com.tarmimmoo.ir.dvakil.ir.begita.ir.kavirmotors.motorcycles&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY%3D)
+#### [Proxy 11](tg://proxy?server=mohsen-ir.shenaseda.buzz&port=78&secret=7gAA8A8Pd1VV____9QBuLmktLS0tLS1pbi5hcHBjZW50ZXIubXM)
 #### [Proxy 12](tg://proxy?server=14.102.10.3&port=888&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 #### [Proxy 13](tg://proxy?server=14.102.10.2&port=888&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 ### [ProxyHagh](https://t.me/ProxyHagh)
