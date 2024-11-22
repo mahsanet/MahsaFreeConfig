@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-11-22 21:08:52)
+## Free Telegram Proxy (Last Update: 2024-11-22 21:38:53)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=14.102.10.20&port=888&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 #### [Proxy 2](tg://proxy?server=zabanebartar.ir.lalehhotelbonab.com.phpars.com.fam-co.com.mss-ameh.com.takh-teshir-in.com.kashan-eng.ir.takka-lastore.ir.shari-firad.com.toskala.ir.vandadrack.ir.atiehags.com.salmandan-taravat.com.tarmimmoo.ir.dvakil.ir.begita.ir.kavirmotors.motorcycles&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY%3D)
