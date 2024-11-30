@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-11-30 03:08:52)
+## Free Telegram Proxy (Last Update: 2024-11-30 03:38:53)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=14.102.10.31&port=888&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 #### [Proxy 2](tg://proxy?server=www.newworldbbgon.shop.&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
@@ -11,8 +11,6 @@
 #### [Proxy 7](tg://proxy?server=14.102.10.32&port=888&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 #### [Proxy 8](tg://proxy?server=14.102.10.26&port=888&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 #### [Proxy 9](tg://proxy?server=14.102.10.27&port=888&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-#### [Proxy 10](tg://proxy?server=houkam.com.zendegi-mosba-tt.ir.chashni.ir.cm5.ir.baran20.ir.rgwr.ir.hourtabm-ed.c-om.isshinryukarate.ir.hamgambazar.ir.kifmif.ir.tikalcenter.ir.goobs.ir.atbkala.com.macro-puff.ir.tablokaran.com.symolife.com.avahang.com.dowran.ir.raofikalacompany.website&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY%3D)
-#### [Proxy 11](tg://proxy?server=madahweb.ir.sayeseyr.com.sanharmf.com.mehranranji.ir.mahnegareh.com.shoraislamshahr.com.asleman.com.se24.ir.energydiplomacy.com.hgs-724.ir.sama-app.ir.ghanaati.com.avahang.com.robban.ir.ordibe8.com.parsianlotus-ib.net.tisashop.ir.kavirmotors.motorcycles&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY%3D)
 ### [ProxyHagh](https://t.me/ProxyHagh)
 #### [Proxy 1](tg://proxy?server=hamrah.kamcal.ir&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 2](tg://proxy?server=Free.kamcal.ir&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972)
