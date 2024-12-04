@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-12-04 03:38:55)
+## Free Telegram Proxy (Last Update: 2024-12-04 04:08:56)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=14.102.10.55&port=8888&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 2](tg://proxy?server=162.55.103.178&port=7543&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v)
@@ -59,8 +59,8 @@
 #### [Proxy 2](tg://proxy?server=185.121.233.93&port=7443&secret=FgMBAgABAAH8AwOG4kw63Q)
 #### [Proxy 3](tg://proxy?server=195.200.29.32&port=7443&secret=FgMBAgABAAH8AwOG4kw63Q)
 #### [Proxy 4](tg://proxy?server=185.121.233.93&port=7443&secret=FgMBAgABAAH8AwOG4kw63Q)
-#### [Proxy 5](tg://proxy?server=irancell.ggg.irancell.irancell_yo.want_to.clash_with.this.microsoft.com.there_is_no.place_nano.localhost.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.nabashi-yekihast.info.&port=8087&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
-#### [Proxy 6](tg://proxy?server=195.200.29.142&port=7443&secret=FgMBAgABAAH8AwOG4kw63Q)
+#### [Proxy 5](tg://proxy?server=hakhamaneshian.pasargad.takhtejamshid.ghavikehastim.motamenbash.vafaghatsaket.toksmoks.info&port=443&secret=1603010200010001fc030386e24c3add)
+#### [Proxy 6](tg://proxy?server=irancell.ggg.irancell.irancell_yo.want_to.clash_with.this.microsoft.com.there_is_no.place_nano.localhost.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.nabashi-yekihast.info.&port=8087&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 7](tg://proxy?server=3.roo3beh-tehran-nist-jome-shab-miad.com&port=443&secret=7gAA8A8Pd1VV____9QBuLmktLS0tLS1pbi5hcHBjZW50ZXIubXM)
 #### [Proxy 8](tg://proxy?server=93.183.95.184&port=7000&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 ### [Myporoxy](https://t.me/Myporoxy)
