@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-12-13 02:08:52)
+## Free Telegram Proxy (Last Update: 2024-12-13 02:38:53)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=mci.bestlive.ir&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972)
 #### [Proxy 2](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.again_to_fight.everyone.i_am.the_internet.tls-ssl.info.&port=3443&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v)
@@ -66,7 +66,7 @@
 #### [Proxy 14](tg://proxy?server=176.65.135.22&port=4045&secret=7gAA8A8Pd__1VV______9QB2LmMtLS0=)
 #### [Proxy 15](tg://proxy?server=176.65.135.23&port=4045&secret=7gAA8A8Pd__1VV______9QB2LmMtLS0=)
 ### [ProxyDaemi](https://t.me/ProxyDaemi)
-#### [Proxy 1](tg://proxy?server=drtigerlist.speedprime.info&port=443&secret=1603010200010001fc030386e24c3add)
+#### [Proxy 1](tg://proxy?server=hitek.nktedare.fullvasle.uvresghhj.besmrllahe.taadalaho.info&port=443&secret=1603010200010001fc030386e24c3add)
 #### [Proxy 2](tg://proxy?server=darknamikonina.beramaqhyou.cyou&port=443&secret=5mB7kIicxgcZ0hcMsoUZYgAAAAAAAAAAAAAAAAAAAAkIicxgcZ0hcMsAAAA0hcMsAAAA)
 #### [Proxy 3](tg://proxy?server=167.235.224.117&port=63443&secret=8JEkJukBYNPSy7OH6v7urg%3D%3D)
 #### [Proxy 4](tg://proxy?server=speedtest.net.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.speedtestfast.xyz&port=69&secret=7gAA8A8Pd1VV____9QBuLml2LmNwLS0%3D)
