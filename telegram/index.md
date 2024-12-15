@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-12-15 02:38:55)
+## Free Telegram Proxy (Last Update: 2024-12-15 03:08:55)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=79.127.239.122&port=9090&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 2](tg://proxy?server=instagram.gold.huawei.samsung.xqrukr.bing.amiwjuquot.eta.wordpress-mail.co.uk.&port=3443&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v)
@@ -64,10 +64,9 @@
 #### [Proxy 8](tg://proxy?server=185.244.182.37&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 #### [Proxy 9](tg://proxy?server=77.232.42.133&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 #### [Proxy 10](tg://proxy?server=77.232.38.36&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-#### [Proxy 11](tg://proxy?server=hakhamaneshian.pasargad.takhtejamshid.ghavikehastim.motamenbash.vafaghatsaket.toksmoks.info&port=443&secret=1603010200010001fc030386e24c3add)
-#### [Proxy 12](tg://proxy?server=128.140.104.20&port=34034&secret=8JEkJukBYNPSy7OH6v7urg%3D%3D)
-#### [Proxy 13](tg://proxy?server=103.161.34.15&port=997&secret=eeRighJJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-#### [Proxy 14](tg://proxy?server=77.232.41.178&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 11](tg://proxy?server=128.140.104.20&port=34034&secret=8JEkJukBYNPSy7OH6v7urg%3D%3D)
+#### [Proxy 12](tg://proxy?server=103.161.34.15&port=997&secret=eeRighJJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+#### [Proxy 13](tg://proxy?server=77.232.41.178&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 ### [Myporoxy](https://t.me/Myporoxy)
 #### [Proxy 1](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.voriaz-boriaz.info.&port=4550&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 
