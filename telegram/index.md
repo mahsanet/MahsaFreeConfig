@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-12-19 22:08:55)
+## Free Telegram Proxy (Last Update: 2024-12-19 22:38:55)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=14.102.10.111&port=85&secret=7gD_AA___wD_9VVf______VmLmtvLS0%3D)
 #### [Proxy 2](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.now_sudo.rm.again_to_fight.everyone.i_am.the_internet.cdn-info.info.&port=7443&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v)
@@ -10,11 +10,9 @@
 #### [Proxy 6](tg://proxy?server=kanat.okiya-system.space&port=443&secret=3fQ1mpsyX_HR5QhN8OD3U3s)
 #### [Proxy 7](tg://proxy?server=f4.fandoghast.ir&port=14024&secret=8JEkJukBYNPSy7OH6v7urg%3D%3D)
 #### [Proxy 8](tg://proxy?server=313.fandoghast.ir&port=14024&secret=8JEkJukBYNPSy7OH6v7urg%3D%3D)
-#### [Proxy 9](tg://proxy?server=tyrestore.ir.rtime.ir.emileh.ir.fa-za-ee.com.stop-taxi.ir.d-ragershop.ir.rangkaran.com.greatcolor.ir.rafa-nco.ir.kingsford-english.com.moslem-abad.com.asanbarkala.ir.dealerapp.ir.tehran-sydney.com.samsungpadide.com.bimehshemiran.ir.parksahelimoji.online&port=3444&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v)
-#### [Proxy 10](tg://proxy?server=108.181.121.215&port=443&secret=EERighJJvXrFGRMCIMJdCQ==)
-#### [Proxy 11](tg://proxy?server=yazdiec.ir.abadisholding.com.khaleleila.com.baninoorco.com.nitac-arpet.ir.carinabzar.com.dr-pariaravanfar.ir.softnurse.com.gu-ilanshop.ir.pmo-co.com.antiab.ir.wetco.co.kill-erfish.ir.ict2.ir.autoclave-avico.com.falcondocmovie.ir.kermanlightsport.website&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972)
-#### [Proxy 12](tg://proxy?server=tutorland.org.kamaa.ir.medepas.com.behsazanchoob.ir.novin-hesab.com.eta.co.ir.travelsetare724.com.mywebjob.ir.toip.ir.cipmashad.ir.ltga.ir.koohasport.com.tatgallery.ir.azarsanat.net.buygiftcart.com.leso.ir.emileh.ir.helikala.com.kermanlightsport.website&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY%3D)
-#### [Proxy 13](tg://proxy?server=pakagroup.net.gol-prfoa.ir.drhmohammadi.ir.met-iscl-inic.ir.2z2.ir.drei-ni.ir.mpmsports.ir.doobs.ir.pegah-fars.com.gandomam.com.imanahmadi.ir.tak7.ir.tget360.ir.hezarmas-ooleh.ir.chaptak.ir.cu-repso.c-om.ghaemshahr.ir.elecsource.ir.parksahelimoji.online&port=3444&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v)
+#### [Proxy 9](tg://proxy?server=108.181.121.215&port=443&secret=EERighJJvXrFGRMCIMJdCQ==)
+#### [Proxy 10](tg://proxy?server=yazdiec.ir.abadisholding.com.khaleleila.com.baninoorco.com.nitac-arpet.ir.carinabzar.com.dr-pariaravanfar.ir.softnurse.com.gu-ilanshop.ir.pmo-co.com.antiab.ir.wetco.co.kill-erfish.ir.ict2.ir.autoclave-avico.com.falcondocmovie.ir.kermanlightsport.website&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972)
+#### [Proxy 11](tg://proxy?server=tutorland.org.kamaa.ir.medepas.com.behsazanchoob.ir.novin-hesab.com.eta.co.ir.travelsetare724.com.mywebjob.ir.toip.ir.cipmashad.ir.ltga.ir.koohasport.com.tatgallery.ir.azarsanat.net.buygiftcart.com.leso.ir.emileh.ir.helikala.com.kermanlightsport.website&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY%3D)
 ### [ProxyHagh](https://t.me/ProxyHagh)
 #### [Proxy 1](tg://proxy?server=new.aychichi.ir&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972)
 #### [Proxy 2](tg://proxy?server=new.aychichi.ir&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972)
@@ -85,7 +83,6 @@
 #### [Proxy 11](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.voriaz-boriaz.info.&port=4550&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 12](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.voriaz-boriaz.info.&port=4550&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 13](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.ractorim-bomo.info.&port=443&secret=6HQighJPCNNYVRNB6tdkAg==)
-#### [Proxy 14](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.atomon-atomonz.info.&port=5777&secret=6HQighJPCNNYVRNB6tdkAg==)
-#### [Proxy 15](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.voriaz-boriaz.info.&port=4550&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+#### [Proxy 14](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.voriaz-boriaz.info.&port=4550&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 
     
