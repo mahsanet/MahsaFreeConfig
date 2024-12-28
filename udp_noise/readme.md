@@ -5,3 +5,8 @@
 2. define noise packets in freedom that you want to be sent before handshake initiate
 
 in my example it send 5 packets of "ee0000000108aaaa" before handshake
+
+#### it can be used for every UDP config , not just warp
+
+#### reference:
+https://xtls.github.io/en/config/outbounds/freedom.html#outboundconfigurationobject
