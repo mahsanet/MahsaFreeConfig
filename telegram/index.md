@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2024-12-31 02:08:52)
+## Free Telegram Proxy (Last Update: 2024-12-31 02:38:53)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=14.102.10.124&port=85&secret=7gD_AA___wD_9VVf______VmLmtvLS0%3D)
 #### [Proxy 2](tg://proxy?server=88.99.199.95&port=1460&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
@@ -66,8 +66,8 @@
 #### [Proxy 15](tg://proxy?server=176.65.135.42&port=23&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 ### [ProxyDaemi](https://t.me/ProxyDaemi)
 #### [Proxy 1](tg://proxy?server=103.161.34.38&port=24&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-#### [Proxy 2](tg://proxy?server=tp06.comfortspacecraft.info&port=443&secret=1603010200010001fc030386e24c3add)
-#### [Proxy 3](tg://proxy?server=g9.rotarindah.info&port=443&secret=1603010200010001fc030386e24c3add)
+#### [Proxy 2](tg://proxy?server=cush.gigibofounh.info&port=443&secret=1603010200010001fc030386e24c3add)
+#### [Proxy 3](tg://proxy?server=tp06.comfortspacecraft.info&port=443&secret=1603010200010001fc030386e24c3add)
 #### [Proxy 4](tg://proxy?server=yalda.yalda.yalda.yalda.yalda.yalda.ylda.yalda-bood.info&port=443&secret=1603010200010001fc030386e24c3add)
 #### [Proxy 5](tg://proxy?server=www.asmelonca-ca.co.uk&port=443&secret=1603010200010001fc030386e24c3add)
 #### [Proxy 6](tg://proxy?server=5.255.123.23&port=443&secret=DD1603010200010001fc030386e24c3add)
