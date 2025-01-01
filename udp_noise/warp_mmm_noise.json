@@ -83,22 +83,17 @@
         "domainStrategy": "AsIs",
         "noises":[
             {
-              "type":"str",
-              "packet":"ee0000000108aaaa",
+              "type":"hex",
+              "packet":"ee0000000108aaaaaaaaaaaaaaaa000044d0",
+              "delay":"0-16"
+            },
+            {
+              "type":"hex",
+              "packet":"ee0000000108bbbbbbbbbbbbbbbb000044d0",
               "delay":"10-16"
             },
             {
-              "type":"str",
-              "packet":"ee0000000108aaaa",
-              "delay":"10-16"
-            },
-            {
-              "type":"str",
-              "packet":"ee0000000108aaaa",
-              "delay":"10-16"
-            },
-            {
-              "type":"str",
+              "type":"hex",
               "packet":"ee0000000108aaaa",
               "delay":"10-16"
             },
