@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2025-01-03 03:38:56)
+## Free Telegram Proxy (Last Update: 2025-01-03 04:08:56)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.now_sudo.rm.again_to_fight.everyone.i_am.the_internet.cdn1-internet.info.&port=7443&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 2](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.now_sudo.rm.again_to_fight.everyone.i_am.the_internet.telenet1.info.&port=7443&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
@@ -11,8 +11,8 @@
 #### [Proxy 7](tg://proxy?server=snappfood.ir.neqbat.co&port=78&secret=1320PuNyHw_LQKT_Y7XNJw%3D%3D)
 #### [Proxy 8](tg://proxy?server=148.251.132.221&port=443&secret=EERighJJvXrFGRMCIMJdCQ==)
 #### [Proxy 9](tg://proxy?server=138.201.202.43&port=443&secret=EERighJJvXrFGRMCIMJdCQ==)
-#### [Proxy 10](tg://proxy?server=178.63.61.122&port=3443&secret=DDBighLLvXrFGRMCBVJdFQ==)
-#### [Proxy 11](tg://proxy?server=88.99.251.61&port=3443&secret=DDBighLLvXrFGRMCBVJdFQ==)
+#### [Proxy 10](tg://proxy?server=88.99.251.61&port=3443&secret=DDBighLLvXrFGRMCBVJdFQ==)
+#### [Proxy 11](tg://proxy?server=178.63.61.122&port=3443&secret=DDBighLLvXrFGRMCBVJdFQ==)
 #### [Proxy 12](tg://proxy?server=65.109.211.169&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q%3D%3D)
 #### [Proxy 13](tg://proxy?server=65.109.211.169&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q)
 #### [Proxy 14](tg://proxy?server=65.109.218.96&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q)
