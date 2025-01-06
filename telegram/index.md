@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2025-01-06 21:08:57)
+## Free Telegram Proxy (Last Update: 2025-01-06 21:38:56)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=140.233.187.230&port=8888&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 2](tg://proxy?server=14.102.10.145&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
@@ -69,6 +69,9 @@
 #### [Proxy 9](tg://proxy?server=esfahan.tehran.kashmar.mazandaran.yazd-brojerd.ir&port=443&secret=1603010200010001fc030386e24c3add)
 #### [Proxy 10](tg://proxy?server=g2.oxizhenc.ir&port=443&secret=DD1603010200010001fc030386e24c3add)
 #### [Proxy 11](tg://proxy?server=g2.oxizhenc.ir&port=443&secret=1603010200010001fc030386e24c3add)
+#### [Proxy 12](tg://proxy?server=g4.sinoscosinos.ir&port=443&secret=DD1603010200010001fc030386e24c3add)
+#### [Proxy 13](tg://proxy?server=g4.sinoscosinos.ir&port=443&secret=1603010200010001fc030386e24c3add)
+#### [Proxy 14](tg://proxy?server=g5.final-kar.ir&port=443&secret=DD1603010200010001fc030386e24c3add)
 ### [Myporoxy](https://t.me/Myporoxy)
 #### [Proxy 1](tg://proxy?server=188.biografim.covers.morakomo.komotso-vanza.info&port=115&secret=7gAA8A8Pd1VV____9QBuLmktLS0tLS13ZWIuYXBwY2VudGVyLm1zaS0tLS0tLQ==)
 #### [Proxy 2](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localwest.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.romancon-fact.info.&port=3443&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
