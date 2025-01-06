@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2025-01-06 01:38:55)
+## Free Telegram Proxy (Last Update: 2025-01-06 02:08:54)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=88.99.137.104&port=8443&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 2](tg://proxy?server=176.9.50.92&port=8443&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
@@ -68,7 +68,9 @@
 #### [Proxy 10](tg://proxy?server=5.255.108.235&port=443&secret=dd1603010200010001fc030386e24c3add)
 #### [Proxy 11](tg://proxy?server=g12.alborz-bime.info&port=443&secret=DD1603010200010001fc030386e24c3add)
 #### [Proxy 12](tg://proxy?server=g12.alborz-bime.info&port=443&secret=1603010200010001fc030386e24c3add)
-#### [Proxy 13](tg://proxy?server=94.130.226.215&port=7777&secret=1320PuNyHw_LQKT_Y7XNJw%3D%3D)
+#### [Proxy 13](tg://proxy?server=c340000.mangole.info&port=443&secret=DD1603010200010001fc030386e24c3add)
+#### [Proxy 14](tg://proxy?server=c340000.mangole.info&port=443&secret=1603010200010001fc030386e24c3add)
+#### [Proxy 15](tg://proxy?server=94.130.226.215&port=7777&secret=1320PuNyHw_LQKT_Y7XNJw%3D%3D)
 ### [Myporoxy](https://t.me/Myporoxy)
 #### [Proxy 1](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localwest.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.avadox-zhoan.info.&port=1201&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 2](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localwest.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.avadox-zhoan.info.&port=1201&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
