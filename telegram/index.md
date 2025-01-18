@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2025-01-18 02:08:51)
+## Free Telegram Proxy (Last Update: 2025-01-18 02:38:52)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=mac.sac.tac.spacecooltern.space&port=443&secret=QSQSQSQSQSQSQSQSQSQSQQkFwZXJwbGV4aXR5LmFpkEkEkEkEkEkEkEkEkFwZXJwbGV4aXR5LmFp)
 #### [Proxy 2](tg://proxy?server=caripoltng.spacyictrucar.space&port=443&secret=ee119119119119119119119119119119112D2D2D2D2D2D7765622E61707063656E7465722E6D73692D2D2D2D2D2Df)
@@ -72,7 +72,7 @@
 #### [Proxy 4](tg://proxy?server=galactic.trails.beyond.the.milkyway.ssl-online.fastl.click.&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 5](tg://proxy?server=comet.fireball.across.the.eternal.void.ssl-online.fastl.click.&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 6](tg://proxy?server=wormhole.connecting.worlds.faster.than.light.ssl-online.fastl.click.&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==)
-#### [Proxy 7](tg://proxy?server=planets.spin.orbit.around.stars.gravity.dns_ssl.samandoon.online.&port=23&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+#### [Proxy 7](tg://proxy?server=spacetime.bend.travel.quick.among.planets.dns_ssl.samandoon.online.&port=23&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 8](tg://proxy?server=46.4.70.159&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 9](tg://proxy?server=event.horizon.beyond.the.point.of.no.return.ssl-online.fastl.click.&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 10](tg://proxy?server=cosmos.vast.infinite.full.of.secrets.ssl-online.fastl.click.&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==)
