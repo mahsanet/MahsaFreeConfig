@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2025-01-22 07:39:10)
+## Free Telegram Proxy (Last Update: 2025-01-22 08:08:59)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=mac.sac.tac.spacecooltern.space&port=443&secret=QSQSQSQSQSQSQSQSQSQSQQkFwZXJwbGV4aXR5LmFpkEkEkEkEkEkEkEkEkFwZXJwbGV4aXR5LmFp)
 #### [Proxy 2](tg://proxy?server=caripoltng.spacyictrucar.space&port=443&secret=ee119119119119119119119119119119112D2D2D2D2D2D7765622E61707063656E7465722E6D73692D2D2D2D2D2Df)
@@ -15,8 +15,8 @@
 #### [Proxy 11](tg://proxy?server=graphicforyou.ir.darianco.org.ahraz14.ir.fekrez-iba.ir.denamachine.ir.voka-laeja-van.ir.aras-bazar.ir.jkmserv.ir.drzahrasadr.ir.postcard.link.yosdata.com.bab01.ir.hamr-azamin.com.shias-ea-rch.ir.c-hadishab.ir.ornail.com.pamco.archi.cdn1-internet.info.&port=7443&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v)
 #### [Proxy 12](tg://proxy?server=graphicforyou.ir.darianco.org.ahraz14.ir.fekrez-iba.ir.denamachine.ir.voka-laeja-van.ir.aras-bazar.ir.jkmserv.ir.drzahrasadr.ir.postcard.link.yosdata.com.bab01.ir.hamr-azamin.com.shias-ea-rch.ir.c-hadishab.ir.ornail.com.pamco.archi.h1-h2-h3.info.&port=7443&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v)
 #### [Proxy 13](tg://proxy?server=graphicforyou.ir.darianco.org.ahraz14.ir.fekrez-iba.ir.denamachine.ir.voka-laeja-van.ir.aras-bazar.ir.jkmserv.ir.drzahrasadr.ir.postcard.link.yosdata.com.bab01.ir.hamr-azamin.com.shias-ea-rch.ir.c-hadishab.ir.ornail.com.pamco.archi.h1-h2-h3-h4.info.&port=7443&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v)
-#### [Proxy 14](tg://proxy?server=14.102.10.156&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-#### [Proxy 15](tg://proxy?server=14.102.10.157&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 14](tg://proxy?server=14.102.10.157&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 15](tg://proxy?server=14.102.10.156&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 ### [ProxyHagh](https://t.me/ProxyHagh)
 #### [Proxy 1](tg://proxy?server=95.217.139.130&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972)
 #### [Proxy 2](tg://proxy?server=95.217.139.131&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972)
