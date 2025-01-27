@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2025-01-27 03:09:17)
+## Free Telegram Proxy (Last Update: 2025-01-27 03:38:54)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=tahe-mashtia.trace-rootone.ir.&port=8443&secret=DDBighLLvXrFGRMCBVJdFQ==)
 #### [Proxy 2](tg://proxy?server=COME-ON.vpsend-high.ir.&port=8443&secret=DDBighLLvXrFGRMCBVJdFQ==)
