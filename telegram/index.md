@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2025-01-29 07:38:52)
+## Free Telegram Proxy (Last Update: 2025-01-29 08:08:50)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=91.107.161.137&port=9090&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 2](tg://proxy?server=91.107.170.150&port=9090&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
@@ -15,8 +15,8 @@
 #### [Proxy 11](tg://proxy?server=172.235.173.227&port=65&secret=7gAA8A8Pd1VV____9QBuLmktLS0tLS13ZWIuYXBwY2VudGVyLm1zaS0tLS0tLQ)
 #### [Proxy 12](tg://proxy?server=graphicforyou.ir.darianco.org.ahraz14.ir.fekrez-iba.ir.denamachine.ir.voka-laeja-van.ir.aras-bazar.ir.jkmserv.ir.drzahrasadr.ir.postcard.link.yosdata.com.bab01.ir.hamr-azamin.com.shias-ea-rch.ir.c-hadishab.ir.ornail.com.pamco.archi.php-learn0.info.&port=7443&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v)
 #### [Proxy 13](tg://proxy?server=graphicforyou.ir.darianco.org.ahraz14.ir.fekrez-iba.ir.denamachine.ir.voka-laeja-van.ir.aras-bazar.ir.jkmserv.ir.drzahrasadr.ir.postcard.link.yosdata.com.bab01.ir.hamr-azamin.com.shias-ea-rch.ir.c-hadishab.ir.ornail.com.pamco.archi.advance-gaming.info.&port=7443&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v)
-#### [Proxy 14](tg://proxy?server=14.102.10.156&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-#### [Proxy 15](tg://proxy?server=14.102.10.157&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 14](tg://proxy?server=14.102.10.154&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 15](tg://proxy?server=14.102.10.155&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 ### [ProxyHagh](https://t.me/ProxyHagh)
 #### [Proxy 1](tg://proxy?server=95.217.139.130&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972)
 #### [Proxy 2](tg://proxy?server=95.217.139.131&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972)
