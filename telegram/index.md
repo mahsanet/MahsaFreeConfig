@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2025-02-03 21:38:53)
+## Free Telegram Proxy (Last Update: 2025-02-03 22:08:54)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=14.102.10.149&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 #### [Proxy 2](tg://proxy?server=14.102.10.148&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
@@ -64,7 +64,7 @@
 ### [ProxyDaemi](https://t.me/ProxyDaemi)
 #### [Proxy 1](tg://proxy?server=116.202.80.36&port=443&secret=1603010200010001fc030386e24c3add)
 #### [Proxy 2](tg://proxy?server=94.130.221.48&port=443&secret=1603010200010001fc030386e24c3add)
-#### [Proxy 3](tg://proxy?server=we.dns-ssler.com.&port=23&secret=eeNEgYdJvXrFGRMCIMJdCQEQ)
+#### [Proxy 3](tg://proxy?server=query-sql.dns-ssler.com.&port=23&secret=eeNEgYdJvXrFGRMCIMJdCQEQ)
 #### [Proxy 4](tg://proxy?server=176.9.21.51&port=8443&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 5](tg://proxy?server=176.9.15.227&port=8443&secret=FgMBAgABAAH8AwOG4kw63Q==)
 #### [Proxy 6](tg://proxy?server=46.4.70.159&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==)
