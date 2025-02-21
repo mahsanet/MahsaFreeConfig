@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2025-02-21 23:08:53)
+## Free Telegram Proxy (Last Update: 2025-02-21 23:38:54)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=14.102.10.154&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 #### [Proxy 2](tg://proxy?server=140.233.187.237&port=8888&secret=FgMBAgABAAH8AwOG4kw63QtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
@@ -26,7 +26,6 @@
 #### [Proxy 8](tg://proxy?server=95.217.149.17&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972)
 #### [Proxy 9](tg://proxy?server=95.217.149.17&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972)
 #### [Proxy 10](tg://proxy?server=95.217.149.17&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972)
-#### [Proxy 11](tg://proxy?server=95.217.149.17&port=443&secret=ee1603010200010001fc030386e24c3add726161682e6972)
 ### [iRoProxy](https://t.me/iRoProxy)
 #### [Proxy 1](tg://proxy?server=176.65.136.29&port=70&secret=1320PuNyHw_LQKT_Y7XNJw%3D%3D)
 #### [Proxy 2](tg://proxy?server=176.65.136.45&port=70&secret=1320PuNyHw_LQKT_Y7XNJw%3D%3D)
