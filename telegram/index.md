@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2025-03-12 09:38:55)
+## Free Telegram Proxy (Last Update: 2025-03-12 10:08:54)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=65.21.247.241&port=888&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 2](tg://proxy?server=95.217.217.34&port=888&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
@@ -12,9 +12,9 @@
 #### [Proxy 8](tg://proxy?server=138.201.207.117&port=7443&secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v)
 #### [Proxy 9](tg://proxy?server=14.102.10.157&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 #### [Proxy 10](tg://proxy?server=14.102.10.156&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-#### [Proxy 11](tg://proxy?server=108.181.70.27&port=443&secret=EERighJJvXrFGRMCIMJdCQ==)
-#### [Proxy 12](tg://proxy?server=108.181.121.220&port=443&secret=EERighJJvXrFGRMCIMJdCQ==)
-#### [Proxy 13](tg://proxy?server=dns.bazi-parvaneh.ir.&port=3443&secret=DDBighLLvXrFGRMCBVJdFQ==)
+#### [Proxy 11](tg://proxy?server=108.181.121.220&port=443&secret=EERighJJvXrFGRMCIMJdCQ==)
+#### [Proxy 12](tg://proxy?server=dns.bazi-parvaneh.ir.&port=3443&secret=DDBighLLvXrFGRMCBVJdFQ==)
+#### [Proxy 13](tg://proxy?server=108.181.70.27&port=443&secret=EERighJJvXrFGRMCIMJdCQ==)
 #### [Proxy 14](tg://proxy?server=65.21.2.209&port=888&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 #### [Proxy 15](tg://proxy?server=95.217.155.207&port=888&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 ### [ProxyHagh](https://t.me/ProxyHagh)
@@ -89,8 +89,7 @@
 #### [Proxy 10](tg://proxy?server=Focos-mokos.berlino-landcvixo.yokohama-1borino.eromatic.info.&port=443&secret=iORid5lJ237IiBMGYMQMdw==)
 #### [Proxy 11](tg://proxy?server=Focos-mokos.berlino-landcvixo.yokohama-1borino.eromatic.info.&port=443&secret=iORid5lJ237IiBMGYMQMdw==)
 #### [Proxy 12](tg://proxy?server=Acceleytor-nuremberg.tourbo-motors.Soshal.borcarmo-091.info.&port=9060&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-#### [Proxy 13](tg://proxy?server=Focos-mokos.berlino-landcvixo.yokohama-1borino.eromatic.info.&port=443&secret=iORid5lJ237IiBMGYMQMdw==)
-#### [Proxy 14](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.voriaz-boriaz.info.&port=1919&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-#### [Proxy 15](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.bolombergon-88.info&port=4550&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+#### [Proxy 13](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.voriaz-boriaz.info.&port=1919&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+#### [Proxy 14](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.bolombergon-88.info&port=4550&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 
     
