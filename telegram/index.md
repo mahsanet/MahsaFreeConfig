@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2025-03-22 23:38:56)
+## Free Telegram Proxy (Last Update: 2025-03-23 00:08:57)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=14.102.10.149&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 #### [Proxy 2](tg://proxy?server=14.102.10.148&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
@@ -72,6 +72,7 @@
 #### [Proxy 8](tg://proxy?server=195.66.212.11&port=50&secret=DD79e344818749bd7ac519130220c25d09)
 #### [Proxy 9](tg://proxy?server=195.66.212.11&port=50&secret=DD79e344818749bd7ac519130220c25d09)
 #### [Proxy 10](tg://proxy?server=195.66.212.11&port=50&secret=DD79e344818749bd7ac519130220c25d09)
+#### [Proxy 11](tg://proxy?server=195.66.212.11&port=50&secret=DD79e344818749bd7ac519130220c25d09)
 ### [Myporoxy](https://t.me/Myporoxy)
 #### [Proxy 1](tg://proxy?server=Mood-rokool.webmaster-prodoct.berembo-road.volvocars.pics.&port=443&secret=iORid5lJ237IiBMGYMQMdw==)
 #### [Proxy 2](tg://proxy?server=192.168.1.1.apt-kernel.org.copan-moban.info.&port=2040&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
