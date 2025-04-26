@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2025-04-26 19:39:07)
+## Free Telegram Proxy (Last Update: 2025-04-26 20:09:05)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=14.102.10.149&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 #### [Proxy 2](tg://proxy?server=14.102.10.148&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
@@ -47,6 +47,7 @@
 #### [Proxy 11](tg://proxy?server=176.65.136.51&port=70&secret=3dd9tD7jch8Py0Ck_2O1zSc%3D)
 #### [Proxy 12](tg://proxy?server=176.65.136.42&port=70&secret=3am7Wiq0rZT6_Cmftj5aO7sAAAAAAAAAAAAAAAAAAAAkIicxgcZ0hcMsAAAA0hcMsAAAMABA)
 #### [Proxy 13](tg://proxy?server=176.65.136.56&port=70&secret=3dd9tD7jch8Py0Ck_2O1zSc%3D)
+#### [Proxy 14](tg://proxy?server=176.65.136.57&port=70&secret=3dd9tD7jch8Py0Ck_2O1zSc%3D)
 ### [PinkProxy](https://t.me/PinkProxy)
 #### [Proxy 1](tg://proxy?server=77.232.36.143&port=23&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 2](tg://proxy?server=185.173.38.30&port=23&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
@@ -78,7 +79,6 @@
 #### [Proxy 12](tg://proxy?server=176.65.136.59&port=70&secret=3dd9tD7jch8Py0Ck_2O1zSc%3D)
 #### [Proxy 13](tg://proxy?server=176.65.136.67&port=70&secret=3dd9tD7jch8Py0Ck_2O1zSc%3D)
 #### [Proxy 14](tg://proxy?server=176.65.136.44&port=70&secret=3dd9tD7jch8Py0Ck_2O1zSc%3D)
-#### [Proxy 15](tg://proxy?server=176.65.136.36&port=70&secret=1320PuNyHw_LQKT_Y7XNJw%3D%3D)
 ### [Myporoxy](https://t.me/Myporoxy)
 #### [Proxy 1](tg://proxy?server=192.168.1.1.apt-kernel.org.copan-moban.info.&port=2040&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 2](tg://proxy?server=Focos-mokos.berlino-landcvixo.yokohama-1borino.eromatic.info.&port=443&secret=iORid5lJ237IiBMGYMQMdw==)
