@@ -11,7 +11,7 @@ in my example it send 4 packets of "ee0000000108aaaa" before handshake
 ##### support hex input in Xray>=v25.1.1
 ##### support noiseKeepAlive and count parameters in Xray>=v25.4.30
 
-<code>noiseKeepAlive: n  ----> send whole noise array every n sec to prevent idle blockage ( 0==disable_keepalive)
+<code>noiseKeepAlive: n  ----> send whole noise array every n sec to prevent blockage when udp get idle ( 0==disable_keepalive)
       count: k            ----> send this specific noise k times before moving to next element in array
 </code>
 
