@@ -3,7 +3,8 @@
 #### introduced 2024-Q4 by @mmmray
  
 1. chain udp config outbound to freedom using sockopt
-2. define noise packets in freedom that you want to be sent before handshake initiate
+2. define noise packets in freedom outbound that you want to be sent before handshake initiate
+3. set noiseKeepAlive: 5 to send noise array every 5 sec (to prevent detection when udp connection getting idle)
 
 in my example it send 4 packets of "ee0000000108aaaa" before handshake
 
