@@ -81,21 +81,19 @@
       "protocol": "freedom",
       "settings": {
         "domainStrategy": "AsIs",
+        "noiseKeepAlive":5,
         "noises":[
             {
               "type":"hex",
               "packet":"ee0000000108aaaaaaaaaaaaaaaa000044d0",
-              "delay":"0-16"
-            },
-            {
-              "type":"hex",
-              "packet":"ee0000000108bbbbbbbbbbbbbbbb000044d0",
-              "delay":"10-16"
+              "delay":"0-16",
+              "count":"2"
             },
             {
               "type":"hex",
               "packet":"ee0000000108aaaa",
-              "delay":"10-16"
+              "delay":"10-16",
+              "count":"10"
             },
             {
               "type":"str",
