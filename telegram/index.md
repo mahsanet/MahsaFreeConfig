@@ -1,10 +1,10 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2025-05-19 03:38:53)
+## Free Telegram Proxy (Last Update: 2025-05-19 04:09:20)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=65.108.65.46&port=65&secret=1320PuNyHw_LQKT_Y7XNJw%3D%3D)
-#### [Proxy 2](tg://proxy?server=Empire-persia.ex-ir-backup.ir.&port=8443&secret=DDBighLLvXrFGRMCBVJdFQ==)
-#### [Proxy 3](tg://proxy?server=kgcitd8d4.co.uk&port=9090&secret=FgMBAgABAAH8AwOG4kw63Q)
+#### [Proxy 2](tg://proxy?server=kgcitd8d4.co.uk&port=9090&secret=FgMBAgABAAH8AwOG4kw63Q)
+#### [Proxy 3](tg://proxy?server=pexo405.co.uk&port=443&secret=FgMBAgABAAH8AwOG4kw63Q)
 #### [Proxy 4](tg://proxy?server=calloff400.co.uk&port=443&secret=FgMBAgABAAH8AwOG4kw63Q)
 #### [Proxy 5](tg://proxy?server=5.255.122.86&port=443&secret=15115115115115115115115115115115)
 #### [Proxy 6](tg://proxy?server=5.255.97.150&port=443&secret=15115115115115115115115115115115)
@@ -93,6 +93,7 @@
 #### [Proxy 11](tg://proxy?server=Jocker-moker.garden-workeston.borsandowww.tic.ir.eldorado-feng.info.&port=443&secret=7HQighJPBNMYVRNB6tdkVw==)
 #### [Proxy 12](tg://proxy?server=192.168.1.1.apt-kernel.org.copan-moban.info.&port=2040&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 13](tg://proxy?server=Focos-mokos.berlino-landcvixo.yokohama-1borino.eromatic.info.&port=443&secret=iORid5lJ237IiBMGYMQMdw==)
-#### [Proxy 14](tg://proxy?server=Jocker-moker.garden-workeston.borsandowww.tic.ir.eldorado-feng.info.&port=443&secret=7HQighJPBNMYVRNB6tdkVw==)
+#### [Proxy 14](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.bolombergon-88.info&port=4550&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+#### [Proxy 15](tg://proxy?server=Jocker-moker.garden-workeston.borsandowww.tic.ir.eldorado-feng.info.&port=443&secret=7HQighJPBNMYVRNB6tdkVw==)
 
     
