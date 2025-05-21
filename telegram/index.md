@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2025-05-21 22:08:58)
+## Free Telegram Proxy (Last Update: 2025-05-21 22:38:59)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=204.76.203.62&port=443&secret=15115115115115115115115115115115)
 #### [Proxy 2](tg://proxy?server=14.102.10.33&port=888&secret=eeNEgYdJvXrFGRMCIMJdCQ)
