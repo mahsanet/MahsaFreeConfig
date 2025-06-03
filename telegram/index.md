@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2025-06-03 04:08:51)
+## Free Telegram Proxy (Last Update: 2025-06-03 04:38:55)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=93.88.205.19&port=888&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 #### [Proxy 2](tg://proxy?server=93.88.205.18&port=888&secret=eeNEgYdJvXrFGRMCIMJdCQ)
@@ -76,6 +76,10 @@
 #### [Proxy 9](tg://proxy?server=92.246.87.70&port=777&secret=1603010200010001fc030386e24c3add)
 #### [Proxy 10](tg://proxy?server=103.161.35.27&port=777&secret=1603010200010001fc030386e24c3add)
 #### [Proxy 11](tg://proxy?server=rightel.irancell.irib.snapp.digikala.cloud.iranian.irib.ahmadp206.namli--binjzk.info&port=666&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 12](tg://proxy?server=176.65.128.124&port=777&secret=1603010200010001fc030386e24c3add)
+#### [Proxy 13](tg://proxy?server=92.246.87.70&port=777&secret=1603010200010001fc030386e24c3add)
+#### [Proxy 14](tg://proxy?server=194.120.230.26&port=777&secret=1603010200010001fc030386e24c3add)
+#### [Proxy 15](tg://proxy?server=rightel.irancell.irib.snapp.digikala.cloud.iranian.irib.ahmadp206.namli--binjzk.info&port=666&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 ### [Myporoxy](https://t.me/Myporoxy)
 #### [Proxy 1](tg://proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.bolombergon-88.info&port=4550&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 2](tg://proxy?server=Jocker-moker.garden-workeston.borsandowww.tic.ir.eldorado-feng.info.&port=443&secret=7HQighJPBNMYVRNB6tdkVw==)
