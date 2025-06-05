@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2025-06-05 04:38:56)
+## Free Telegram Proxy (Last Update: 2025-06-05 05:08:55)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=www.bestov.ir&port=551&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 #### [Proxy 2](tg://proxy?server=204.76.203.84&port=443&secret=15115115115115115115115115115115)
@@ -77,9 +77,7 @@
 #### [Proxy 10](tg://proxy?server=103.161.35.27&port=777&secret=1603010200010001fc030386e24c3add)
 #### [Proxy 11](tg://proxy?server=rightel.irancell.irib.snapp.digikala.cloud.iranian.irib.ahmadp206.namli--binjzk.info&port=666&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 #### [Proxy 12](tg://proxy?server=176.65.128.124&port=777&secret=1603010200010001fc030386e24c3add)
-#### [Proxy 13](tg://proxy?server=92.246.87.70&port=777&secret=1603010200010001fc030386e24c3add)
-#### [Proxy 14](tg://proxy?server=194.120.230.26&port=777&secret=1603010200010001fc030386e24c3add)
-#### [Proxy 15](tg://proxy?server=rightel.irancell.irib.snapp.digikala.cloud.iranian.irib.ahmadp206.namli--binjzk.info&port=666&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 13](tg://proxy?server=194.120.230.26&port=777&secret=1603010200010001fc030386e24c3add)
 ### [Myporoxy](https://t.me/Myporoxy)
 #### [Proxy 1](tg://proxy?server=Jocker-moker.garden-workeston.borsandowww.tic.ir.eldorado-feng.info.&port=443&secret=7HQighJPBNMYVRNB6tdkVw==)
 #### [Proxy 2](tg://proxy?server=192.168.1.1.apt-kernel.org.copan-moban.info.&port=2040&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
