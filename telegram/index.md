@@ -1,8 +1,5 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2025-06-15 19:38:30)
-### [iRoProxy](https://t.me/iRoProxy)
-#### [Proxy 1](tg://proxy?server=one.farhangeirani2.ir&port=70&secret=7gffffffff___f_______Adkb3dubG9hZC53aW5kb3dzdXBkYXRlLmNvbQ%3D%3D)
-#### [Proxy 2](tg://proxy?server=one.farhangeirani2.ir&port=70&secret=7gffffffff___f_______Adkb3dubG9hZC53aW5kb3dzdXBkYXRlLmNvbQ%3D%3D)
+## Free Telegram Proxy (Last Update: 2025-06-15 20:09:41)
 
     
