@@ -1,22 +1,7 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2025-06-15 11:38:37)
-### [ProxyMTProto](https://t.me/ProxyMTProto)
-#### [Proxy 1](tg://proxy?server=124.iropt-i.ir&port=443&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t)
-#### [Proxy 2](tg://proxy?server=123.iropt-i.ir&port=443&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t)
+## Free Telegram Proxy (Last Update: 2025-06-15 12:08:37)
 ### [PinkProxy](https://t.me/PinkProxy)
 #### [Proxy 1](tg://proxy?server=basic.beperi.ir&port=443&secret=7gAA8A8Pd1VV____9QBuLmlkb3dubG9hZC53aW5kb3dzdXBkYXRlLmNvbQ)
-### [ProxyDaemi](https://t.me/ProxyDaemi)
-#### [Proxy 1](tg://proxy?server=rightel.irancell.irib.snapp.digikala.cloud.iranian.irib.ahmadp206.namli--binjzk.info.&port=666&secret=%37%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%68%74%5A%57%52%70%59%53%35%7A%64%47%56%68%62%58%42%76%64%32%56%79%5A%57%51%75%59%32%39%74)
-#### [Proxy 2](tg://proxy?server=rightel.irancell.irib.snapp.digikala.cloud.iranian.irib.ahmadp206.namakdarya.info.&port=8443&secret=%37%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%68%74%5A%57%52%70%59%53%35%7A%64%47%56%68%62%58%42%76%64%32%56%79%5A%57%51%75%59%32%39%74)
-#### [Proxy 3](tg://proxy?server=rightel.irancell.irib.snapp.digikala.cloud.iranian.irib.ahmadp206.namli--binjzk.info.&port=666&secret=%37%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%68%74%5A%57%52%70%59%53%35%7A%64%47%56%68%62%58%42%76%64%32%56%79%5A%57%51%75%59%32%39%74)
-#### [Proxy 4](tg://proxy?server=rightel.irancell.irib.snapp.digikala.cloud.iranian.irib.ahmadp206.namakdarya.info.&port=8443&secret=%37%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%68%74%5A%57%52%70%59%53%35%7A%64%47%56%68%62%58%42%76%64%32%56%79%5A%57%51%75%59%32%39%74)
-#### [Proxy 5](tg://proxy?server=rightel.irancell.irib.snapp.digikala.cloud.iranian.irib.ahmadp206.namli--binjzk.info.&port=666&secret=%37%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%68%74%5A%57%52%70%59%53%35%7A%64%47%56%68%62%58%42%76%64%32%56%79%5A%57%51%75%59%32%39%74)
-#### [Proxy 6](tg://proxy?server=rightel.irancell.irib.snapp.digikala.cloud.iranian.irib.ahmadp206.namakdarya.info.&port=8443&secret=%37%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%68%74%5A%57%52%70%59%53%35%7A%64%47%56%68%62%58%42%76%64%32%56%79%5A%57%51%75%59%32%39%74)
-#### [Proxy 7](tg://proxy?server=rightel.irancell.irib.snapp.digikala.cloud.iranian.irib.ahmadp206.namli--binjzk.info.&port=666&secret=%37%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%68%74%5A%57%52%70%59%53%35%7A%64%47%56%68%62%58%42%76%64%32%56%79%5A%57%51%75%59%32%39%74)
-#### [Proxy 8](tg://proxy?server=rightel.irancell.irib.snapp.digikala.cloud.iranian.irib.ahmadp206.namakdarya.info.&port=8443&secret=%37%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%68%74%5A%57%52%70%59%53%35%7A%64%47%56%68%62%58%42%76%64%32%56%79%5A%57%51%75%59%32%39%74)
-#### [Proxy 9](tg://proxy?server=rightel.irancell.irib.snapp.digikala.cloud.iranian.irib.ahmadp206.namli--binjzk.info.&port=666&secret=%37%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%68%74%5A%57%52%70%59%53%35%7A%64%47%56%68%62%58%42%76%64%32%56%79%5A%57%51%75%59%32%39%74)
-#### [Proxy 10](tg://proxy?server=rightel.irancell.irib.snapp.digikala.cloud.iranian.irib.ahmadp206.namakdarya.info.&port=8443&secret=%37%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%68%74%5A%57%52%70%59%53%35%7A%64%47%56%68%62%58%42%76%64%32%56%79%5A%57%51%75%59%32%39%74)
-#### [Proxy 11](tg://proxy?server=rightel.irancell.irib.snapp.digikala.cloud.iranian.irib.ahmadp206.namli--binjzk.info.&port=666&secret=%37%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%67%68%74%5A%57%52%70%59%53%35%7A%64%47%56%68%62%58%42%76%64%32%56%79%5A%57%51%75%59%32%39%74)
 
     
