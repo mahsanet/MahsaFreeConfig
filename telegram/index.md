@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2025-08-11 06:38:51)
+## Free Telegram Proxy (Last Update: 2025-08-11 07:08:54)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=152.232.8.226&port=155&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 2](tg://proxy?server=Sareto-hayhay.hamechimyar.ir.&port=6773&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
@@ -24,7 +24,6 @@
 #### [Proxy 3](tg://proxy?server=176.65.135.41&port=23&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 4](tg://proxy?server=176.65.135.42&port=23&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 5](tg://proxy?server=176.65.135.103&port=23&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-#### [Proxy 6](tg://proxy?server=176.65.135.104&port=23&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 ### [ProxyDaemi](https://t.me/ProxyDaemi)
 #### [Proxy 1](tg://proxy?server=power.namli--binjzk.info&port=777&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 2](tg://proxy?server=rightel.irancell.irib.namli--binjzk.info&port=666&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
@@ -47,6 +46,7 @@
 #### [Proxy 11](tg://proxy?server=Jocker-moker.garden-workeston.borsandowww.tic.ir.eldorado-feng.info.&port=443&secret=7HQighJPBNMYVRNB6tdkVw==)
 #### [Proxy 12](tg://proxy?server=Mortal-Vovok.nuremborg-hamborg.dodos-codam.mehrvilla.info&port=443&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t)
 #### [Proxy 13](tg://proxy?server=Focos-mokos.berlino-landcvixo.yokohama-1borino.eromatic.info.&port=443&secret=iORid5lJ237IiBMGYMQMdw==)
-#### [Proxy 14](tg://proxy?server=Jocker-moker.garden-workeston.borsandowww.tic.ir.eldorado-feng.info.&port=443&secret=7HQighJPBNMYVRNB6tdkVw==)
+#### [Proxy 14](tg://proxy?server=World-press.Online-shop.speeker-voice.avadox-zhoan.info&port=144&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t)
+#### [Proxy 15](tg://proxy?server=Jocker-moker.garden-workeston.borsandowww.tic.ir.eldorado-feng.info.&port=443&secret=7HQighJPBNMYVRNB6tdkVw==)
 
     
