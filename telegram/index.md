@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2025-09-08 18:38:49)
+## Free Telegram Proxy (Last Update: 2025-09-08 19:08:48)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=https.ddns-cdnco.co.uk.&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 2](tg://proxy?server=https.www.bahesab.ir-time.conversion-rotwailer.irancell.ir.com-mci.ir.com-co.uk-cilo.com-msn.cloudflare.com-tic.ir-is-filterchi.the-best-proxy.in-the-internet.com-nemidonam-dige-chi.benecisam.co.uk-felan-by.ta-badesh.ir.co.uk.kalivacocie-rotwailer.info.&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
@@ -14,6 +14,8 @@
 #### [Proxy 3](tg://proxy?server=siteimproves.space&port=1080&secret=79e344818749bd7ac519130220c25d09)
 #### [Proxy 4](tg://proxy?server=siteimproves.space&port=1080&secret=79e344818749bd7ac519130220c25d09)
 #### [Proxy 5](tg://proxy?server=siteimproves.space&port=1080&secret=79e344818749bd7ac519130220c25d09)
+#### [Proxy 6](tg://proxy?server=siteimproves.space&port=1080&secret=79e344818749bd7ac519130220c25d09)
+#### [Proxy 7](tg://proxy?server=siteimproves.space&port=1080&secret=79e344818749bd7ac519130220c25d09)
 ### [iRoProxy](https://t.me/iRoProxy)
 #### [Proxy 1](tg://proxy?server=91.238.92.252&port=8443&secret=eeRighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 2](tg://proxy?server=91.238.92.247&port=443&secret=eecBAgABAAfwAwOG4kw63QAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29t)
