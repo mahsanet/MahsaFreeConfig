@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2025-11-03 11:47:02)
+## Free Telegram Proxy (Last Update: 2025-11-03 12:08:44)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=help-center-connection.twofa-manager.co.uk.&port=8443&secret=eecBAgABAAfwAwOG4kw63QAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 2](tg://proxy?server=view-open-ai-cc.twofa-manager.co.uk.&port=8443&secret=eecBAgABAAfwAwOG4kw63QAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
@@ -22,6 +22,10 @@
 #### [Proxy 3](tg://proxy?server=siteimproves.co.uk&port=1080&secret=79e344818749bd7ac519130220c25d09)
 #### [Proxy 4](tg://proxy?server=siteimproves.co.uk&port=1080&secret=79e344818749bd7ac519130220c25d09)
 #### [Proxy 5](tg://proxy?server=siteimproves.co.uk&port=1080&secret=79e344818749bd7ac519130220c25d09)
+#### [Proxy 6](tg://proxy?server=siteimproves.co.uk&port=1080&secret=79e344818749bd7ac519130220c25d09)
+#### [Proxy 7](tg://proxy?server=siteimproves.co.uk&port=1080&secret=79e344818749bd7ac519130220c25d09)
+#### [Proxy 8](tg://proxy?server=siteimproves.co.uk&port=1080&secret=79e344818749bd7ac519130220c25d09)
+#### [Proxy 9](tg://proxy?server=siteimproves.co.uk&port=1080&secret=79e344818749bd7ac519130220c25d09)
 ### [iRoProxy](https://t.me/iRoProxy)
 #### [Proxy 1](tg://proxy?server=66.92.164.2&port=200&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 2](tg://proxy?server=163.5.31.209&port=155&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
