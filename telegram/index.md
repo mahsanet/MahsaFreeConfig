@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2026-02-08 04:08:34)
+## Free Telegram Proxy (Last Update: 2026-02-08 04:16:50)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=https.uptv443.shop.&port=8443&secret=3XnnAQIAAQAH8AMDhuJMOt0%3D)
 #### [Proxy 2](tg://proxy?server=www.uptv443.shop.&port=8443&secret=3XnnAQIAAQAH8AMDhuJMOt0%3D)
@@ -11,7 +11,6 @@
 #### [Proxy 7](tg://proxy?server=mizanesgh.co.uk.&port=23&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 8](tg://proxy?server=www.duhpro.makeup&port=8443&secret=dd79e7010200010007f0030386e24c3add)
 #### [Proxy 9](tg://proxy?server=Ey-to.ir.omide-hasti.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
-#### [Proxy 10](tg://proxy?server=saborbash-2vasle.mine-freedom.site&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0)
 ### [ProxyHagh](https://t.me/ProxyHagh)
 #### [Proxy 1](tg://proxy?server=ssh-tcp-telnet.gamesea.info.&port=61016&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
 ### [PinkProxy](https://t.me/PinkProxy)
@@ -29,10 +28,11 @@
 #### [Proxy 7](tg://proxy?server=188.212.98.6&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 #### [Proxy 8](tg://proxy?server=188.212.98.11&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 #### [Proxy 9](tg://proxy?server=188.212.98.7&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-#### [Proxy 10](tg://proxy?server=188.212.98.11&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-#### [Proxy 11](tg://proxy?server=188.212.98.2&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-#### [Proxy 12](tg://proxy?server=188.212.98.4&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-#### [Proxy 13](tg://proxy?server=188.212.98.21&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-#### [Proxy 14](tg://proxy?server=188.212.98.30&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 10](tg://proxy?server=188.212.98.7&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 11](tg://proxy?server=188.212.98.11&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 12](tg://proxy?server=188.212.98.2&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 13](tg://proxy?server=188.212.98.4&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 14](tg://proxy?server=188.212.98.21&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 15](tg://proxy?server=188.212.98.30&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 
     
