@@ -1,5 +1,22 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2026-02-08 05:46:50)
+## Free Telegram Proxy (Last Update: 2026-02-08 06:08:39)
+### [PinkProxy](https://t.me/PinkProxy)
+#### [Proxy 1](tg://proxy?server=michael.jordanair.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+#### [Proxy 2](tg://proxy?server=michael.jordanair.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+#### [Proxy 3](tg://proxy?server=michael.jordanair.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+### [ProxyDaemi](https://t.me/ProxyDaemi)
+#### [Proxy 1](tg://proxy?server=188.212.98.6&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 2](tg://proxy?server=188.212.98.11&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 3](tg://proxy?server=188.212.98.7&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 4](tg://proxy?server=188.212.98.11&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 5](tg://proxy?server=188.212.98.2&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 6](tg://proxy?server=188.212.98.4&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 7](tg://proxy?server=188.212.98.21&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 8](tg://proxy?server=188.212.98.30&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 9](tg://proxy?server=188.212.98.2&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 10](tg://proxy?server=188.212.98.4&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 11](tg://proxy?server=188.212.98.21&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 12](tg://proxy?server=188.212.98.30&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 
     
