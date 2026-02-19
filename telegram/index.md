@@ -1,11 +1,10 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2026-02-19 10:47:10)
+## Free Telegram Proxy (Last Update: 2026-02-19 11:17:06)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=https.porteghall.site.&port=8443&secret=dd79e7010200010007f0030386e24c3add)
 #### [Proxy 2](tg://proxy?server=www.porteghall.site.&port=8443&secret=dd79e7010200010007f0030386e24c3add)
 #### [Proxy 3](tg://proxy?server=www.uptv443.shop.&port=8443&secret=3XnnAQIAAQAH8AMDhuJMOt0=)
-#### [Proxy 4](tg://proxy?server=https.uptv443.shop.&port=8443&secret=3XnnAQIAAQAH8AMDhuJMOt0=)
 ### [ProxyHagh](https://t.me/ProxyHagh)
 #### [Proxy 1](tg://proxy?server=cdn.gamelande.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
 ### [iRoProxy](https://t.me/iRoProxy)
