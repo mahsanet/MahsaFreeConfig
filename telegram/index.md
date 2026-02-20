@@ -1,10 +1,10 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2026-02-20 19:47:10)
+## Free Telegram Proxy (Last Update: 2026-02-20 20:17:11)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
-#### [Proxy 1](tg://proxy?server=https-cdn-ddns.itdeveloper.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
-#### [Proxy 2](tg://proxy?server=peyk.acharbashi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d)
-#### [Proxy 3](tg://proxy?server=www.spsctr.info.&port=22&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
+#### [Proxy 1](tg://proxy?server=peyk.acharbashi.info&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d)
+#### [Proxy 2](tg://proxy?server=www.spsctr.info.&port=22&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
+#### [Proxy 3](tg://proxy?server=makeup.duhpro.makeup&port=8443&secret=dd79e7010200010007f0030386e24c3add)
 #### [Proxy 4](tg://proxy?server=5.75.218.89&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt0)
 #### [Proxy 5](tg://proxy?server=www.duhpro.makeup&port=8443&secret=dd79e7010200010007f0030386e24c3add)
 ### [ProxyHagh](https://t.me/ProxyHagh)
@@ -17,5 +17,9 @@
 #### [Proxy 1](tg://proxy?server=91.239.192.109&port=25565&secret=dd79e344818749bd7ac519130220c25d09)
 ### [ProxyDaemi](https://t.me/ProxyDaemi)
 #### [Proxy 1](tg://proxy?server=188.212.98.33&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 2](tg://proxy?server=188.212.98.33&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+### [Myporoxy](https://t.me/Myporoxy)
+#### [Proxy 1](tg://proxy?server=general.irancell-ir.cfd&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+#### [Proxy 2](tg://proxy?server=general.irancell-ir.cfd&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
 
     
