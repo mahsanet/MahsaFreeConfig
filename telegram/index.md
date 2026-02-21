@@ -1,13 +1,11 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2026-02-21 20:17:09)
+## Free Telegram Proxy (Last Update: 2026-02-21 20:47:10)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
-#### [Proxy 1](tg://proxy?server=full.restreams.info.&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
-#### [Proxy 2](tg://proxy?server=support.oregonstats.info.&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
-#### [Proxy 3](tg://proxy?server=app.x9q.pw&port=8443&secret=3XnnAQIAAQAH8AMDhuJMOt0%3D)
-#### [Proxy 4](tg://proxy?server=www.x9q.pw&port=8443&secret=3XnnAQIAAQAH8AMDhuJMOt0%3D)
-#### [Proxy 5](tg://proxy?server=hi.publiclg.shop.&port=8443&secret=dd79e7010200010007f0030386e24c3add)
-#### [Proxy 6](tg://proxy?server=russia.publiclg.shop.&port=8443&secret=dd79e7010200010007f0030386e24c3add)
+#### [Proxy 1](tg://proxy?server=www.x9q.pw&port=8443&secret=3XnnAQIAAQAH8AMDhuJMOt0%3D)
+#### [Proxy 2](tg://proxy?server=hi.publiclg.shop.&port=8443&secret=dd79e7010200010007f0030386e24c3add)
+#### [Proxy 3](tg://proxy?server=russia.publiclg.shop.&port=8443&secret=dd79e7010200010007f0030386e24c3add)
+#### [Proxy 4](tg://proxy?server=www.humaontop.space&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0)
 ### [ProxyHagh](https://t.me/ProxyHagh)
 #### [Proxy 1](tg://proxy?server=saborbash-vasle.minetor.co.uk&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0)
 #### [Proxy 2](tg://proxy?server=cdn.gamelande.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
@@ -28,6 +26,5 @@
 #### [Proxy 9](tg://proxy?server=collider.web-yektanet-com.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
 #### [Proxy 10](tg://proxy?server=general.irancell-ir.cfd&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
 #### [Proxy 11](tg://proxy?server=collider.web-yektanet-com.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
-#### [Proxy 12](tg://proxy?server=general.irancell-ir.cfd&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
 
     
