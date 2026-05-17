@@ -1,5 +1,5 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2026-05-16 23:45:14)
+## Free Telegram Proxy (Last Update: 2026-05-17 00:15:15)
 
     
