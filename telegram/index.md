@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2026-07-07 03:47:09)
+## Free Telegram Proxy (Last Update: 2026-07-07 04:17:07)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=fresh.t-proxy.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d)
 #### [Proxy 2](tg://proxy?server=fas8t.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b)
@@ -10,7 +10,6 @@
 #### [Proxy 6](tg://proxy?server=vagon.belotfelipo.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d)
 #### [Proxy 7](tg://proxy?server=mc-ssh.t-proxyru.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d)
 #### [Proxy 8](tg://proxy?server=br8ta.co.uk.&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b)
-#### [Proxy 9](tg://proxy?server=gate.klyuch1k.org&port=443&secret=eeae941a76ec4acf04faabaf8a24571080676174652e6b6c79756368316b2e6f7267)
 ### [ProxyHagh](https://t.me/ProxyHagh)
 #### [Proxy 1](tg://proxy?server=www2.acientirani-uor4.ir&port=443&secret=ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d)
 #### [Proxy 2](tg://proxy?server=www2.acientirani-uor4.ir&port=443&secret=ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d)
@@ -21,7 +20,6 @@
 #### [Proxy 7](tg://proxy?server=www2.acientirani-uor4.ir&port=443&secret=ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d)
 #### [Proxy 8](tg://proxy?server=www2.acientirani-uor4.ir&port=443&secret=ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d)
 #### [Proxy 9](tg://proxy?server=www2.acientirani-uor4.ir&port=443&secret=ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d)
-#### [Proxy 10](tg://proxy?server=www2.acientirani-uor4.ir&port=443&secret=ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d)
 ### [iRoProxy](https://t.me/iRoProxy)
 #### [Proxy 1](tg://proxy?server=kala.golgoli1.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d)
 #### [Proxy 2](tg://proxy?server=box.lavazemi5.co.uk&port=2053&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d)
@@ -79,7 +77,6 @@
 #### [Proxy 6](tg://proxy?server=Barcode.kangoro-boll.co.uk.&port=443&secret=EEABAzJJlbB8AwOG6Ibn8QRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 #### [Proxy 7](tg://proxy?server=kalakbaz.kalakbazi-co.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
 #### [Proxy 8](tg://proxy?server=Barcode.kangoro-boll.co.uk.&port=443&secret=EEABAzJJlbB8AwOG6Ibn8QRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-#### [Proxy 9](tg://proxy?server=webgah.masachoset-belosan.co.uk&port=443&secret=ee1603010200010001fc030386e24c3ad37765622e79656b74616e65742e636f6d)
-#### [Proxy 10](tg://proxy?server=kalakbaz.kalakbazi-co.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+#### [Proxy 9](tg://proxy?server=kalakbaz.kalakbazi-co.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
 
     
