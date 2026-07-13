@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2026-07-13 08:17:07)
+## Free Telegram Proxy (Last Update: 2026-07-13 08:47:08)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=Fighter-Man.ir-proxy.Manege-Desktop-For.Co.Im.&port=4443&secret=EERighJJvXrFGRMCIMjdCQ)
 #### [Proxy 2](tg://proxy?server=Fighter-Man.ir-proxy.Manege-Desktop-For.Co.Im.&port=4443&secret=EERighJJvXrFGRMCIMjdCQ)
@@ -83,5 +83,6 @@
 #### [Proxy 8](tg://proxy?server=cip.histirik.co.uk.&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 #### [Proxy 9](tg://proxy?server=himan.dano-vaks.co.uk.&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 #### [Proxy 10](tg://proxy?server=webcam.shirbooni.co.uk&port=144&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+#### [Proxy 11](tg://proxy?server=cip.histirik.co.uk.&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 
     
