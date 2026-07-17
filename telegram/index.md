@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2026-07-17 00:46:48)
+## Free Telegram Proxy (Last Update: 2026-07-17 01:16:41)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=65.21.83.228&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0)
 #### [Proxy 2](tg://proxy?server=65.108.123.76&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0)
@@ -30,7 +30,7 @@
 #### [Proxy 2](tg://proxy?server=new.vafadari.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 #### [Proxy 3](tg://proxy?server=mashtibash.vafadari.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 #### [Proxy 4](tg://proxy?server=lux.lavazemi1.co.uk&port=2096&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d)
-#### [Proxy 5](tg://proxy?server=nick.ciaude.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 5](tg://proxy?server=silver.ciaude.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 #### [Proxy 6](tg://proxy?server=permiiium.lavazemi2.co.uk&port=2096&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d)
 #### [Proxy 7](tg://proxy?server=gallery.talebi.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 #### [Proxy 8](tg://proxy?server=book.malavanann.co.uk&port=2096&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d)
