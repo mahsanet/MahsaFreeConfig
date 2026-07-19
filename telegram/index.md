@@ -1,6 +1,6 @@
 
 # [MahsaNet](https://t.me/mahsa_net)
-## Free Telegram Proxy (Last Update: 2026-07-19 13:16:45)
+## Free Telegram Proxy (Last Update: 2026-07-19 13:46:45)
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 #### [Proxy 1](tg://proxy?server=www2.acientirani-uor4.ir&port=443&secret=ee0000f00f0f775555fffffff5006e2e697374617469632e666172616b61762e636f6d)
 #### [Proxy 2](tg://proxy?server=webhook.vingardium.co.uk.&port=443&secret=eeddffffffc5a1168b2ff3eba31cbfffff7765622e62616c652e6169)
@@ -55,8 +55,8 @@
 #### [Proxy 14](tg://proxy?server=super.sub-ploter.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d)
 #### [Proxy 15](tg://proxy?server=b.sub-ploter.co.uk&port=22&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d)
 ### [Myporoxy](https://t.me/Myporoxy)
-#### [Proxy 1](tg://proxy?server=valla.chemidonam.co.uk&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-#### [Proxy 2](tg://proxy?server=folox.jeyko-max.info.&port=44300&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 1](tg://proxy?server=folox.jeyko-max.info.&port=44300&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 2](tg://proxy?server=webcam.shirbooni.co.uk&port=144&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
 #### [Proxy 3](tg://proxy?server=Ghavi.nofex-co.info&port=8770&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 #### [Proxy 4](tg://proxy?server=valla.chemidonam.co.uk&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 #### [Proxy 5](tg://proxy?server=folox.jeyko-max.info.&port=44300&secret=eeNEgYdJvXrFGRMCIMJdCQ)
@@ -69,5 +69,6 @@
 #### [Proxy 12](tg://proxy?server=valla.chemidonam.co.uk&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 #### [Proxy 13](tg://proxy?server=folox.jeyko-max.info.&port=44300&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 #### [Proxy 14](tg://proxy?server=webcam.shirbooni.co.uk&port=144&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+#### [Proxy 15](tg://proxy?server=Ghavi.nofex-co.info&port=8770&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 
     
