@@ -1,6 +1,6 @@
 # [MahsaNet](https://t.me/mahsa_net)
 
-## Free Telegram Proxy (Last Update: 2026-08-01 08:07:06)
+## Free Telegram Proxy (Last Update: 2026-08-01 08:36:19)
 
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 
@@ -32,10 +32,14 @@
 
 #### [Proxy 14](tg://proxy?server=Lashboy.muzanesghy.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09)
 
-#### [Proxy 15](tg://proxy?server=ad4.arixo.shop&port=443&secret=eec699329f2f8c2d33cd1e1a9f10e5d32d6164312e617269786f2e73686f70)
+#### [Proxy 15](tg://proxy?server=new7.mizanmizanesgh.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09)
 
 ### [ProxyDaemi](https://t.me/ProxyDaemi)
 
 #### [Proxy 1](tg://proxy?server=server2.server2-5mk.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d)
 
 #### [Proxy 2](tg://proxy?server=abcd.server2-5mk.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d)
+
+#### [Proxy 3](tg://proxy?server=api.server2-5mk.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d)
+
+#### [Proxy 4](tg://proxy?server=for--you.server2-5mk.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d)
