@@ -1,6 +1,6 @@
 # [MahsaNet](https://t.me/mahsa_net)
 
-## Free Telegram Proxy (Last Update: 2026-08-02 04:36:32)
+## Free Telegram Proxy (Last Update: 2026-08-02 11:06:23)
 
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 
@@ -22,17 +22,17 @@
 
 #### [Proxy 9](tg://proxy?server=65.21.83.248&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0)
 
-#### [Proxy 10](tg://proxy?server=65.21.205.29&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0)
+#### [Proxy 10](tg://proxy?server=r1.balebale.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09)
 
-#### [Proxy 11](tg://proxy?server=r1.balebale.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09)
+#### [Proxy 11](tg://proxy?server=Lashboy.muzanesghy.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09)
 
-#### [Proxy 12](tg://proxy?server=Lashboy.muzanesghy.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09)
+#### [Proxy 12](tg://proxy?server=new7.mizanmizanesgh.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09)
 
-#### [Proxy 13](tg://proxy?server=new7.mizanmizanesgh.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09)
+#### [Proxy 13](tg://proxy?server=login.kerfilia.info&port=6775&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d)
 
-#### [Proxy 14](tg://proxy?server=login.kerfilia.info&port=6775&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d)
+#### [Proxy 14](tg://proxy?server=api-web.asiaadomainsshatelhamrahaval.co.uk.&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D)
 
-#### [Proxy 15](tg://proxy?server=api-web.asiaadomainsshatelhamrahaval.co.uk.&port=443&secret=7t3_BeZaaaan_RoooooSH_93ZWIuYmFsZS5haQ%3D%3D)
+#### [Proxy 15](tg://proxy?server=New1.ugtd8sxxcyt.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09)
 
 ### [ProxyDaemi](https://t.me/ProxyDaemi)
 
