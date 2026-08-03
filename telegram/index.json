@@ -1,6 +1,5 @@
 {
   "@ProxyDaemi": [
-    "https://t.me/proxy?server=abcd.server2-5mk.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
     "https://t.me/proxy?server=api.server2-5mk.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
     "https://t.me/proxy?server=server2.server2-5mk.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
     "https://t.me/proxy?server=for--you.server2-5mk.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
@@ -22,5 +21,5 @@
     "https://t.me/proxy?server=Empire-persia.iran.hey-gardash.info.&port=1080&secret=79e344818749bd7ac519130220c25d09",
     "https://t.me/proxy?server=surge.antitspu.com&port=443&secret=ee685550b95ea37738b83fc880bc93493473757267652e616e7469747370752e636f6d"
   ],
-  "last_updated": 1785756977
+  "last_updated": 1785780379
 }
