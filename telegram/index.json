@@ -2,8 +2,7 @@
   "@ProxyDaemi": [
     "https://t.me/proxy?server=marginal-plum.server-space52.info&port=88&secret=7hYDAQIAAQAB_AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20%3D",
     "https://t.me/proxy?server=kimi.server-space52.info&port=88&secret=7hYDAQIAAQAB_AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20%3D",
-    "https://t.me/proxy?server=loud-teal.server-space52.info&port=88&secret=7hYDAQIAAQAB_AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20%3D",
-    "https://t.me/proxy?server=melodic-green.server-space52.info&port=88&secret=7hYDAQIAAQAB_AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20%3D"
+    "https://t.me/proxy?server=loud-teal.server-space52.info&port=88&secret=7hYDAQIAAQAB_AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20%3D"
   ],
   "@ProxyMTProto": [
     "https://t.me/proxy?server=ssh.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519130220c25d09",
@@ -22,5 +21,5 @@
     "https://t.me/proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
     "https://t.me/proxy?server=bala.hastim.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d"
   ],
-  "last_updated": 1788635175
+  "last_updated": 1788638780
 }
