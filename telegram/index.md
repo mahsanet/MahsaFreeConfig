@@ -1,6 +1,6 @@
 # [MahsaNet](https://t.me/mahsa_net)
 
-## Free Telegram Proxy (Last Update: 2026-09-12 10:06:09)
+## Free Telegram Proxy (Last Update: 2026-09-12 16:36:10)
 
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 
@@ -14,25 +14,25 @@
 
 #### [Proxy 5](tg://proxy?server=ir.cheap-ass-domain.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ)
 
-#### [Proxy 6](tg://proxy?server=ving.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 6](tg://proxy?server=ir.ataman.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ)
 
-#### [Proxy 7](tg://proxy?server=ir.ataman.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ)
+#### [Proxy 7](tg://proxy?server=135.181.129.162&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0)
 
-#### [Proxy 8](tg://proxy?server=135.181.129.162&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0)
+#### [Proxy 8](tg://proxy?server=pesar.nanaz.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ)
 
-#### [Proxy 9](tg://proxy?server=pesar.nanaz.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ)
+#### [Proxy 9](tg://proxy?server=ma.hastim.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d)
 
-#### [Proxy 10](tg://proxy?server=ma.hastim.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d)
+#### [Proxy 10](tg://proxy?server=uptime.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 
-#### [Proxy 11](tg://proxy?server=uptime.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 11](tg://proxy?server=116.202.189.213&port=8443&secret=dd79e344818749bd7ac519130220c25d09)
 
-#### [Proxy 12](tg://proxy?server=116.202.189.213&port=8443&secret=dd79e344818749bd7ac519130220c25d09)
+#### [Proxy 12](tg://proxy?server=136.243.195.203&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0)
 
-#### [Proxy 13](tg://proxy?server=136.243.195.203&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0)
+#### [Proxy 13](tg://proxy?server=bonus.growthtrade.eu&port=443&secret=7g__EarnMoneyWithUs__gJ5YS5ydQ)
 
-#### [Proxy 14](tg://proxy?server=bonus.growthtrade.eu&port=443&secret=7g__EarnMoneyWithUs__gJ5YS5ydQ)
+#### [Proxy 14](tg://proxy?server=komi3er.fesgheli.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 
-#### [Proxy 15](tg://proxy?server=komi3er.fesgheli.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 15](tg://proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275)
 
 ### [ProxyDaemi](https://t.me/ProxyDaemi)
 
