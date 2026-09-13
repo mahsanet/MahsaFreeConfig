@@ -1,6 +1,6 @@
 # [MahsaNet](https://t.me/mahsa_net)
 
-## Free Telegram Proxy (Last Update: 2026-09-13 02:06:15)
+## Free Telegram Proxy (Last Update: 2026-09-13 06:36:16)
 
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 
@@ -20,24 +20,22 @@
 
 #### [Proxy 8](tg://proxy?server=uptime.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 
-#### [Proxy 9](tg://proxy?server=116.202.189.213&port=8443&secret=dd79e344818749bd7ac519130220c25d09)
+#### [Proxy 9](tg://proxy?server=136.243.195.203&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0)
 
-#### [Proxy 10](tg://proxy?server=136.243.195.203&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0)
+#### [Proxy 10](tg://proxy?server=bonus.growthtrade.eu&port=443&secret=7g__EarnMoneyWithUs__gJ5YS5ydQ)
 
-#### [Proxy 11](tg://proxy?server=bonus.growthtrade.eu&port=443&secret=7g__EarnMoneyWithUs__gJ5YS5ydQ)
+#### [Proxy 11](tg://proxy?server=komi3er.fesgheli.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 
-#### [Proxy 12](tg://proxy?server=komi3er.fesgheli.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 12](tg://proxy?server=sahel.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 
-#### [Proxy 13](tg://proxy?server=sahel.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 13](tg://proxy?server=puot.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 
-#### [Proxy 14](tg://proxy?server=puot.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 14](tg://proxy?server=ving.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 
-#### [Proxy 15](tg://proxy?server=ving.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 15](tg://proxy?server=ir.genesbyjohn.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ)
 
 ### [ProxyDaemi](https://t.me/ProxyDaemi)
 
-#### [Proxy 1](tg://proxy?server=91.234.147.6.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D)
+#### [Proxy 1](tg://proxy?server=91.234.147.5.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D)
 
-#### [Proxy 2](tg://proxy?server=91.234.147.5.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D)
-
-#### [Proxy 3](tg://proxy?server=91.234.147.8.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D)
+#### [Proxy 2](tg://proxy?server=91.234.147.8.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D)
