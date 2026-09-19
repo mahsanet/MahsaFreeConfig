@@ -1,6 +1,6 @@
 # [MahsaNet](https://t.me/mahsa_net)
 
-## Free Telegram Proxy (Last Update: 2026-09-19 16:06:11)
+## Free Telegram Proxy (Last Update: 2026-09-19 19:06:12)
 
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 
@@ -39,5 +39,3 @@
 #### [Proxy 1](tg://proxy?server=91.234.147.15.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D)
 
 #### [Proxy 2](tg://proxy?server=91.234.147.8.server-space52.info&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D)
-
-#### [Proxy 3](tg://proxy?server=91.234.147.13.aprawood.ir&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D)
