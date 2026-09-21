@@ -1,6 +1,6 @@
 # [MahsaNet](https://t.me/mahsa_net)
 
-## Free Telegram Proxy (Last Update: 2026-09-21 17:06:12)
+## Free Telegram Proxy (Last Update: 2026-09-21 18:06:09)
 
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 
@@ -28,11 +28,11 @@
 
 #### [Proxy 12](tg://proxy?server=e3fand.fesgheli.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 
-#### [Proxy 13](tg://proxy?server=bimeh.my-moon.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 13](tg://proxy?server=severjadid.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09)
 
-#### [Proxy 14](tg://proxy?server=severjadid.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09)
+#### [Proxy 14](tg://proxy?server=paeez.delroba.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 
-#### [Proxy 15](tg://proxy?server=paeez.delroba.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 15](tg://proxy?server=ir.atcfirealarms.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ)
 
 ### [ProxyDaemi](https://t.me/ProxyDaemi)
 
