@@ -1,6 +1,6 @@
 # [MahsaNet](https://t.me/mahsa_net)
 
-## Free Telegram Proxy (Last Update: 2026-09-23 13:36:16)
+## Free Telegram Proxy (Last Update: 2026-09-23 14:06:24)
 
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 
@@ -20,19 +20,19 @@
 
 #### [Proxy 8](tg://proxy?server=ir.my-pv.info&port=443&secret=EERighJJvXrFGRMCIMjdCQ)
 
-#### [Proxy 9](tg://proxy?server=for.iranian.ir.zigoraaat.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 9](tg://proxy?server=ir.closcloud.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 
-#### [Proxy 10](tg://proxy?server=ir.closcloud.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 10](tg://proxy?server=im.dumaniltd.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 
-#### [Proxy 11](tg://proxy?server=im.dumaniltd.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 11](tg://proxy?server=ir.engematica.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ)
 
-#### [Proxy 12](tg://proxy?server=ir.engematica.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ)
+#### [Proxy 12](tg://proxy?server=just-iraninan.com.the-nice-mtproto.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 
-#### [Proxy 13](tg://proxy?server=just-iraninan.com.the-nice-mtproto.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 13](tg://proxy?server=ir.xeonxu.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ)
 
-#### [Proxy 14](tg://proxy?server=ir.xeonxu.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ)
+#### [Proxy 14](tg://proxy?server=2.namenewok.info&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 
-#### [Proxy 15](tg://proxy?server=2.namenewok.info&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 15](tg://proxy?server=e.networkmodeai.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09)
 
 ### [ProxyDaemi](https://t.me/ProxyDaemi)
 
