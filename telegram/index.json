@@ -2,13 +2,7 @@
   "@ProxyDaemi": [
     "https://t.me/proxy?server=web.server-space52.info&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D",
     "https://t.me/proxy?server=server.server-space52.info&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D",
-    "https://t.me/proxy?server=api.server-space52.info&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D",
-    "https://t.me/proxy?server=proxy-daemi-s2.server-space52.info&port=80&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D",
-    "https://t.me/proxy?server=proxy-daemi-s3.server-space52.info&port=80&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D",
-    "https://t.me/proxy?server=proxy-daemi-s1.server-space52.info&port=80&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D",
-    "https://t.me/proxy?server=Server2.server-space52.info&port=80&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D",
-    "https://t.me/proxy?server=Server4.server-space52.info&port=80&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D",
-    "https://t.me/proxy?server=Server1.server-space52.info&port=80&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D"
+    "https://t.me/proxy?server=api.server-space52.info&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D"
   ],
   "@ProxyMTProto": [
     "https://t.me/proxy?server=paeez.delroba.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
@@ -16,16 +10,16 @@
     "https://t.me/proxy?server=nasho.poolaki.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
     "https://t.me/proxy?server=nocloudnew.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
     "https://t.me/proxy?server=mio.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "https://t.me/proxy?server=New.nchnch.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09",
     "https://t.me/proxy?server=Lashboy.muzanesghy.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09",
     "https://t.me/proxy?server=ssh.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519130220c25d09",
     "https://t.me/proxy?server=ssh2.best-moz.info&port=22&secret=dd79e344818749bd7ac519130220c25d09",
-    "https://t.me/proxy?server=mamadgoli.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09",
     "https://t.me/proxy?server=ir.my-pv.info&port=443&secret=EERighJJvXrFGRMCIMjdCQ",
     "https://t.me/proxy?server=dns.speed-benz.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "https://t.me/proxy?server=alhosein.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09",
     "https://t.me/proxy?server=honar.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
-    "https://t.me/proxy?server=ir.lv223.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
+    "https://t.me/proxy?server=ir.lv223.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
+    "https://t.me/proxy?server=mofid.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
+    "https://t.me/proxy?server=mahi.poolaki.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
+    "https://t.me/proxy?server=ving.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   ],
-  "last_updated": 1790960804
+  "last_updated": 1791047200
 }
