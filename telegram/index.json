@@ -4,7 +4,8 @@
     "https://t.me/proxy?server=proxy-daemi-s1.server-space52.info&port=80&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D",
     "https://t.me/proxy?server=proxy-daemi-s3.server-space52.info&port=80&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D",
     "https://t.me/proxy?server=Server1.server-space52.info&port=80&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D",
-    "https://t.me/proxy?server=Server2.server-space52.info&port=80&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D"
+    "https://t.me/proxy?server=Server2.server-space52.info&port=80&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D",
+    "https://t.me/proxy?server=Server4.server-space52.info&port=80&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D"
   ],
   "@ProxyMTProto": [
     "https://t.me/proxy?server=paeez.delroba.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
@@ -23,5 +24,5 @@
     "https://t.me/proxy?server=mahi.poolaki.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ",
     "https://t.me/proxy?server=ving.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
   ],
-  "last_updated": 1791189414
+  "last_updated": 1791191217
 }
