@@ -1,6 +1,6 @@
 # [MahsaNet](https://t.me/mahsa_net)
 
-## Free Telegram Proxy (Last Update: 2026-10-06 10:37:02)
+## Free Telegram Proxy (Last Update: 2026-10-06 11:06:19)
 
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 
@@ -22,17 +22,17 @@
 
 #### [Proxy 9](tg://proxy?server=server.syscloudio.co.uk&port=8443&secret=EERighJJvXrFGRMCIMJdCQ)
 
-#### [Proxy 10](tg://proxy?server=im.dumaniltd.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 10](tg://proxy?server=ir.closcloud.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 
-#### [Proxy 11](tg://proxy?server=ir.closcloud.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 11](tg://proxy?server=support.infinityhalo.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 
-#### [Proxy 12](tg://proxy?server=support.infinityhalo.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 12](tg://proxy?server=severjadid.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09)
 
-#### [Proxy 13](tg://proxy?server=severjadid.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09)
+#### [Proxy 13](tg://proxy?server=New.nchnch.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09)
 
-#### [Proxy 14](tg://proxy?server=New.nchnch.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09)
+#### [Proxy 14](tg://proxy?server=Lashboy.muzanesghy.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09)
 
-#### [Proxy 15](tg://proxy?server=Lashboy.muzanesghy.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09)
+#### [Proxy 15](tg://proxy?server=topproxt.asia&port=443&secret=eebbb00c5d6d8a742b1a762499eb7d4912617669746f2e7275)
 
 ### [ProxyDaemi](https://t.me/ProxyDaemi)
 
