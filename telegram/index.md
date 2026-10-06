@@ -1,6 +1,6 @@
 # [MahsaNet](https://t.me/mahsa_net)
 
-## Free Telegram Proxy (Last Update: 2026-10-06 14:36:25)
+## Free Telegram Proxy (Last Update: 2026-10-06 15:06:28)
 
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 
@@ -27,6 +27,10 @@
 #### [Proxy 11](tg://proxy?server=full-vasl.ir-xyz.gdhbvjshjrf.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 
 #### [Proxy 12](tg://proxy?server=khazar.sea.ir.pugfhtrdyted.info.&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+
+#### [Proxy 13](tg://proxy?server=im.dumaniltd.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+
+#### [Proxy 14](tg://proxy?server=support.infinityhalo.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 
 ### [ProxyDaemi](https://t.me/ProxyDaemi)
 
