@@ -1,6 +1,6 @@
 # [MahsaNet](https://t.me/mahsa_net)
 
-## Free Telegram Proxy (Last Update: 2026-10-27 08:07:03)
+## Free Telegram Proxy (Last Update: 2026-10-27 08:36:09)
 
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 
@@ -14,14 +14,34 @@
 
 #### [Proxy 5](tg://proxy?server=3etare.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 
-#### [Proxy 6](tg://proxy?server=x.shmelproxy.top&port=443&secret=eefc2612ff65a557fddf1d1b334395ef237975672d6c696e6b2e7275)
+#### [Proxy 6](tg://proxy?server=cdn1.graduat.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 
-#### [Proxy 7](tg://proxy?server=cdn1.graduat.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 7](tg://proxy?server=cdn1.magli200.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 
-#### [Proxy 8](tg://proxy?server=cdn1.magli200.info&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+#### [Proxy 8](tg://proxy?server=nocloudnew.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+
+#### [Proxy 9](tg://proxy?server=honar.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+
+#### [Proxy 10](tg://proxy?server=mofid.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+
+#### [Proxy 11](tg://proxy?server=new7.mizanmizanesgh.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09)
+
+#### [Proxy 12](tg://proxy?server=severjadid.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09)
+
+#### [Proxy 13](tg://proxy?server=ir-ir.panhandleflyers.info&port=8443&secret=EERighJJvXrFGRMCIMjdCQ)
 
 ### [ProxyDaemi](https://t.me/ProxyDaemi)
 
 #### [Proxy 1](tg://proxy?server=api.godserver52.info&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D)
 
 #### [Proxy 2](tg://proxy?server=dpi.server-space52.info&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D)
+
+#### [Proxy 3](tg://proxy?server=Magic.godserver52.info&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D)
+
+#### [Proxy 4](tg://proxy?server=loud-teal.godserver52.info&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D)
+
+#### [Proxy 5](tg://proxy?server=server2.server-space52.info&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D)
+
+#### [Proxy 6](tg://proxy?server=web.server-space52.info&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D)
+
+#### [Proxy 7](tg://proxy?server=server1.server-space52.info&port=443&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D)
