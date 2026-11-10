@@ -1,4 +1,9 @@
 {
+  "@ProxyDaemi": [
+    "https://t.me/proxy?server=server93.server-space52.info&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D",
+    "https://t.me/proxy?server=server83.server-space52.info&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D",
+    "https://t.me/proxy?server=server63.server-space52.info&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D"
+  ],
   "@ProxyMTProto": [
     "https://t.me/proxy?server=Suodbo.co.uk.&port=443&secret=eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
     "https://t.me/proxy?server=ccc.horizon555.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
@@ -16,5 +21,5 @@
     "https://t.me/proxy?server=mofid.saheledarya.co.uk.&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ",
     "https://t.me/proxy?server=ir.pcspeedyfix.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ"
   ],
-  "last_updated": 1794312364
+  "last_updated": 1794317768
 }
