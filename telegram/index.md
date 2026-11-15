@@ -1,6 +1,6 @@
 # [MahsaNet](https://t.me/mahsa_net)
 
-## Free Telegram Proxy (Last Update: 2026-11-14 11:07:00)
+## Free Telegram Proxy (Last Update: 2026-11-15 14:07:02)
 
 ### [ProxyMTProto](https://t.me/ProxyMTProto)
 
@@ -40,12 +40,8 @@
 
 #### [Proxy 2](tg://proxy?server=S1.server-space52.info&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D)
 
-#### [Proxy 3](tg://proxy?server=s2.server-space52.info&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D)
+#### [Proxy 3](tg://proxy?server=server93.server-space52.info&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D)
 
-#### [Proxy 4](tg://proxy?server=server93.server-space52.info&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D)
+#### [Proxy 4](tg://proxy?server=lol-lock.godserver52.info&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D)
 
-#### [Proxy 5](tg://proxy?server=lol-lock.godserver52.info&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D)
-
-#### [Proxy 6](tg://proxy?server=s3.server-space52.info&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D)
-
-#### [Proxy 7](tg://proxy?server=server63.server-space52.info&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D)
+#### [Proxy 5](tg://proxy?server=server63.server-space52.info&port=2020&secret=AAAAAAAAAAAAAAAAAAAAAA%3D%3D)
