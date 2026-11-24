@@ -1,7 +1,6 @@
 {
   "@ProxyMTProto": [
-    "https://t.me/proxy?server=wbs.regmail.org&port=443&secret=ee5610dcb9c93a1c5dd38d965b0462ad2c7762732e7265676d61696c2e6f7267",
     "https://t.me/proxy?server=cdn.divpal.com&port=8443&secret=dd71889eb517157210d61df330a5f11d95"
   ],
-  "last_updated": 1795509379
+  "last_updated": 1795511172
 }
