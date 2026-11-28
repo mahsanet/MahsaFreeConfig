@@ -7,8 +7,7 @@
   ],
   "@ProxyMTProto": [
     "https://t.me/proxy?server=ir-landofgods.fourie.co.uk&port=8443&secret=EERighJJvXrFGRMCIMjdCQ",
-    "https://t.me/proxy?server=94.184.39.150&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b",
-    "https://t.me/proxy?server=78-46-201-45.sslip.io&port=443&secret=a67cd6add6276704167526bdea169979"
+    "https://t.me/proxy?server=94.184.39.150&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b"
   ],
-  "last_updated": 1795876569
+  "last_updated": 1795889175
 }
